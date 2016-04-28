@@ -24,3 +24,4 @@ figures/01_singleexample_dailymag/01_singleexample_dailymag.png
 figures/01_DailyMagnitudes/01_DailyMagnitudes.png
 section_Weather_Influence_based_Features__.tex
 section_Pattern_based_Features_label__.tex
+section_Implementation_Results_Characterization_of__.tex
