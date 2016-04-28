@@ -19,3 +19,4 @@ figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
 subsection_Interview_and_Site_Visit__1.tex
 subsection_Online_Open_Case_Studies__.tex
 section_Statistics_based_Features_label__.tex
+subsection_Daily_Magnitude_Metrics_This__.tex
