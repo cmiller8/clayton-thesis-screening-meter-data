@@ -12,3 +12,4 @@ subsection_Operations_Optimization_and_Controls__.tex
 subsection_Anomaly_Detection_label_AnomalyDetection__.tex
 section_Case_Studies_label_sec__.tex
 figures/worldmap/worldmap.png
+figures/timezonesbar1/timezonesbar1.png
