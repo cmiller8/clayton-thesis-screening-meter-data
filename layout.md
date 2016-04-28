@@ -1,4 +1,5 @@
 untitled.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Research_Questions_Several_questions__.tex
+subsection_Objectives_The_objectives_of__.tex
 section_Unsupervised_Feature_Extraction_from__.tex
