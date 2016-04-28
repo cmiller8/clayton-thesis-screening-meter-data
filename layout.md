@@ -2,6 +2,7 @@ untitled.tex
 subsection_Conventional_Building_Analysis_A__.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
+figures/TemporalFeatures/TemporalFeatures.png
 subsection_Research_Questions_Several_questions__.tex
 subsection_Objectives_The_objectives_of__.tex
 section_Resarch_Context_Feature_Extraction__.tex
