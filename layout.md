@@ -22,3 +22,4 @@ section_Statistics_based_Features_label__.tex
 subsection_Daily_Magnitude_Metrics_This__.tex
 figures/01_singleexample_dailymag/01_singleexample_dailymag.png
 figures/01_DailyMagnitudes/01_DailyMagnitudes.png
+section_Describing_Weather_Influence_label__.tex
