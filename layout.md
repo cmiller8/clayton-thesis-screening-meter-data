@@ -1,4 +1,4 @@
 untitled.tex
 figures/TypicalFeatures/TypicalFeatures.png
-These_results_are_interpreted_as__.tex
+subsection_Objectives_The_objectives_of__.tex
 section_Unsupervised_Feature_Extraction_from__.tex
