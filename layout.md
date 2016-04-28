@@ -15,5 +15,6 @@ figures/worldmap/worldmap.png
 figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
+figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
 subsection_Interview_and_Site_Visit__1.tex
 subsection_Online_open_data_sets__.tex
