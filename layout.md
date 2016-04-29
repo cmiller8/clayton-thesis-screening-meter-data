@@ -32,7 +32,6 @@ figures/weathersensitivity/weathersensitivity.png
 The_correlation_coefficient_can_be__.tex
 figures/PrimarySecondaryClassroom_Cardiff_RiverbankSchool/PrimarySecondaryClassroom_Cardiff_RiverbankSchool.png
 figures/04_Spearman/04_Spearman.png
-figures/04_Daily_Specificity/04_Daily_Specificity.png
 section_Pattern_based_Features_label__.tex
 section_Implementation_Results_Characterization_of__.tex
 figures/measures/measures.png
