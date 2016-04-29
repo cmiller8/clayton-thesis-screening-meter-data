@@ -1,5 +1,5 @@
-untitled.tex
 Screening_Meter_Data_Unsupervised_Characterization__.tex
+untitled.tex
 subsection_Conventional_Building_Analysis_A__.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
