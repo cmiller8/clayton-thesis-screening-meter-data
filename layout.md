@@ -25,6 +25,7 @@ figures/01_DailyMagnitudes/01_DailyMagnitudes.png
 subsection_Regression_Metrics_label_sec__.tex
 section_Weather_Influence_based_Features__.tex
 subsection_Correlation_Coeffient_label_sec__.tex
+figures/weathersensitivity/weathersensitivity.png
 section_Pattern_based_Features_label__.tex
 section_Implementation_Results_Characterization_of__.tex
 figures/measures/measures.png
