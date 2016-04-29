@@ -41,6 +41,7 @@ figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
 figures/SAXBreakpoints/SAXBreakpoints.png
 figures/SAXCreationV2/SAXCreationV2.png
 figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png
+figures/DiscordSankeyExample/DiscordSankeyExample.png
 figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png
 subsection_Long_term_Pattern_Consistency__.tex
 section_Implementation_Results_Characterization_of__.tex
