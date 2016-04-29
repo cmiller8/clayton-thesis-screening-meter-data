@@ -25,6 +25,7 @@ figures/01_DailyMagnitudes/01_DailyMagnitudes.png
 subsection_Regression_Metrics_label_sec__.tex
 Daily_load_ratio_is_another__1.tex
 figures/02_singleexample_dailyloadratio/02_singleexample_dailyloadratio.png
+figures/02_DailyMinVsMax/02_DailyMinVsMax.png
 section_Weather_Influence_based_Features__.tex
 subsection_Correlation_Coeffient_label_sec__.tex
 figures/weathersensitivity/weathersensitivity.png
