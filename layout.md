@@ -24,6 +24,7 @@ figures/01_singleexample_dailymag/01_singleexample_dailymag.png
 figures/01_DailyMagnitudes/01_DailyMagnitudes.png
 Daily_load_ratio_is_another__.tex
 subsection_Regression_Metrics_label_sec__.tex
+Daily_load_ratio_is_another__1.tex
 section_Weather_Influence_based_Features__.tex
 subsection_Correlation_Coeffient_label_sec__.tex
 figures/weathersensitivity/weathersensitivity.png
