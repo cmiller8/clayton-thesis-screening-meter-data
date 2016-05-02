@@ -1,1 +1,10 @@
 As in any data mining approach, data preprocessing is an important step to clean and standardize the data. In our approach, we first remove extreme point measurements that fall outside of three standard deviations, 3$\sigma$, of the mean, $\mu$, of the selected univariate data stream $x(t)$. The data are then normalized in order to create a dataset, $Z(t)$ with an approximate 0 mean and a standard deviation of close to 1 \cite{goldin_similiarity_1995}:
+
+\begin{equation}
+Z(t)=\frac{x(t) -\mu}{\sigma}
+\end{equation}
+% ,i \in N$$
+
+In the second step, we transform $Z(t)$ into a symbolic representation using SAX. It is one of the many means of representing time-series data to enhance the speed and usability of various analysis techniques. SAX is a type of Piecewise Aggregate Approximation (PAA) representation developed by Keogh et. al and it has been used extensively in numerous applications \cite{Lin:2007wb}. 
+
+In brief, the SAX transformation is as follows. The normalized time-series, $Z(t)$, is first broken down into $N$ individual non-overlapping subsequences. This step is known as \emph{chunking}, and the period length $N$ is based on a context-logical specific period \cite{Lin:2005bi}. In our situation $N$ is chosen as 24 hours due to the focus on daily performance characterization.  Each chunk is then further divided into $W$ equal sized segments. The mean of the data across each of these segments is calculated and an alphabetic character is assigned according where the mean lies within a set of vertical breakpoints, $B=\beta_1,...,\beta_{a-1}$. These breakpoints are calculated according to a chosen alphabet size, $A$, to create equiprobable regions based on a Gaussian distribution, as seen in Table~\ref{fig:SAXBreakpoints}.
