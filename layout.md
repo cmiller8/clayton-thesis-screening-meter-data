@@ -42,6 +42,7 @@ subsubsection_Dirunal_Pattern_Extraction_label__.tex
 figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
 As_in_any_data_mining__.tex
 figures/SAXBreakpoints/SAXBreakpoints.png
+Based_on_a_chosen_value__.tex
 figures/SAXCreationV2/SAXCreationV2.png
 figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png
 figures/DiscordSankeyExample/DiscordSankeyExample.png
