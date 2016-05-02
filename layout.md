@@ -68,6 +68,7 @@ figures/benchmarked/benchmarked.png
 section_Scalability_Across_Smart_Meter__.tex
 subsection_Predicting_SIC_Code_label__.tex
 figures/measures/measures.png
+Four_classification_models_were_then__1.tex
 figures/classificationimprovement_AMI/classificationimprovement_AMI.png
 figures/classificationconfusionmatrix/classificationconfusionmatrix.png
 subsection_Energy_Efficiency_Measure_Implementation__.tex
