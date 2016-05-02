@@ -62,7 +62,7 @@ figures/FeatureRange_byUse/FeatureRange_byUse.png
 subsubsection_Clustering_label_sec_clustering__.tex
 figures/clustering_weekly/clustering_weekly.png
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
-section_Implementation_Results_Enhanced_Benchmarking__.tex
+subsection_Enhanced_Benchmarking_label_sec__.tex
 figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
