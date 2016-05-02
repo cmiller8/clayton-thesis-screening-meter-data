@@ -38,7 +38,7 @@ figures/04_Spearman/04_Spearman.png
 subsubsection_Change_Point_Model_Regression__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 subsection_Pattern_based_Features_label__.tex
-subsection_Dirunal_Pattern_Extraction_label__.tex
+subsubsection_Dirunal_Pattern_Extraction_label__.tex
 figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
 figures/SAXBreakpoints/SAXBreakpoints.png
 figures/SAXCreationV2/SAXCreationV2.png
