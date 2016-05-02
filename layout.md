@@ -59,6 +59,7 @@ figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
 section_Implementation_Results_Enhanced_Benchmarking__.tex
 figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
+figures/buildingascompared/buildingascompared.png
 section_Implementation_Results_Scalability_Across__.tex
 figures/measures/measures.png
 figures/classificationconfusionmatrix/classificationconfusionmatrix.png
