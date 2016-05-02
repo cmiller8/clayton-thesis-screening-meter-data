@@ -56,6 +56,7 @@ figures/tfidfexample/tfidfexample.png
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
 subsection_Characterization_of_Building_Use__.tex
+section_Implementation_Results__.tex
 subsubsection_Clustering_label_sec_clustering__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
