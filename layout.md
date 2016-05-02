@@ -46,6 +46,7 @@ Based_on_a_chosen_value__.tex
 figures/SAXCreationV2/SAXCreationV2.png
 It_should_be_noted_that__.tex
 figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png
+Figure_ref_fig_saxdiscordsankey_visualizes__.tex
 figures/DiscordSankeyExample/DiscordSankeyExample.png
 figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatmapV2.png
 figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png
