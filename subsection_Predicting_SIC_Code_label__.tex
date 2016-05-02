@@ -1,6 +1,10 @@
 \subsection{Predicting SIC Code}
 \label{sec:predictinsiccode}
 
-The first task that the features can be used for is to characterize the building stock. The goal of this effort is to enhance the process of data integration between the KITT and AMI databases. We use the temporal features to predict various conventional features or meta-data about the accounts in order to suggest where the AMI account maps to a KITT record. Or if a KITT record doesn’t exist for the account, one can be self-populated using the most probable attributes from the prediction process. 
+The first task that the features can be used for is to characterize the general industry for which a building is being used. We use the temporal features to predict various conventional features or about the accounts. As a proof-of-concept about this task, temporal data is used to build a classification model to predict the most common meta-data attribute of a building – its general use type. The one digit SIC classification is used in this preliminary step. The breakdown of these categories of the AMI data is found in Figure \ref{fig:meanmodelacc}.
 
-As a proof-of-concept about this task, we use the temporal data to build a classification model to predict the most common meta-data attribute of a building – its general use type. We use the one digit SIC classification to cover the entire range of AMI data in this preliminary step. The breakdown of these categories of the AMI data is found in Figure \ref{fig:meanmodelacc}.
+% Or if a KITT record doesn’t exist for the account, one can be self-populated using the most probable attributes from the prediction process. 
+
+
+
+% The goal of this effort is to enhance the process of data integration between the raw temporal data and the characteristic meta-data.
