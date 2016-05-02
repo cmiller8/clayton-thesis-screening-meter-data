@@ -67,6 +67,7 @@ figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
 section_Scalability_label_sec_scalability__.tex
+subsection_Predicting_SIC_Code_label__.tex
 figures/measures/measures.png
 figures/classificationconfusionmatrix/classificationconfusionmatrix.png
 figures/classificationimprovement_AMI/classificationimprovement_AMI.png
