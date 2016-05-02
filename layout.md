@@ -44,7 +44,7 @@ As_in_any_data_mining__.tex
 figures/SAXBreakpoints/SAXBreakpoints.png
 Based_on_a_chosen_value__.tex
 figures/SAXCreationV2/SAXCreationV2.png
-It_should_be_noted_that__.tex
+The_individual_subsequences_N_are__.tex
 figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png
 Figure_ref_fig_saxdiscordsankey_visualizes__.tex
 figures/DiscordSankeyExample/DiscordSankeyExample.png
