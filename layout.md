@@ -71,3 +71,4 @@ figures/measures/measures.png
 figures/classificationconfusionmatrix/classificationconfusionmatrix.png
 figures/classificationimprovement_AMI/classificationimprovement_AMI.png
 section_Conclusion_and_Outlook_label__.tex
+subsection_Energy_Efficiency_Measure_Implementation__.tex
