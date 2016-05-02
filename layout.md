@@ -55,7 +55,6 @@ subsubsection_Pattern_Specificity_label_sec__.tex
 figures/tfidfexample/tfidfexample.png
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
-section_Implementation_Results__.tex
 subsection_Characterization_of_Building_Use__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
