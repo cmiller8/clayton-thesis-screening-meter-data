@@ -55,6 +55,7 @@ figures/tfidfexample/tfidfexample.png
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
 section_Implementation_Results_Characterization_of__.tex
+figures/FeatureRange/FeatureRange.png
 section_Implementation_Results_Enhanced_Benchmarking__.tex
 section_Implementation_Results_Scalability_Across__.tex
 figures/measures/measures.png
