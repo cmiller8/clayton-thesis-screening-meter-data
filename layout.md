@@ -65,7 +65,7 @@ figures/05_Weekly_Specificity/05_Weekly_Specificity.png
 subsection_Characterization_of_Building_Use__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
-subsection_Clustering_of_buildings_according__.tex
+subsection_Clustering_of_buildings_label__.tex
 figures/clustering_weekly/clustering_weekly.png
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
 subsection_Enhanced_Benchmarking_label_sec__.tex
