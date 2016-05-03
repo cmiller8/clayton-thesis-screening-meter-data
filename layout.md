@@ -10,7 +10,7 @@ subsection_Smart_Meter_Analytics_label__.tex
 subsection_Portfolio_Analytics_label_PortfolioAnalytics__.tex
 subsection_Operations_Optimization_and_Controls__.tex
 subsection_Anomaly_Detection_label_AnomalyDetection__.tex
-section_Case_Studies_label_sec__.tex
+section_Case_Studies_and_Empirical__.tex
 figures/worldmap/worldmap.png
 figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
