@@ -64,6 +64,7 @@ subsubsection_Pattern_Specificity_label_sec__.tex
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
 subsection_Characterization_of_Building_Use__.tex
+subsubsection_Rare_Rule_Anomaly_Detection__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
 subsection_Detection_of_Mis_classified__.tex
