@@ -37,6 +37,7 @@ figures/04_Spearman/04_Spearman.png
 subsection_Regression_Model_based_Features__.tex
 subsubsection_Load_shape_regression_based__.tex
 figures/loadshape_example/loadshape_example.png
+figures/loadshape_heatmap/loadshape_heatmap.png
 subsubsection_Change_Point_Model_Regression__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 subsection_Pattern_based_Features_label__.tex
