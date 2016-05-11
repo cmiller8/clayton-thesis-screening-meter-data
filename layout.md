@@ -33,6 +33,7 @@ subsubsection_Spearman_Rank_Order_Correlation__.tex
 figures/weathersensitivity/weathersensitivity.png
 The_correlation_coefficient_can_be__.tex
 figures/spearman_example/spearman_example.png
+figures/spearman_heatmap/spearman_heatmap.png
 subsection_Regression_Model_based_Features__.tex
 subsubsection_Load_shape_regression_based__.tex
 figures/loadshape_example/loadshape_example.png
