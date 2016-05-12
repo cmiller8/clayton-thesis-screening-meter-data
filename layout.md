@@ -75,8 +75,8 @@ subsection_Enhanced_Benchmarking_label_sec__.tex
 figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
-section_Scalability_Across_Smart_Meter__.tex
 section_Design_phase_and_Simualation__.tex
+section_Scalability_Across_Smart_Meter__.tex
 subsection_Predicting_SIC_Code_label__.tex
 figures/measures/measures.png
 Four_classification_models_were_then__1.tex
