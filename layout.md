@@ -41,6 +41,7 @@ figures/loadshape_heatmap/loadshape_heatmap.png
 subsubsection_Change_Point_Model_Regression__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 figures/cooling_example/cooling_example.png
+figures/heating_example/heating_example.png
 subsection_Pattern_based_Features_label__.tex
 subsubsection_Dirunal_Pattern_Extraction_label__.tex
 figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
