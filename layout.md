@@ -66,8 +66,8 @@ subsubsection_Long_term_Pattern_Consistency__.tex
 figures/breakout_example/breakout_example.png
 subsubsection_Pattern_Specificity_label_sec__.tex
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
-figures/breakouts_heatmap/breakouts_heatmap.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
+figures/breakouts_heatmap/breakouts_heatmap.png
 subsubsection_Rare_Rule_Anomaly_Detection__.tex
 subsection_Characterization_of_Building_Use__.tex
 figures/FeatureRange/FeatureRange.png
