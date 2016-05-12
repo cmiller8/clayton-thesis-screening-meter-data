@@ -43,6 +43,7 @@ figures/Changepointmodelexample/Changepointmodelexample.png
 figures/cooling_example/cooling_example.png
 figures/heating_example/heating_example.png
 figures/cooling_heatmap/cooling_heatmap.png
+figures/heating_heatmap/heating_heatmap.png
 subsection_Pattern_based_Features_label__.tex
 subsubsection_Dirunal_Pattern_Extraction_label__.tex
 figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
