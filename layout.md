@@ -75,7 +75,7 @@ figures/FeatureRange_byUse/FeatureRange_byUse.png
 subsection_Detection_of_Mis_classified__.tex
 figures/clustering_weekly/clustering_weekly.png
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
-subsection_Enhanced_Benchmarking_label_sec__.tex
+section_Characterization_of_Building_Performance__.tex
 figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
