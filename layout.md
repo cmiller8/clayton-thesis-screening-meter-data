@@ -59,6 +59,7 @@ In_general_there_are_six__.tex
 figures/dayfilter_example1/dayfilter_example1.png
 figures/dayfilter_heatmap/dayfilter_heatmap.png
 subsubsection_Long_term_Pattern_Consistency__.tex
+figures/breakout_example/breakout_example.png
 subsubsection_Pattern_Specificity_label_sec__.tex
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
 figures/05_Weekly_Specificity/05_Weekly_Specificity.png
