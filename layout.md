@@ -64,7 +64,6 @@ figures/dayfilter_example1/dayfilter_example1.png
 figures/dayfilter_heatmap/dayfilter_heatmap.png
 subsubsection_Pattern_Specificity_label_sec__.tex
 figures/04_Daily_Specificity1/04_Daily_Specificity1.png
-figures/05_Weekly_Specificity/05_Weekly_Specificity.png
 subsubsection_Rare_Rule_Anomaly_Detection__.tex
 subsubsection_Long_term_Pattern_Consistency__.tex
 figures/breakout_example/breakout_example.png
