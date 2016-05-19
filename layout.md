@@ -70,6 +70,7 @@ subsubsection_Long_term_Pattern_Consistency__.tex
 figures/breakout_example/breakout_example.png
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
+section_Temporal_Behaviour_Archetypes_label__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
 subsection_Detection_of_Mis_classified__.tex
