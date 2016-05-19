@@ -70,7 +70,6 @@ subsubsection_Long_term_Pattern_Consistency__.tex
 figures/breakout_example/breakout_example.png
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
-section_Temporal_Behaviour_Archetypes_label__.tex
 figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
 subsection_Detection_of_Mis_classified__.tex
@@ -81,6 +80,7 @@ figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
 section_Characterization_for_Simulation_and__.tex
+section_Temporal_Behaviour_Archetypes_label__.tex
 section_Scalability_Across_Smart_Meter__.tex
 subsection_Predicting_General_Industry_Membership__.tex
 figures/measures/measures.png
