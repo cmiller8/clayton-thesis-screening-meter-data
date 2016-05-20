@@ -82,7 +82,7 @@ figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
 section_Characterization_for_Simulation_and__.tex
-section_Prediction_of_Energy_saving__.tex
+section_Prediction_of_Building_Category__.tex
 subsection_Predicting_General_Industry_Membership__.tex
 figures/measures/measures.png
 Four_classification_models_were_then__1.tex
