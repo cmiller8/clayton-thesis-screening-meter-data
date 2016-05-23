@@ -45,6 +45,7 @@ figures/heating_example/heating_example.png
 figures/cooling_heatmap/cooling_heatmap.png
 figures/heating_heatmap/heating_heatmap.png
 subsubsection_Seasonal_Decomposition_label_sec__.tex
+figures/stl_explanation/stl_explanation.png
 subsection_Pattern_based_Features_label__.tex
 subsubsection_Dirunal_Pattern_Extraction_label__.tex
 figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png
