@@ -83,6 +83,7 @@ subsection_Detection_of_Mis_classified__.tex
 figures/clustering_weekly/clustering_weekly.png
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
 section_Characterization_of_Building_Performance__.tex
+subsection_Discussion_label_usetype_discussion__.tex
 figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
