@@ -87,6 +87,7 @@ figures/3FeatureRange_byConsumption/3FeatureRange_byConsumption.png
 figures/buildingascompared/buildingascompared.png
 figures/benchmarked/benchmarked.png
 section_Characterization_of_Energy_Savings__.tex
+section_Characterization_of_Operations_Strategies__.tex
 subsection_Predicting_General_Industry_Membership__.tex
 figures/measures/measures.png
 Four_classification_models_were_then__1.tex
