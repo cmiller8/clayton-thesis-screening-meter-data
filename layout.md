@@ -81,6 +81,7 @@ subsection_Characterization_of_Building_Use__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 figures/FeatureImportance_Building Use Type1/FeatureImportance_Building Use Type1.png
 subsection_Detection_of_Mis_classified__.tex
+A_deeper_investigation_of_the__.tex
 figures/clustering_weekly/clustering_weekly.png
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
 subsection_Discussion_label_usetype_discussion__.tex
