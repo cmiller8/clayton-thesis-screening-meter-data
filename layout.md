@@ -77,7 +77,6 @@ subsubsection_Long_term_Pattern_Consistency__.tex
 figures/breakout_example/breakout_example.png
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
-figures/FeatureRange/FeatureRange.png
 figures/FeatureRange_byUse/FeatureRange_byUse.png
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 subsection_Detection_of_Mis_classified__.tex
