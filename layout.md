@@ -78,6 +78,7 @@ figures/breakout_example/breakout_example.png
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Use_of_Features_for__.tex
 subsection_Characterization_of_Building_Use__.tex
+subsection_Principal_Building_Use_label__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 figures/FeatureImportance_Building Use Type1/FeatureImportance_Building Use Type1.png
 A_deeper_investigation_of_the__.tex
