@@ -1,5 +1,5 @@
 untitled.tex
-subsection_Conventional_Building_Analysis_A__.tex
+subsection_Conventional_Commercial_Building_Characterization__.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
 figures/TemporalFeatures/TemporalFeatures.png
