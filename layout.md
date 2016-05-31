@@ -81,8 +81,8 @@ subsection_Characterization_of_Building_Use__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 figures/FeatureImportance_Building Use Type1/FeatureImportance_Building Use Type1.png
 A_deeper_investigation_of_the__.tex
-figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_1-5.png
 figures/Output_UnivDormVsClass_Top40/Output_UnivDormVsClass_Top40.png
+figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_1-5.png
 figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab_Dist.png
 subsection_Detection_of_Mis_classified__.tex
 figures/clustering_weekly/clustering_weekly.png
