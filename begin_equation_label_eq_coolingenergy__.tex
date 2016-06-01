@@ -1,6 +1,13 @@
+Equations \ref{eq:coolingenergy} and \ref{eq:heatingenergy} are used to predict energy energy consumption based on an outdoor air temperature, $T$. This equation can also predict the heating ($\beta_2(T - \beta_3)$) or cooling components of the electrical consumption ($\beta_2(\beta_3 - T)$) to a certain level of accuracy. 
+
 \begin{equation}
 \label{eq:coolingenergy}
 E_c = \beta_1 + \beta_2(T - \beta_3)
 \end{equation}
 
-Figure \ref{fig:changepoint} illustrates a change point model fit on an office building in a continental climate that includes both heating and cooling seasons.
+\begin{equation}
+\label{eq:heatingenergy}
+E_h = \beta_1 + \beta_2(\beta_3 - T)
+\end{equation}
+
+Figure \ref{fig:changepoint} illustrates a change point model fit on an office building in a continental climate that includes both heating and cooling seasons. It should be noted that the model is not perfectly characterizing the data due to two modes of daily operation; this situation is due to there being an offset between occupied and unoccupied opera
