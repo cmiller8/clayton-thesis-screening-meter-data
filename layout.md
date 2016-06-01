@@ -41,7 +41,7 @@ Figure_ref_fig_loadshape_all_illustrates__.tex
 figures/loadshape_heatmap/loadshape_heatmap.png
 subsubsection_Change_Point_Model_Regression__.tex
 figures/changepointmodel_kissock/changepointmodel_kissock.png
-Figure_ref_fig_changepoint_illustrates__.tex
+begin_equation_label_eq_coolingenergy__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 figures/cooling_example/cooling_example.png
 figures/heating_example/heating_example.png
