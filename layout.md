@@ -43,6 +43,7 @@ subsubsection_Change_Point_Model_Regression__.tex
 figures/changepointmodel_kissock/changepointmodel_kissock.png
 Equations_ref_eq_coolingenergy_and__.tex
 Figures_ref_fig_cooling_single_and__.tex
+Figures_ref_fig_cooling_heatmap_and__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 figures/cooling_example/cooling_example.png
 figures/heating_example/heating_example.png
