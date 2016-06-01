@@ -40,6 +40,7 @@ figures/loadshape_example/loadshape_example.png
 Figure_ref_fig_loadshape_all_illustrates__.tex
 figures/loadshape_heatmap/loadshape_heatmap.png
 subsubsection_Change_Point_Model_Regression__.tex
+Figure_ref_fig_changepoint_illustrates__.tex
 figures/Changepointmodelexample/Changepointmodelexample.png
 figures/cooling_example/cooling_example.png
 figures/heating_example/heating_example.png
