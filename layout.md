@@ -2,7 +2,7 @@ Introduction.tex
 figures/Figure1_amountofdata/Figure1_amountofdata.png
 Ruparathna_et_al_created_a__.tex
 subsection_Conventional_Commercial_Building_Characterization__.tex
-figures/TypicalFeatures/TypicalFeatures.png
+figures/TypicalFeatures/nontemporalforcechart.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
 figures/TemporalFeatures/TemporalFeatures.png
 subsection_Screening_large_amounts_of__.tex
