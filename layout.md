@@ -1,4 +1,5 @@
 Introduction.tex
+Ruparathna_et_al_created_a__.tex
 subsection_Conventional_Commercial_Building_Characterization__.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
