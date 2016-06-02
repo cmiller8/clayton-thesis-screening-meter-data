@@ -55,6 +55,7 @@ figures/heating_heatmap/heating_heatmap.png
 subsubsection_Seasonality_and_Trend_Decomposition__.tex
 figures/stl_explanation/stl_explanation.png
 Daily_weather_normalized_data_is__.tex
+figures/stl_seasonal_example/stl_seasonal_example.png
 Trend_is_computed_and_visualized__.tex
 figures/stl_weathernorm_trend_example/stl_weathernorm_trend_example.png
 figures/stl_weathernorm_trend_heatmap/stl_weathernorm_trend_heatmap.png
