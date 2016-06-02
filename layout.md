@@ -1,4 +1,5 @@
 Introduction.tex
+figures/Figure1_amountofdata/Figure1_amountofdata.png
 Ruparathna_et_al_created_a__.tex
 subsection_Conventional_Commercial_Building_Characterization__.tex
 figures/TypicalFeatures/TypicalFeatures.png
