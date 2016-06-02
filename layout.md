@@ -1,3 +1,4 @@
+Introduction.tex
 subsection_Conventional_Commercial_Building_Characterization__.tex
 figures/TypicalFeatures/TypicalFeatures.png
 subsection_Automated_Temporal_Feature_Extraction__.tex
