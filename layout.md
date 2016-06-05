@@ -35,7 +35,7 @@ figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
 figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
 subsubsection_Selection_of_Case_Study__.tex
-subsection_Scaled_Smart_Meter_Case__.tex
+subsection_Advanced_Metering_Infrastructure_Case__.tex
 section_Temporal_Feature_Extraction_Methodology__.tex
 figures/normalizedcons_example/normalizedcons_example.png
 figures/normalizedcons_heatmap/normalizedcons_heatmap.png
