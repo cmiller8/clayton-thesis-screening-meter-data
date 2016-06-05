@@ -127,7 +127,6 @@ figures/ConfusionMatrix_Performance Level Class/ConfusionMatrix_Performance Leve
 figures/FeatureImportance_Performance Level Class/FeatureImportance_Performance Level Class.png
 figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png
 figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png
-figures/Output_HighvsLow_Features_6-10/Output_HighvsLow_Features_6-10.png
 figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png
 subsection_Characterization_of_Operations_Strategies__.tex
 figures/ConfusionMatrix_Operations Class/ConfusionMatrix_Operations Class.png
