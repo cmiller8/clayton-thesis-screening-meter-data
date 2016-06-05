@@ -34,7 +34,7 @@ figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
 figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
-subsection_Selection_of_Case_Study__.tex
+subsubsection_Selection_of_Case_Study__.tex
 subsubsection_Overview_of_Feature_Implementation__.tex
 figures/normalizedcons_example/normalizedcons_example.png
 figures/normalizedcons_heatmap/normalizedcons_heatmap.png
