@@ -12,3 +12,15 @@
     \end{tabular} 
     \caption{Open, online data sources} 
 \end{table}
+
+In sum, you need to wrap the table in a table environment, add a label to it (which begins with \verb|tab:|) and insert a caption. The table above (Table 1), with a caption a label would look like this, Table \ref{tab:somelabel}:
+
+\begin{table}
+\label{tab:somelabel} 
+\begin{tabular}{ c c c }
+    $x^2$ & $y^2$ & $z^2$ \\ 
+    10 & a & $\ell$ \\ 
+    11 & b & $\ell$ \\ 
+\end{tabular} 
+\caption{\textbf{A beautiful caption here}}
+\end{table}
