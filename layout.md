@@ -39,7 +39,7 @@ subsubsection_Selection_of_Case_Study__.tex
 figures/bar_primaryspaceuse1/bar_primaryspaceuse.png
 From_these_groups_of_primary__.tex
 figures/timezonesbar1/timezonesbar.png
-Figure_ref_fig_bar_industry_illustrates__.tex
+Figure_ref_fig_bar_industry_and__.tex
 figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
 subsection_Advanced_Metering_Infrastructure_Case__.tex
