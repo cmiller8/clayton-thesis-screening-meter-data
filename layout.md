@@ -34,6 +34,7 @@ subsubsection_Case_Study_4_label__.tex
 subsection_Online_Open_Case_Studies__.tex
 begin_table_label_tab_opendata__.tex
 subsection_Overview_of_Data_Collected__.tex
+figures/casestudybuildinglocations/casestudybuildinglocations.png
 figures/worldmap/worldmap.png
 subsubsection_Selection_of_Case_Study__.tex
 figures/bar_primaryspaceuse1/bar_primaryspaceuse.png
