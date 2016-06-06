@@ -37,6 +37,7 @@ subsection_Overview_of_Data_Collected__.tex
 figures/casestudybuildinglocations/casestudybuildinglocations.png
 figures/worldmap/worldmap.png
 subsubsection_Selection_of_Case_Study__.tex
+From_these_groups_of_primary__.tex
 figures/bar_primaryspaceuse1/bar_primaryspaceuse.png
 figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
