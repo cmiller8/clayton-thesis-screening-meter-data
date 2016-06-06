@@ -34,7 +34,7 @@ subsubsection_Case_Study_4_label__.tex
 subsection_Online_Open_Case_Studies__.tex
 begin_table_label_tab_opendata__.tex
 subsection_Overview_of_Data_Collected__.tex
-figures/worldmap/worldmap.png
+figures/worldmap/casestudybuildinglocations.png
 figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
