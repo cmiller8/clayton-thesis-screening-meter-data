@@ -36,10 +36,10 @@ begin_table_label_tab_opendata__.tex
 subsection_Overview_of_Data_Collected__.tex
 figures/worldmap/worldmap.png
 subsubsection_Selection_of_Case_Study__.tex
+figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
 figures/timezonesbar1/timezonesbar1.png
 figures/bar_industry/bar_industry.png
 figures/bar_subindustry/bar_subindustry.png
-figures/bar_primaryspaceuse1/bar_primaryspaceuse1.png
 subsection_Advanced_Metering_Infrastructure_Case__.tex
 section_Temporal_Feature_Extraction_Methodology__.tex
 subsection_Statistics_based_Features_label__.tex
