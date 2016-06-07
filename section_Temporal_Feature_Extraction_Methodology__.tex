@@ -1,18 +1,17 @@
 \section{Temporal Feature Extraction Methodology}
 \label{sec:featureextraction}
 
-Temporal features are aggregations of the behavior exhibited in time-series data. They are essentially characteristics that summarize sensor data in a way to inform an analyst through visualization or to use as training data in a predictive classification or regression model. Feature extraction is a step in the process of machine learning and is a form of dimensionality reduction of data. As discussed in Section \ref{temporalfeatureextraction}, this process seeks to quantify various qualitative behaviors. This section provides and overview of the categories of temporal features extracted from the case study building data, the methods used to implement them, and visualized examples of a selected subset of features manifest themselves over a time range. Table \ref{tab:featureoverview} overview the temporal features outlined in this section.
+Temporal features are aggregations of the behavior exhibited in time-series data. They are essentially characteristics that summarize sensor data in a way to inform an analyst through visualization or to use as training data in a predictive classification or regression model. Feature extraction is a step in the process of machine learning and is a form of dimensionality reduction of data. As discussed in Section \ref{temporalfeatureextraction}, this process seeks to quantify various qualitative behaviors. This section provides and overview of the categories of temporal features extracted from the case study building data, the methods used to implement them, and visualized examples of a selected subset of features manifest themselves over a time range. Table \ref{tab:featureoverview} gives an overview the temporal features outlined in this section.
 
 \begin{table} 
     \begin{tabular}{ c c }
         \textbf{Feature Category} &  \textbf{General Description}\\ 
-        Statistics-based &  \\ 
-        Regression model-based &  \\ 
-        Pattern-based &  \\ 
-         &  \\ 
-         &  \\ 
+        Statistics-based & Aggregations of time series data using mean, median, max, min, standard deviation \\ 
+        Regression model-based & Development of a predictive model using training data and using model parameters and outputs to describe the data \\ 
+        Pattern-based &  Extraction of frequent and useful daily, weekly, monthly, or long-term patterns\\ 
     \end{tabular} 
     \caption{Overview of feature categories}
 \end{table}
 \label{tab:featureoverview}
 
+ A detailed list of the temporal features created in this Section can be found in Appendix A. 
