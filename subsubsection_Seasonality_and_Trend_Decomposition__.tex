@@ -7,5 +7,10 @@ Trends are another feature commonly found in temporal data. A trend is a long te
 
 In order to capture these features to understand their impact on characterizing buildings, the seasonal-trend decomposition procedure based on loess is used to extract each of these features from the case study buildings \cite{cleveland1990stl}. This process is used to extract the weekly \emph{seasonal} patterns from each building, the long-term trend over time, and the residual remainders from the model developed by those two components. The input data is aggregated to daily summations and weather normalized by subtracting the calculated heating and cooling components from the change point model described in Section \ref{sec:changepointmodels}. This step is done to reduce the influence weather plays in the trend decomposition. The \emph{STL} package in R is used for this process to extract the seasonal, trend, and irregular components \footnote{https://stat.ethz.ch/R-manual/R-devel/library/stats/html/stl.html}. 
 
-The details of the inner algorithms of the \emph{STL} procedure are described by Cleveland et al. \cite{cleveland1990stl}. The process uses an inner loop of algorithms to detrend and deseasonalize the data by creating a trend component, $T$, and a seasonal component, $S$. The remainder component, $R$, is a subtraction of the input values, $Y$. An output of the process is seen in Figure
+The details of the inner algorithms of the \emph{STL} procedure are described by Cleveland et al. \cite{cleveland1990stl}. The process uses an inner loop of algorithms to detrend and deseasonalize the data by creating a trend component, $T_v$, and a seasonal component, $S_v$. The remainder component, $R_v$, is a subtraction of the input values, $Y_v$. An output of the process in this library is seen in Figure \ref{fig:stl_decomposition}. 
+
+\begin{equation}
+\label{eq:stl_residualscalc}
+R_v = Y_v - T_v - S_v
+\end{equation}
 
