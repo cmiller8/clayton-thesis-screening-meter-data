@@ -73,7 +73,7 @@ figures/cooling_heatmap/cooling_heatmap.png
 figures/heating_heatmap/heating_heatmap.png
 subsubsection_Seasonality_and_Trend_Decomposition__.tex
 figures/stl_explanation/stl_explanation.png
-Daily_weather_normalized_data_is__.tex
+The_seasonal_component_of_this__.tex
 figures/stl_seasonal_example/stl_seasonal_example.png
 figures/stl_weathernorm_weeklypattern_heatmap/stl_weathernorm_weeklypattern_heatmap.png
 Trend_is_computed_and_visualized__.tex
