@@ -52,7 +52,6 @@ subsubsection_Ratio_based_Statistical_Features__.tex
 figures/loadratio_example/loadratio_example.png
 Daily_load_ratio_is_another__1.tex
 figures/loadratio_heatmap/loadratio_heatmap.png
-subsection_Weather_Influence_based_Features__.tex
 subsubsection_Spearman_Rank_Order_Correlation__.tex
 figures/weathersensitivity/weathersensitivity.png
 The_correlation_coefficient_can_be__.tex
