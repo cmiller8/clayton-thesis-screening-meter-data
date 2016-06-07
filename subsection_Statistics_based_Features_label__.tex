@@ -1,9 +1,11 @@
 \subsection{Statistics-based Features}
 \label{sec:statisticsfeatures}
 
-The first set of temporal features to be extracted are basic statistics-based metrics that utilize the time-series data vector for various time ranges to extract information using mean, median, maximum, minimum, range, variance, and standard deviation. If a time-seies vector is described as $X$, with $N$ values of $X = {x_1, x_2,...,x_n}$, the most common statistical metric, mean (or $\mu$), can be calculated using Equation \ref{eq:mean}.
+The first set of temporal features to be extracted are basic statistics-based metrics that utilize the time-series data vector for various time ranges to extract information using mean, median, maximum, minimum, range, variance, and standard deviation. If a time-seies vector is described as $X$, with $N$ values of $X = {x_1, x_2,...,x_n}$, the most common statistical metric, mean (or $\mu$), can be calculated using Equation \ref{eq:mean} \cite{Mitsa_2010}.
 
 \begin{equation}
 \mu = \frac{\sum\limits_{i=1}^N x_i}{N}
 \label{eq:mean}
 \end{equation}
+
+The median value for a vector is simply the middle value in an ordered set, if the number of values is odd. If the length of the vector is even, then the median is the mean of the two middle values. The minimum and maximum values are the first and last in an ordered set. Vectors of values can also be described according to quantiles
