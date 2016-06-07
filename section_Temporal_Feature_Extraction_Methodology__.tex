@@ -1,7 +1,7 @@
 \section{Temporal Feature Extraction Methodology}
 \label{sec:featureextraction}
 
-Temporal features are aggregations of the behavior exhibited in time-series data. They are essentially characteristics that summarize sensor data in a way to inform an analyst through visualization or to use as training data in a predictive classification or regression model. Feature extraction is a step in the process of machine learning and is a form of dimensionality reduction of data. As discussed in Section \ref{temporalfeatureextraction}, this process seeks to quantify various qualitative behaviors. This section provides and overview of the categories of temporal features extracted from the case study building data, the methods used to implement them, and visualized examples of a selected subset of features manifest themselves over a time range. Table \ref{tab:featureoverview} gives an overview the temporal features outlined in this section.
+Temporal features are aggregations of the behavior exhibited in time-series data. They are essentially characteristics that summarize sensor data in a way to inform an analyst through visualization or to use as training data in a predictive classification or regression model. Feature extraction is a step in the process of machine learning and is a form of dimensionality reduction of data. As discussed in Section \ref{temporalfeatureextraction}, this process seeks to quantify various qualitative behaviors. This section provides and overview of the categories of temporal features extracted from the case study building data, the methods used to implement them, and visualized examples of a selected subset of features manifest themselves over a time range. Table \ref{tab:featureoverview} gives an overview the temporal features outlined in this section.  A detailed list of the temporal features created in this Section can be found in Appendix A. 
 
 \begin{table} 
     \begin{tabular}{ c c }
@@ -14,4 +14,4 @@ Temporal features are aggregations of the behavior exhibited in time-series data
 \end{table}
 \label{tab:featureoverview}
 
- A detailed list of the temporal features created in this Section can be found in Appendix A. 
+In order to get a sense of what a temporal feature is in the context of electrical meters for buildings, the first extracted metric is one of the most commonly calculated for building performance analysis: the consumption magnitude of electricity normalized by the floor area of the building. This metric seeks to provide a basis of comparison between buildings and is used as a key metric within numerous benchmarking and performance analysis techniques. Figure \ref{fig:normalizedmag} illustrates a single building example of this metric per hour.
