@@ -45,8 +45,8 @@ figures/bar_subindustry/bar_subindustry.png
 subsection_Advanced_Metering_Infrastructure_Case__.tex
 section_Temporal_Feature_Extraction_Methodology__.tex
 subsection_Statistics_based_Features_label__.tex
-Figure__.tex
 figures/normalizedcons_example/normalizedcons_example.png
+Figure__.tex
 figures/normalizedcons_heatmap/normalizedcons_heatmap.png
 subsubsection_Ratio_based_Statistical_Features__.tex
 Daily_load_ratio_is_another__1.tex
