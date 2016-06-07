@@ -101,8 +101,8 @@ figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatmapV2.png
 emph_DayFilter_is_applied_on__.tex
 figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png
 In_general_there_are_six__.tex
-Figure_ref_fig_dayfilter_all_shows__.tex
 figures/dayfilter_example1/dayfilter_example1.png
+Figure_ref_fig_dayfilter_all_shows__.tex
 figures/dayfilter_heatmap/dayfilter_heatmap.png
 subsubsection_Pattern_Specificity_label_sec__.tex
 figures/jmotif/jmotif.png
