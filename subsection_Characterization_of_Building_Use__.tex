@@ -1,12 +1,15 @@
 \section{Characterization of Building Use, Performance, and Operations}
 \label{sec:characterization}
 
-Visualization of temporal features on their own is a means of understanding the range of values of various phenomenon across a time range. This situation gives an analyst the basis to begin understanding what discriminates a building based on various objectives. The next step is to utilize the features to predict whether a building falls within a certain category and test the importance of various features in making that prediction. In this section, three classification objectives are tested: 
+Visualization of temporal features on their own is a means of understanding the range of values of various phenomenon across a time range. This situation gives an analyst the basis to begin understanding what discriminates a building based on various objectives. The next step is to utilize the features to predict whether a building falls within a certain category and test the importance of various features in making that prediction. Understanding which features are most characteristic to a particular objective is the the key tenet of this study. In this section, three classification objectives are tested: 
 
 \begin{enumerate}
-\item Principle Building Use - the primary use of the building is designated by the principal activity conducted by percentage of space designated to that activity. It is 
-\item Performance Class
-\item General Operation Strategy
+\item Principle Building Use - The primary use of the building is designated by the principal activity conducted by percentage of space designated to that activity. It is rare for a building to be devoted specifically to a single task, and mixed-use buildings pose a specific challenge to prediction.
+\item Performance Class - Each building is assigned to a particular performance class according to whether its area-normalized consumptiis in the the bottom, middle, or top 33\% percentiles within its principle building use type class.
+\item General Operation Strategy - Buildings that are controlled by the same entity, such as those on a University campus, often have similar schedules, operating parameters, and use patterns. This objective tests to understand how well-defined these differences are between different campuses.
 \end{enumerate}
 
-For each objective, a Random Forest classification model is built using the features outlined in Section \ref{sec:featureextraction}.
+For each objective, two steps are taken to predict each objective and then to investigate the influence of the input features on class differentiation:
+\begin{enumerate}
+\item A random decision forests classification model is built using subsets of the generated features to understand 
+\item 
