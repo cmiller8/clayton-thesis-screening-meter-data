@@ -11,5 +11,10 @@ Visualization of temporal features on their own is a means of understanding the 
 
 For each objective, two steps are taken to predict each objective and then to investigate the influence of the input features on class differentiation:
 \begin{enumerate}
-\item A random decision forests classification model is built using subsets of the generated features to understand 
+\item A random forest classification model is built using subsets of the generated features to predict the objectives class
+\item The classification model provides an indication of the ability of the temporal features in describing the class based on its accuracy
+\item Input feature importance is calculated by the classification model for insight on what the most informative features are in predicting class
+\item An in-depth analysis comparison of two of the classes within each objective is completed to further explore the attributes that characterize a building
 \end{enumerate}
+
+The decision to use random forest classification models was made based on multiple advantages including
