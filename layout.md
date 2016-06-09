@@ -125,6 +125,7 @@ figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
 figures/CART_tree_titanic_survivors/decision_tree.png
 Decision_trees_often_over_fit__.tex
+figures/regressiontrees/regressiontrees.png
 subsection_Principal_Building_Use_label__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 The_most_important_features_contributing__.tex
