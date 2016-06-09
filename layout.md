@@ -123,6 +123,7 @@ figures/breakout_example/breakout_example.png
 Figure_ref_fig_breakout_heatmap_illustrates__.tex
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
+Decision_trees_often_over_fit__.tex
 figures/CART_tree_titanic_survivors/CART_tree_titanic_survivors.png
 subsection_Principal_Building_Use_label__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
