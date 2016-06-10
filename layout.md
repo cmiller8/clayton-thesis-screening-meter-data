@@ -123,6 +123,7 @@ figures/breakout_example/breakout_example.png
 Figure_ref_fig_breakout_heatmap_illustrates__.tex
 figures/breakouts_heatmap/breakouts_heatmap.png
 subsection_Characterization_of_Building_Use__.tex
+Random_forest_classification_models_were__.tex
 figures/CART_tree_titanic_survivors/decision_tree.png
 Decision_trees_often_over_fit__.tex
 figures/regressiontrees/regressiontrees.png
