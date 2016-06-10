@@ -1,2 +1,7 @@
 Random forests use their own form of cross-validation by training and testing each tree using a different bootstrapped sample from the data. This process produces an \emph{out-of-bag error (oob)} that acts as a generalized error for understanding how well each class can be predicted. This accuracy is used to determine how well the generated temporal features are able to delineate the class objectives. Random forests can also calculate the importance of the input features and how well they lend themselves to predicting the objectives. This attribute is useful in that it allows us to understand exactly which temporal features are most characteristic of various objectives. Variable importance is calculated using Equation
 
+\begin{equation}
+Imp(X_m) = \frac{1}{N_T}
+\label{eq:mean}
+\end{equation}
+
