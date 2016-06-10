@@ -131,7 +131,7 @@ figures/regressiontrees/regressiontrees.png
 Random_forests_use_their_own__.tex
 subsection_Principal_Building_Use_label__.tex
 figures/enegystar_buildingtypes/enegystar_buildingtypes.png
-Discriminatory_features_have_already_been__.tex
+Allocation_of_the_primary_use__.tex
 figures/ConfusionMatrix_Building Use Type/ConfusionMatrix_Building Use Type.png
 The_most_important_features_contributing__.tex
 figures/FeatureImportance_Building Use Type1/FeatureImportance_Building Use Type1.png
