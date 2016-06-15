@@ -148,6 +148,7 @@ figures/clustering_weekly/clustering_weekly.png
 Figure_ref_fig_decisiontree_shows__.tex
 figures/clusteringweekly_zoom/clusteringweekly_zoom.png
 subsection_Characterization_of_Building_Performance__.tex
+subsubsection_High_versus_Low_Consumption__.tex
 figures/ConfusionMatrix_Performance Level Class/ConfusionMatrix_Performance Level Class.png
 figures/FeatureImportance_Performance Level Class/FeatureImportance_Performance Level Class.png
 figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png
