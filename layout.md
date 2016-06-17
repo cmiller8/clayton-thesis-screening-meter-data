@@ -158,6 +158,7 @@ figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png
 Figure_ref_sec_highvslow_nullhypth_shows__.tex
 figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png
 subsubsection_Discussion_with_Campus_Case__1.tex
+Figure_X_illustrates_another_graphic__.tex
 Fig__.tex
 figures/consumptionbreakdown/consumptionbreakdown.png
 figures/benchmarkingbuildings/benchmarkingbuildings.png
