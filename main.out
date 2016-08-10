@@ -1,0 +1,76 @@
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Kurzfassung}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Acknowledgements}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Growth of Raw Temporal Data Sources in the Built Environment}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{A Framework for Automated Characterization of Large Numbers of Non-Residential Buildings}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Research Questions}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Objectives}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Organization of the Thesis}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{Research Context: Statistical Learning and Visual Analytics of Building Data}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Previous Reviews of Data Analytics in Buildings}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{Overview of Publications}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{Research Sectors}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{Publications Venues}{section.2.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Smart Meter Analytics}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Load Profiling}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Customer Classification}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.3}{Disaggregation}{section.2.3}% 18
+\BOOKMARK [1][-]{section.2.4}{Portfolio Analytics}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.4.1}{Characterization}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.2}{Classification}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.3}{Targeting}{section.2.4}% 22
+\BOOKMARK [1][-]{section.2.5}{Operations, Optimization, and Controls}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.5.1}{Occupancy Detection}{section.2.5}% 24
+\BOOKMARK [2][-]{subsection.2.5.2}{Controls}{section.2.5}% 25
+\BOOKMARK [2][-]{subsection.2.5.3}{Energy Management}{section.2.5}% 26
+\BOOKMARK [1][-]{section.2.6}{Anomaly Detection}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.6.1}{Whole Building}{section.2.6}% 28
+\BOOKMARK [2][-]{subsection.2.6.2}{Subsystems}{section.2.6}% 29
+\BOOKMARK [2][-]{subsection.2.6.3}{Components}{section.2.6}% 30
+\BOOKMARK [1][-]{section.2.7}{Discussion}{chapter.2}% 31
+\BOOKMARK [0][-]{chapter.3}{Methodology}{}% 32
+\BOOKMARK [1][-]{section.3.1}{Temporal Feature Extraction}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.2}{Characterization and Variable Importance}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.3}{Case Study, Empirical Data Collection, and Qualitative Research}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.1}{Site Visits for Case Studies}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.2}{Online Open Case Studies}{section.3.3}% 37
+\BOOKMARK [1][-]{section.3.4}{Overview of Data Collected}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.4.1}{Selection of Case Study Subset for Feature Implementation}{section.3.4}% 39
+\BOOKMARK [1][-]{section.3.5}{Advanced Metering Infrastructure Case Study}{chapter.3}% 40
+\BOOKMARK [0][-]{chapter.4}{Statistics-based Features}{}% 41
+\BOOKMARK [1][-]{section.4.1}{Theoretical Basis}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.1.1}{Basic Temporal Statistics}{section.4.1}% 43
+\BOOKMARK [2][-]{subsection.4.1.2}{Ratio-based Statistical Features}{section.4.1}% 44
+\BOOKMARK [2][-]{subsection.4.1.3}{Spearman Rank Order Correlation Coefficient}{section.4.1}% 45
+\BOOKMARK [1][-]{section.4.2}{Implementation and Discussion}{chapter.4}% 46
+\BOOKMARK [0][-]{chapter.5}{Regression Model-based Features}{}% 47
+\BOOKMARK [1][-]{section.5.1}{Theoretical Basis}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.1.1}{Load shape regression-based Features}{section.5.1}% 49
+\BOOKMARK [2][-]{subsection.5.1.2}{Change Point Model Regression}{section.5.1}% 50
+\BOOKMARK [2][-]{subsection.5.1.3}{Seasonality and Trend Decomposition}{section.5.1}% 51
+\BOOKMARK [1][-]{section.5.2}{Implementation and Discussion}{chapter.5}% 52
+\BOOKMARK [0][-]{chapter.6}{Pattern-based Features}{}% 53
+\BOOKMARK [1][-]{section.6.1}{Theoretical Basis}{chapter.6}% 54
+\BOOKMARK [2][-]{subsection.6.1.1}{Dirunal Pattern Extraction}{section.6.1}% 55
+\BOOKMARK [2][-]{subsection.6.1.2}{Pattern Specificity}{section.6.1}% 56
+\BOOKMARK [2][-]{subsection.6.1.3}{Long-term Pattern Consistency}{section.6.1}% 57
+\BOOKMARK [1][-]{section.6.2}{Implementation and Discussion}{chapter.6}% 58
+\BOOKMARK [0][-]{chapter.7}{Characterization of Building Use, Performance, and Operations}{}% 59
+\BOOKMARK [1][-]{section.7.1}{Principal Building Use}{chapter.7}% 60
+\BOOKMARK [2][-]{subsection.7.1.1}{University Dormitory and Laboratory Comparison}{section.7.1}% 61
+\BOOKMARK [2][-]{subsection.7.1.2}{Discussion with Campus Case Study Subjects}{section.7.1}% 62
+\BOOKMARK [1][-]{section.7.2}{Characterization of Building Performance Class}{chapter.7}% 63
+\BOOKMARK [2][-]{subsection.7.2.1}{High versus Low Consumption Comparison}{section.7.2}% 64
+\BOOKMARK [2][-]{subsection.7.2.2}{Discussion with Campus Case Study Subjects}{section.7.2}% 65
+\BOOKMARK [1][-]{section.7.3}{Characterization of Operations Strategies}{chapter.7}% 66
+\BOOKMARK [2][-]{subsection.7.3.1}{Group 1 versus Group 2 Comparison}{section.7.3}% 67
+\BOOKMARK [0][-]{chapter.8}{Characterization of Energy-Savings Measure Implementation Success}{}% 68
+\BOOKMARK [1][-]{section.8.1}{Predicting General Industry Membership}{chapter.8}% 69
+\BOOKMARK [1][-]{section.8.2}{Energy Efficiency Measure Implementation Success Prediction}{chapter.8}% 70
+\BOOKMARK [1][-]{section.8.3}{Discussion}{chapter.8}% 71
+\BOOKMARK [0][-]{chapter.9}{Conclusion and Outlook}{}% 72
+\BOOKMARK [1][-]{section.9.1}{Outlook}{chapter.9}% 73
+\BOOKMARK [1][-]{section.9.2}{Reproducible Research Outputs}{chapter.9}% 74
+\BOOKMARK [0][-]{appendix.A}{Complete List of Generated Temporal Features}{}% 75
+\BOOKMARK [0][-]{appendix*.11}{Bibliography}{}% 76

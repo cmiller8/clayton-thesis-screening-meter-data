@@ -1,0 +1,95 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Theoretical growth of measurement data from electrical meters in commercial buildings in the USA in the last 20 years }}{4}{figure.1.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Categories and sub-categories (including number of publications) of building performance analysis applications of statistical learning and visual analytics }}{10}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Breakdown of publications by year published and research domain }}{11}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Breakdown of publications by publication type and research domain }}{12}{figure.2.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of Data Screening Framework}}{22}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Conventional features, or metadata, about a building }}{23}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces One year of example whole building electrical meter data that qualitatively exemplifying various temporal features }}{24}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Two weeks of example whole building electrical meter data that qualitatively exemplifying various temporal features }}{25}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Temporal features extracted solely from raw sensor data }}{25}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces {Characterization process to investigate the ability for various features to describe the classification objectives }}}{27}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces {An example of a decision tree (left) with the decision boundary for two features, $X1$ and $X2$ (right). Adaption with permission from \cite {Geurts_2009}. }}}{28}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces {Ensemble of decision trees (top) that produces a more accurate decision boundary (lower left) and comparison with a single tree model (lower right). Adapted with permission from \cite {Geurts_2009}. }}}{29}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Locations of 1238 case study buildings collected from across the world }}{34}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Distribution of case study buildings amongst time zones }}{34}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Distribution of case study buildings amongst general industries }}{35}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Distribution of case study buildings amongst sub-industries }}{35}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Distribution of case study buildings amongst primary space uses }}{36}{figure.3.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Single building example of area normalized magnitude }}{39}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Single building example of the daily load ratio statistic }}{40}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Weather sensitivity examples as energy vs. outdoor air temperature (from \citep {miller_forensically_2015}) }}{42}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Single building example of the spearman rank order correlation coefficent with weather }}{43}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Heat map representation of normalized magnitude }}{44}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Heatmap of daily load ratio statistic for all case study buildings }}{45}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Heatmap of spearman rank order correlation coefficient for all case study buildings }}{46}{figure.4.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Single building example of TWOT model with hourly normalized residuals }}{49}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Example of an (a) 3 point cooling and (b) 3 point heating change point models (Used with permission from \citep {kelly_kissock_measuring_2008}) }}{50}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Single building example of change point model of a building }}{51}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Single building example of predicted electrical cooling energy using change point model }}{52}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Single building example of predicted electrical heating energy using change point model }}{52}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Output of seasonal decomposition process using loess for a single building. }}{54}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Single building example of decomposed weekly patterns using the \emph {STL} process }}{55}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Single building example of decomposed trend using the \emph {STL} process }}{56}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Single building example of decomposed remainder component using the \emph {STL} process }}{56}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Heatmap of normalized daily residuals for all case study building }}{58}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Heatmap of normalized predicted electrical cooling energy for all case study buildings }}{59}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Heatmap of normalized predicted electrical heating energy for all case study buildings }}{60}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Heatmap of decomposed weekly patterns for all case study buildings }}{61}{figure.5.13}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Heatmap of decomposed trend over time for all case study buildings }}{62}{figure.5.14}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Heatmap of decomposed remainder residuals for all case study buildings }}{63}{figure.5.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagram of the five steps in the \emph {DayFilter} (from \citep {miller_automated_2015}) }}{67}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Example breakpoint lookup table from Keogh et. al \citep {keogh_hot_2005} for $A$ = 3, 4, 5 calculated from a Gaussian distribution \citep {miller_automated_2015} }}{68}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces SAX word creation example (based on figure from Keogh et. al \citep {keogh_hot_2005}) of two days of 3 minute frequency data, parameters are $N$=480, $W$=4, and $A$ = 3 and the generated representative word for daily profile 1 is \emph {acba} and daily profile 2 is \emph {abba} (from \citep {miller_automated_2015}) }}{68}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Creation of SAX words from daily non-overlapping windows: W1: 00:00-06:00, W2: 06:00-12:00, W3: 12:00-18:00, W4: 18:00-24:00. Time series data is transformed according to a SAX character creation and then as a string, or SAX word \citep {miller_automated_2015} }}{69}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Augmented suffix tree of SAX words. Each level from left to right represents the $W1-W4$, the substrings are noted adjacent to each bar, and the bar thickness is proportional to the number of days within each pattern type. The pattern frequency in number of days is noted in this graphic within or just adjacent to each bar. (from \citep {miller_automated_2015}) }}{70}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Example suffix tree with heatmap from the two week dataset. The sankey diagram illustrates the divisions according to pattern and the general categories of motif vs. discord candidates. Each horizontal line in the heatmap represents a single daily profile to illustrate consumption magnitude of each SAX word. \citep {miller_automated_2015} }}{71}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Cooling electricity consumption representation of the day-types from the DayFilter process \citep {miller_automated_2015} }}{73}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Single building example of daily pattern frequency using \emph {DayFilter}, a=3 and w=3 }}{74}{figure.6.8}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Overview of SAX-VSM algorithm: first, labeled time series are converted into bags of words using SAX; secondly, $tf*idf$ statistics is computed resulting in a single weight vector per training class. For classification, an unlabeled time series is converted into a term frequency vector and assigned a label of a weight vector which yields a maximal cosine similarity value (figure and caption used with permission from \citep {senin_sax-vsm:_2013}). }}{75}{figure.6.9}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces An example of the heat map-like visualization of subsequence \emph {importance} to a class identification. Color value of each point was obtained by combining $tf*idf$ weights of all patterns which cover the point. The highlighted class specificity corresponds to a sudden rise, a plateau, and a sudden drop in Cylinder; to a gradual increase in Bell; and to a sudden rise followed by a gradual decline in Funnel (figure and caption used with permission from \citep {senin_sax-vsm:_2013}) }}{76}{figure.6.10}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Single building example of daily in-class specificity, a=8, p=8, and w=24 for an office building. Positive specificity indicates behavior that is characteristic of a certain class, while negative values indicates behavior of a different class. }}{76}{figure.6.11}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Single building example of weekly in-class specificity, a=x, w=X, and p=X }}{77}{figure.6.12}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Single building example of breakout detection to test for long-term volatility in an university dormitory building. A minimum threshold of 30 days is chosen in this case, which explains the lack of threshold shift in April, a break that may be attributed to spring break for this building }}{79}{figure.6.13}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Heatmap of daily pattern frequencies using \emph {DayFilter} with a=3 and w=3 }}{80}{figure.6.14}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Heatmap of in-class specificity with p=24, a=8, w=8 }}{81}{figure.6.15}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Heatmap of in-class specificity with p=168, a=6, w=14 }}{82}{figure.6.16}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Heatmap of breakout detection on all case studies }}{83}{figure.6.17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces {EnergyStar building use-types available for 1-100 rating }}}{85}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces {Classification error matrix for prediction of building use type using a random forest model }}}{87}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces {Importance of features in prediction of building use type }}}{88}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces {Clustering of dominant features in the comparison of university dormitories and laboratories }}}{89}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces {Probability density distribution of top five features in characterizing the difference between university dormitories and laboratories }}}{90}{figure.7.5}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces {Ability of temporal features to distinguish between dormitories and laboratories as compared to the null hypothesis }}}{91}{figure.7.6}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces {Simplified breakdowns of general features according to building use type that were presented to case study subjects }}}{92}{figure.7.7}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces {Hierarchical clustering of buildings according to laboratory (yellow), office (green), and classroom (blue) specificity }}}{93}{figure.7.8}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces {Hierarchical clustering of buildings according to laboratory, office, and classroom specificity zoomed in on a cluster with illustrates \emph {misfits} }}}{94}{figure.7.9}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces {Classification error matrix for prediction of performance class using a random forest model }}}{95}{figure.7.10}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces {Importance of features according to random forest model in prediction of building performance class }}}{96}{figure.7.11}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces {Clustering of dominant features in the comparison of high and low consumption performance classes }}}{97}{figure.7.12}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces {Probability density distribution of top five features in characterizing the difference between high and low consumption }}}{98}{figure.7.13}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces {Ability of temporal features to distinguish between high and low consumers as compared to the null hypothesis }}}{99}{figure.7.14}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces {Simplified breakdowns of general features according to performance level that were presented to case study subjects }}}{99}{figure.7.15}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces {Feature distributions of a single campus as compare to all other case study buildings }}}{100}{figure.7.16}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces {Classification error matrix for prediction of operations group type using a random forest model }}}{101}{figure.7.17}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces {Importance of features in prediction of operations type }}}{102}{figure.7.18}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces {Clustering of dominant features in the comparison of operations group 1 and 2 }}}{103}{figure.7.19}
+\contentsline {figure}{\numberline {7.20}{\ignorespaces {Probability density distribution of top five features in characterizing the difference between Group 1 and 2 operations classes }}}{104}{figure.7.20}
+\contentsline {figure}{\numberline {7.21}{\ignorespaces {Ability of temporal features to distinguish between group 1 and 2 operations types as compared to the null hypothesis }}}{105}{figure.7.21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces {Building Type Classification of the Labeled AMI Accounts }}}{107}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces {Mean Model Accuracy Improvement from Baseline }}}{108}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces {Classification error matrix for prediction of standard industry class (SIC) using a random forest model }}}{109}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces {Breakdown of Measure Categories included in the Dataset }}}{110}{figure.8.4}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces {Classification error matrix for prediction of measure implementation success using a random forest model }}}{111}{figure.8.5}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

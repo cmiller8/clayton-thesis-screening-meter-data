@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: authordate1.bst
+A level-1 auxiliary file: _title.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: abstractgerman.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: ch1_Introduction.aux
+A level-1 auxiliary file: ch2_LitReview.aux
+A level-1 auxiliary file: ch3_Methodology.aux
+A level-1 auxiliary file: ch4_Stats.aux
+A level-1 auxiliary file: ch5_Modelbased.aux
+A level-1 auxiliary file: ch6_Patternbased.aux
+A level-1 auxiliary file: ch7_Results.aux
+A level-1 auxiliary file: ch8_AMIData.aux
+A level-1 auxiliary file: ch9_Conclusions.aux
+A level-1 auxiliary file: App_temporalfeatures.aux
+Database file #1: main.bib
+Illegal end of database file---line 3126 of file main.bib
+ :   file = {J. K. Kissock:/Users/Clayton/Library/Application Support/Zotero/Profiles/urt936ih.default/zotero/storage/TAD3DTF3/J_Kissock.html:text/html}
+ :                                                                                                                                                      
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "kreider_predicting_1994"
+Warning--to sort, need author or key in _journals_2014
+Warning--to sort, need author or key in _code_2014
+Warning--empty author in _code_2014
+Warning--empty author in _journals_2014
+Warning--empty publisher in basseville_detection_1993
+Warning--empty year in Breiman
+Warning--empty institution in effinger_building_2010
+Warning--empty institution in greensfelder_building_2010
+Warning--empty year in Manning
+Warning--empty journal in the_white_house_fact_2016
+Warning--empty institution in ulickey_building_2010
+You've used 150 entries,
+            2441 wiz_defined-function locations,
+            1392 strings with 38273 characters,
+and the built_in function-call counts, 67038 in all, are:
+= -- 6546
+> -- 2623
+< -- 516
++ -- 780
+- -- 775
+* -- 5711
+:= -- 10675
+add.period$ -- 642
+call.type$ -- 150
+change.case$ -- 926
+chr.to.int$ -- 147
+cite$ -- 163
+duplicate$ -- 2547
+empty$ -- 4976
+format.name$ -- 872
+if$ -- 13983
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 150
+newline$ -- 793
+num.names$ -- 448
+pop$ -- 901
+preamble$ -- 1
+purify$ -- 1075
+quote$ -- 0
+skip$ -- 2663
+stack$ -- 0
+substring$ -- 4490
+swap$ -- 736
+text.length$ -- 45
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1170
+warning$ -- 11
+while$ -- 558
+width$ -- 0
+write$ -- 1961
+(There was 1 error message)

@@ -1,0 +1,4058 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.10)  3 AUG 2016 08:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/nag/nag.sty
+Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
+\c@nag@c=\count79
+\c@nag@sins=\count80
+Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
+File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+)
+Package nag Info: Loaded nag-orthodox.cfg  on input line 552.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/nag/nag-orthodox.cfg
+File: nag-orthodox.cfg 2006/04/19 v1.8 strict rules for nag.sty (ulmi)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2015/05/06 v3.17a KOMA-Script document class (book)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2015/05/06 v3.17a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/05/06 v3.17a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2015/05/06 v3.17a KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 124.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 125.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 126.
+Package tocbasic Info: defining new hook before heading of `' on input line 154
+8.
+Package scrbook Info: You've used standard option `12pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=12pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=12pt' there
+(scrbook)             instead of `12pt', too.
+Class scrbook Info: You've used standard option `oneside'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `twoside=false'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `twoside=false' there
+(scrbook)           instead of `oneside', too.
+
+
+Class scrbook Warning: You've used obsolete option `halfparskip'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `parskip=half,version=first'.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `halfparskip' by `parskip=half'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+Class scrbook Info: You've used standard option `openany'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `open=any'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `open=any' there
+(scrbook)           instead of `openany', too.
+
+Class scrbook Warning: You've used obsolete option `bibtotoc'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `bibliography=totoc,version=first'.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `bibtotoc' by `bibliography=totoc'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: You've used obsolete option `pointlessnumbers'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `numbers=noenddot,version=first'.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `pointlessnumbers' by `numbers=noenddot'.
+
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: You've used obsolete option `tablecaptionabove'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `captions=tableheading,version=first'.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `tablecaptionabove' by `captions=tablehea
+ding'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2015/03/31 v1.1i Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 2152.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2015/05/06 v3.17a KOMA-Script font size class option (12p
+t)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2015/05/06 v3.17a KOMA-Script package (type area)
+
+Package typearea, 2015/05/06 v3.17a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count81
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `oneside'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twoside=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twoside=false' there
+(typearea)             instead of `oneside', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 16
+(typearea)             BCOR = 34.1433pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 457.7338pt
+(typearea)              DIV departure   = -8%
+(typearea)              \evensidemargin = 14.68872pt
+(typearea)              \oddsidemargin  = 14.68872pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 650.0pt
+(typearea)              \topmargin      = -19.45456pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1485.
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+LaTeX Info: Redefining \textsubscript on input line 4430.
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count89
+\c@table=\count90
+\bibindent=\dimen103
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks18
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count103
+
+Local config file natbib.cfg used
+(./natbib.cfg))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count104
+\LTcapwidth=\dimen113
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count105
+\LT@rows=\count106
+\c@LT@tables=\count107
+\c@LT@chunks=\count108
+\LT@p@ftn=\toks22
+)
+Class scrbook Info: longtable captions redefined on input line 32.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrpage2.sty
+Package: scrpage2 2015/05/06 v3.17a KOMA-Script package (page head and foot)
+LaTeX Info: Redefining \pagemark on input line 174.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ushort/ushort.sty
+ushort.sty by M. Vaeth: Release: 2.2 
+Package: ushort 2001/06/13 v2.2
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip57
+\L@UnitsRaiseTextstyle=\skip58
+\L@UnitsRaiseScriptstyle=\skip59
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen126
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2015/05/05 v3.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count114
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count115
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\c@padzeroesN=\count116
+\fc@tmpcatcode=\count117
+\@DT@modctr=\count118
+\@ordinalctr=\count119
+\@orgargctr=\count120
+\@strctr=\count121
+\@tmpstrctr=\count122
+\@DT@loopN=\count123
+\@DT@X=\count124
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2013/08/17
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count125
+\@month=\count126
+\@year=\count127
+\c@HOUR=\count128
+\c@HOURXII=\count129
+\c@MINUTE=\count130
+\c@TOHOUR=\count131
+\c@TOMINUTE=\count132
+\c@SECOND=\count133
+\currenthour=\count134
+\currentminute=\count135
+\currentsecond=\count136
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count137
+\dayofyear=\count138
+\dayofweek=\count139
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks25
+\dt@b=\toks26
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count140
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen129
+\Hy@linkcounter=\count141
+\Hy@pagecounter=\count142
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count143
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count144
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen130
+\Fld@menulength=\count145
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count146
+\c@Item=\count147
+\c@Hfootnote=\count148
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count149
+\c@bookmark@seq@number=\count150
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip60
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count151
+\output=\toks27
+\linenoprevgraf=\count152
+\linenumbersep=\dimen133
+\linenumberwidth=\dimen134
+\c@linenumber=\count153
+\c@pagewiselinenumber=\count154
+\c@LN@truepage=\count155
+\c@internallinenumber=\count156
+\c@internallinenumbers=\count157
+\quotelinenumbersep=\dimen135
+\bframerule=\dimen136
+\bframesep=\dimen137
+\bframebox=\box33
+LaTeX Info: Redefining \\ on input line 3056.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 70.
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+
+Writing index file main.idx
+(./main.aux (./_title.aux) (./abstract.aux) (./abstractgerman.aux)
+(./acknowledgements.aux) (./ch1_Introduction.aux) (./ch2_LitReview.aux)
+(./ch3_Methodology.aux) (./ch4_Stats.aux
+
+LaTeX Warning: Label `eq:mean' multiply defined.
+
+) (./ch5_Modelbased.aux) (./ch6_Patternbased.aux) (./ch7_Results.aux)
+(./ch8_AMIData.aux) (./ch9_Conclusions.aux) (./App_temporalfeatures.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
+line 81.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input
+ line 81.
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count158
+\scratchdimen=\dimen138
+\scratchbox=\box34
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen139
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
+\everyMPtoPDFconversion=\toks29
+)
+\AtBeginShipoutBox=\box35
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 81.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count164
+)
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
+
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
+put line 81.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 81.
+Package nag Info: Command \topcaption not defined, skipping amendment on input 
+line 81.
+\openout2 = `_title.aux'.
+
+ (./_title.tex [1
+
+
+
+
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex)
+LaTeX Font Info:    Try loading font information for U+msa on input line 100.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 100.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+
+
+
+]
+\openout2 = `abstractgerman.aux'.
+
+
+(./abstractgerman.tex) [3
+
+
+
+]
+\openout2 = `acknowledgements.aux'.
+
+ (./acknowledgements.tex) [4
+
+
+
+] (./main.toc [5
+
+
+]
+[6])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [7] (./main.lof [8
+
+] [9] [10])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [11]
+\openout2 = `ch1_Introduction.aux'.
+
+ (./ch1_Introduction.tex
+Chapter 1.
+[1
+
+
+
+] [2] [3]
+<figures/Figure1_amountofdata/Figure1_amountofdata.png, id=768, 1505.625pt x 80
+0.9925pt>
+File: figures/Figure1_amountofdata/Figure1_amountofdata.png Graphic file (type 
+png)
+ <use figures/Figure1_amountofdata/Figure1_amountofdata.png>
+Package pdftex.def Info: figures/Figure1_amountofdata/Figure1_amountofdata.png 
+used on input line 31.
+(pdftex.def)             Requested size: 448.57715pt x 238.63739pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 35.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+ [4 <./figures/Figure1_amountofdata/Figure1_amountofdata.png>] [5]) [6] [7]
+\openout2 = `ch2_LitReview.aux'.
+
+ (./ch2_LitReview.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[8
+
+
+
+]
+<figures/PieChart_resized/PieChart_resized.png, id=835, 1243.64626pt x 1028.843
+75pt>
+File: figures/PieChart_resized/PieChart_resized.png Graphic file (type png)
+ <use figures/PieChart_resized/PieChart_resized.png>
+Package pdftex.def Info: figures/PieChart_resized/PieChart_resized.png used on 
+input line 20.
+(pdftex.def)             Requested size: 320.41225pt x 265.05974pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 24.
+
+[9]
+<figures/PublicationYear/PublicationYear.png, id=854, 819.06pt x 897.3525pt>
+File: figures/PublicationYear/PublicationYear.png Graphic file (type png)
+
+<use figures/PublicationYear/PublicationYear.png>
+Package pdftex.def Info: figures/PublicationYear/PublicationYear.png used on in
+put line 34.
+(pdftex.def)             Requested size: 256.3298pt x 280.83273pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 38.
+
+[10 <./figures/PieChart_resized/PieChart_resized.png>]
+<figures/PublicationVenues/PublicationVenues.png, id=861, 1505.625pt x 978.6562
+5pt>
+File: figures/PublicationVenues/PublicationVenues.png Graphic file (type png)
+ <use figures/PublicationVenues/PublicationVenues.png>
+Package pdftex.def Info: figures/PublicationVenues/PublicationVenues.png used o
+n input line 46.
+(pdftex.def)             Requested size: 457.7338pt x 297.52654pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 50.
+
+[11 <./figures/PublicationYear/PublicationYear.png>] [12 <./figures/Publication
+Venues/PublicationVenues.png>] [13] [14] [15] [16] [17] [18]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\NAT@nm ->{_jo}
+               
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\NAT@nmfmt #1->{\NAT@up #1}
+                           
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...ibility in science \citep{_journals_2014}
+                                                   and the sharing of data a...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\NAT@nm ->{_co}
+               
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\NAT@nmfmt #1->{\NAT@up #1}
+                           
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...o enhance this pursuit \citep{_code_2014}
+                                                  . The biomedical sciences ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\NAT@nm ->{_jo}
+               
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\NAT@nmfmt #1->{\NAT@up #1}
+                           
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.112 ...of reproducibility \citep{_journals_2014}
+                                                  . Research from the buildi...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[19]) [20]
+\openout2 = `ch3_Methodology.aux'.
+
+ (./ch3_Methodology.tex
+Chapter 3.
+<figures/process/FrameworkOverview3.png, id=1266, 455.301pt x 177.7842pt>
+File: figures/process/FrameworkOverview3.png Graphic file (type png)
+
+<use figures/process/FrameworkOverview3.png>
+Package pdftex.def Info: figures/process/FrameworkOverview3.png used on input l
+ine 12.
+(pdftex.def)             Requested size: 457.7338pt x 178.74133pt.
+
+! Extra }, or forgotten \endgroup.
+l.15 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 16.
+
+[21
+
+
+
+]
+<figures/TypicalFeatures/nontemporalforcechart.png, id=1272, 853.1875pt x 708.6
+475pt>
+File: figures/TypicalFeatures/nontemporalforcechart.png Graphic file (type png)
+
+ <use figures/TypicalFeatures/nontemporalforcechart.png>
+Package pdftex.def Info: figures/TypicalFeatures/nontemporalforcechart.png used
+ on input line 30.
+(pdftex.def)             Requested size: 320.41225pt x 266.13142pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 34.
+
+
+Overfull \hbox (4.38112pt too wide) in paragraph at lines 37--38
+[]\T1/cmr/m/n/12 Modern, whole build-ing elec-tri-cal me-ters mea-sure and re-p
+ort raw, sub-hourly, time-stamped
+ []
+
+[22 <./figures/process/FrameworkOverview3.png>]
+<figures/temporal_metering_examples/temporal_metering_examples.png, id=1279, 90
+.5746pt x 54.81897pt>
+File: figures/temporal_metering_examples/temporal_metering_examples.png Graphic
+ file (type png)
+
+<use figures/temporal_metering_examples/temporal_metering_examples.png>
+Package pdftex.def Info: figures/temporal_metering_examples/temporal_metering_e
+xamples.png used on input line 42.
+(pdftex.def)             Requested size: 448.57715pt x 271.5303pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 46.
+
+
+<figures/temporal_metering_examples_zoomedin/temporal_metering_examples_zoomedi
+n.png, id=1281, 85.45311pt x 52.25822pt>
+File: figures/temporal_metering_examples_zoomedin/temporal_metering_examples_zo
+omedin.png Graphic file (type png)
+
+<use figures/temporal_metering_examples_zoomedin/temporal_metering_examples_zoo
+medin.png>
+Package pdftex.def Info: figures/temporal_metering_examples_zoomedin/temporal_m
+etering_examples_zoomedin.png used on input line 53.
+(pdftex.def)             Requested size: 448.57715pt x 274.37321pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 57.
+
+[23 <./figures/TypicalFeatures/nontemporalforcechart.png>]
+<figures/TemporalFeatures/TemporalFeatures.png, id=1287, 142.26378pt x 91.14366
+pt>
+File: figures/TemporalFeatures/TemporalFeatures.png Graphic file (type png)
+ <use figures/TemporalFeatures/TemporalFeatures.png>
+Package pdftex.def Info: figures/TemporalFeatures/TemporalFeatures.png used on 
+input line 64.
+(pdftex.def)             Requested size: 320.41225pt x 205.29659pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 68.
+
+[24 <./figures/temporal_metering_examples/temporal_metering_examples.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+[]\T1/cmr/m/n/12 Development of a pre-dic-tive
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 79--80
+\T1/cmr/m/n/12 us-ing model pa-ram-e-ters and
+ []
+
+[25 <./figures/temporal_metering_examples_zoomedin/temporal_metering_examples_z
+oomedin.png> <./figures/TemporalFeatures/TemporalFeatures.png>]
+<figures/characterization_process/characterization_process.png, id=1303, 83.651
+11pt x 28.35791pt>
+File: figures/characterization_process/characterization_process.png Graphic fil
+e (type png)
+
+<use figures/characterization_process/characterization_process.png>
+Package pdftex.def Info: figures/characterization_process/characterization_proc
+ess.png used on input line 105.
+(pdftex.def)             Requested size: 448.57715pt x 152.11569pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 109.
+
+[26]
+<figures/CART_tree_titanic_survivors/decision_tree.png, id=1321, 1505.625pt x 8
+99.36pt>
+File: figures/CART_tree_titanic_survivors/decision_tree.png Graphic file (type 
+png)
+ <use figures/CART_tree_titanic_survivors/decision_tree.png>
+Package pdftex.def Info: figures/CART_tree_titanic_survivors/decision_tree.png 
+used on input line 117.
+(pdftex.def)             Requested size: 457.7338pt x 273.41925pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 121.
+
+
+<figures/regressiontrees/regressiontrees.png, id=1327, 1505.625pt x 1024.82875p
+t>
+File: figures/regressiontrees/regressiontrees.png Graphic file (type png)
+ <use figures/regressiontrees/regressiontrees.png>
+Package pdftex.def Info: figures/regressiontrees/regressiontrees.png used on in
+put line 128.
+(pdftex.def)             Requested size: 457.7338pt x 311.56369pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 132.
+
+[27 <./figures/characterization_process/characterization_process.png>] [28 <./f
+igures/CART_tree_titanic_survivors/decision_tree.png>] [29 <./figures/regressio
+ntrees/regressiontrees.png>] [30] [31] [32]
+
+Package nag Warning: \label in float, but not after \caption on input line 186.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]\T1/cmr/m/n/12 Community Open
+ []
+
+
+Overfull \hbox (8.49239pt too wide) in paragraph at lines 196--197
+[]\T1/cmr/m/n/12 https://platform.carbonculture.net| 
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 198--198
+[]\T1/cmr/m/n/12 EnerNOC Green-But-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]\T1/cmr/m/n/12 https://open-enernoc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\T1/cmr/m/n/12 data.s3.amazonaws.com/anon/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+[]\T1/cmr/m/n/12 University of
+ []
+
+
+<figures/casestudybuildinglocations/casestudybuildinglocations.png, id=1379, 13
+88.18625pt x 523.9575pt>
+File: figures/casestudybuildinglocations/casestudybuildinglocations.png Graphic
+ file (type png)
+
+<use figures/casestudybuildinglocations/casestudybuildinglocations.png>
+Package pdftex.def Info: figures/casestudybuildinglocations/casestudybuildinglo
+cations.png used on input line 215.
+(pdftex.def)             Requested size: 448.57715pt x 169.30878pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 219.
+
+<figures/timezonesbar1/timezonesbar.png, id=1381, 49.03358pt x 29.40118pt>
+File: figures/timezonesbar1/timezonesbar.png Graphic file (type png)
+
+<use figures/timezonesbar1/timezonesbar.png>
+Package pdftex.def Info: figures/timezonesbar1/timezonesbar.png used on input l
+ine 226.
+(pdftex.def)             Requested size: 448.57715pt x 268.98438pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 230.
+
+[33] <figures/bar_industry/bar_industry.png, id=1389, 48.6542pt x 29.40118pt>
+File: figures/bar_industry/bar_industry.png Graphic file (type png)
+
+<use figures/bar_industry/bar_industry.png>
+Package pdftex.def Info: figures/bar_industry/bar_industry.png used on input li
+ne 237.
+(pdftex.def)             Requested size: 448.57715pt x 271.23198pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 241.
+
+
+<figures/bar_subindustry/bar_subindustry.png, id=1390, 51.78401pt x 29.40118pt>
+File: figures/bar_subindustry/bar_subindustry.png Graphic file (type png)
+<use figures/bar_subindustry/bar_subindustry.png>
+Package pdftex.def Info: figures/bar_subindustry/bar_subindustry.png used on in
+put line 246.
+(pdftex.def)             Requested size: 448.57715pt x 254.69925pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 250.
+
+[34 <./figures/casestudybuildinglocations/casestudybuildinglocations.png> <./fi
+gures/timezonesbar1/timezonesbar.png>]
+
+LaTeX Warning: Text page 35 contains only floats.
+
+
+Overfull \vbox (3.17119pt too high) has occurred while \output is active []
+
+
+[35 <./figures/bar_industry/bar_industry.png> <./figures/bar_subindustry/bar_su
+bindustry.png>]
+<figures/bar_primaryspaceuse1/bar_primaryspaceuse.png, id=1403, 52.73244pt x 29
+.40118pt>
+File: figures/bar_primaryspaceuse1/bar_primaryspaceuse.png Graphic file (type p
+ng)
+ <use figures/bar_primaryspaceuse1/bar_primaryspaceuse.png>
+Package pdftex.def Info: figures/bar_primaryspaceuse1/bar_primaryspaceuse.png u
+sed on input line 260.
+(pdftex.def)             Requested size: 448.57715pt x 250.16994pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 264.
+
+) [36 <./figures/bar_primaryspaceuse1/bar_primaryspaceuse.png>]
+\openout2 = `ch4_Stats.aux'.
+
+
+(./ch4_Stats.tex
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[37
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[38]
+<figures/normalizedcons_example/normalizedcons_example.png, id=1432, 60.69922pt
+ x 24.75389pt>
+File: figures/normalizedcons_example/normalizedcons_example.png Graphic file (t
+ype png)
+ <use figures/normalizedcons_example/normalizedcons_example.png>
+Package pdftex.def Info: figures/normalizedcons_example/normalizedcons_example.
+png used on input line 41.
+(pdftex.def)             Requested size: 457.7338pt x 186.70477pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 45.
+
+[39 <./figures/normalizedcons_example/normalizedcons_example.png>]
+<figures/loadratio_example/loadratio_example.png, id=1442, 59.18173pt x 24.7538
+9pt>
+File: figures/loadratio_example/loadratio_example.png Graphic file (type png)
+ <use figures/loadratio_example/loadratio_example.png>
+Package pdftex.def Info: figures/loadratio_example/loadratio_example.png used o
+n input line 59.
+(pdftex.def)             Requested size: 457.7338pt x 191.53761pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 63.
+
+[40 <./figures/loadratio_example/loadratio_example.png>]
+<figures/weathersensitivity/weathersensitivity.png, id=1454, 87.72932pt x 119.4
+0674pt>
+File: figures/weathersensitivity/weathersensitivity.png Graphic file (type png)
+
+ <use figures/weathersensitivity/weathersensitivity.png>
+Package pdftex.def Info: figures/weathersensitivity/weathersensitivity.png used
+ on input line 88.
+(pdftex.def)             Requested size: 256.3298pt x 348.92528pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 92.
+
+[41]
+<figures/spearman_example/spearman_example.png, id=1467, 60.98373pt x 24.75389p
+t>
+File: figures/spearman_example/spearman_example.png Graphic file (type png)
+ <use figures/spearman_example/spearman_example.png>
+Package pdftex.def Info: figures/spearman_example/spearman_example.png used on 
+input line 99.
+(pdftex.def)             Requested size: 457.7338pt x 185.8436pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 103.
+
+[42 <./figures/weathersensitivity/weathersensitivity.png>]
+<figures/normalizedcons_heatmap/normalizedcons_heatmap.png, id=1474, 61.36311pt
+ x 72.08032pt>
+File: figures/normalizedcons_heatmap/normalizedcons_heatmap.png Graphic file (t
+ype png)
+ <use figures/normalizedcons_heatmap/normalizedcons_heatmap.png>
+Package pdftex.def Info: figures/normalizedcons_heatmap/normalizedcons_heatmap.
+png used on input line 111.
+(pdftex.def)             Requested size: 457.7338pt x 537.8459pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 115.
+
+
+<figures/loadratio_heatmap/loadratio_heatmap.png, id=1476, 61.26826pt x 72.0803
+2pt>
+File: figures/loadratio_heatmap/loadratio_heatmap.png Graphic file (type png)
+ <use figures/loadratio_heatmap/loadratio_heatmap.png>
+Package pdftex.def Info: figures/loadratio_heatmap/loadratio_heatmap.png used o
+n input line 122.
+(pdftex.def)             Requested size: 457.7338pt x 538.6686pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 126.
+
+
+<figures/spearman_heatmap/spearman_heatmap.png, id=1477, 61.26826pt x 72.08032p
+t>
+File: figures/spearman_heatmap/spearman_heatmap.png Graphic file (type png)
+ <use figures/spearman_heatmap/spearman_heatmap.png>
+Package pdftex.def Info: figures/spearman_heatmap/spearman_heatmap.png used on 
+input line 131.
+(pdftex.def)             Requested size: 457.7338pt x 538.6686pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 135.
+
+) [43 <./figures/spearman_example/spearman_example.png>] [44 <./figures/normali
+zedcons_heatmap/normalizedcons_heatmap.png>] [45 <./figures/loadratio_heatmap/l
+oadratio_heatmap.png>] [46 <./figures/spearman_heatmap/spearman_heatmap.png>]
+\openout2 = `ch5_Modelbased.aux'.
+
+
+(./ch5_Modelbased.tex
+Chapter 5.
+[47
+
+
+
+] [48]
+<figures/loadshape_example/loadshape_example.png, id=1535, 60.69922pt x 30.2547
+6pt>
+File: figures/loadshape_example/loadshape_example.png Graphic file (type png)
+ <use figures/loadshape_example/loadshape_example.png>
+Package pdftex.def Info: figures/loadshape_example/loadshape_example.png used o
+n input line 40.
+(pdftex.def)             Requested size: 457.7338pt x 228.19478pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 44.
+
+[49 <./figures/loadshape_example/loadshape_example.png>]
+<figures/changepointmodel_kissock/changepointmodel_kissock.png, id=1546, 117.31
+83pt x 39.9894pt>
+File: figures/changepointmodel_kissock/changepointmodel_kissock.png Graphic fil
+e (type png)
+
+<use figures/changepointmodel_kissock/changepointmodel_kissock.png>
+Package pdftex.def Info: figures/changepointmodel_kissock/changepointmodel_kiss
+ock.png used on input line 54.
+(pdftex.def)             Requested size: 384.4947pt x 131.06535pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 58.
+
+[50 <./figures/changepointmodel_kissock/changepointmodel_kissock.png>]
+<figures/Changepointmodelexample/Changepointmodelexample.png, id=1566, 85.26343
+pt x 30.82382pt>
+File: figures/Changepointmodelexample/Changepointmodelexample.png Graphic file 
+(type png)
+
+<use figures/Changepointmodelexample/Changepointmodelexample.png>
+Package pdftex.def Info: figures/Changepointmodelexample/Changepointmodelexampl
+e.png used on input line 77.
+(pdftex.def)             Requested size: 457.7338pt x 165.5021pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 81.
+
+[51 <./figures/Changepointmodelexample/Changepointmodelexample.png>]
+<figures/cooling_example/cooling_example.png, id=1575, 60.03531pt x 24.75389pt>
+File: figures/cooling_example/cooling_example.png Graphic file (type png)
+<use figures/cooling_example/cooling_example.png>
+Package pdftex.def Info: figures/cooling_example/cooling_example.png used on in
+put line 88.
+(pdftex.def)             Requested size: 457.7338pt x 188.74594pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 92.
+
+
+<figures/heating_example/heating_example.png, id=1576, 59.65594pt x 24.75389pt>
+File: figures/heating_example/heating_example.png Graphic file (type png)
+<use figures/heating_example/heating_example.png>
+Package pdftex.def Info: figures/heating_example/heating_example.png used on in
+put line 97.
+(pdftex.def)             Requested size: 457.7338pt x 190.03168pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 101.
+
+[52 <./figures/cooling_example/cooling_example.png> <./figures/heating_example/
+heating_example.png>] [53]
+<figures/stl_explanation/stl_explanation.png, id=1599, 425.59pt x 425.59pt>
+File: figures/stl_explanation/stl_explanation.png Graphic file (type png)
+
+<use figures/stl_explanation/stl_explanation.png>
+Package pdftex.def Info: figures/stl_explanation/stl_explanation.png used on in
+put line 125.
+(pdftex.def)             Requested size: 320.41225pt x 320.43205pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 129.
+
+
+<figures/stl_seasonal_example/stl_seasonal_example.png, id=1601, 59.37141pt x 2
+4.75389pt>
+File: figures/stl_seasonal_example/stl_seasonal_example.png Graphic file (type 
+png)
+ <use figures/stl_seasonal_example/stl_seasonal_example.png>
+Package pdftex.def Info: figures/stl_seasonal_example/stl_seasonal_example.png 
+used on input line 136.
+(pdftex.def)             Requested size: 457.7338pt x 190.93253pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 140.
+
+[54 <./figures/stl_explanation/stl_explanation.png>]
+<figures/stl_weathernorm_trend_example/stl_weathernorm_trend_example.png, id=16
+08, 59.18173pt x 24.75389pt>
+File: figures/stl_weathernorm_trend_example/stl_weathernorm_trend_example.png G
+raphic file (type png)
+
+<use figures/stl_weathernorm_trend_example/stl_weathernorm_trend_example.png>
+Package pdftex.def Info: figures/stl_weathernorm_trend_example/stl_weathernorm_
+trend_example.png used on input line 148.
+(pdftex.def)             Requested size: 457.7338pt x 191.53761pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 152.
+
+
+<figures/stl_weathernorm_remainder_example/stl_weathernorm_remainder_example.pn
+g, id=1611, 59.18173pt x 24.75389pt>
+File: figures/stl_weathernorm_remainder_example/stl_weathernorm_remainder_examp
+le.png Graphic file (type png)
+
+<use figures/stl_weathernorm_remainder_example/stl_weathernorm_remainder_exampl
+e.png>
+Package pdftex.def Info: figures/stl_weathernorm_remainder_example/stl_weathern
+orm_remainder_example.png used on input line 160.
+(pdftex.def)             Requested size: 457.7338pt x 191.53761pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 164.
+
+[55 <./figures/stl_seasonal_example/stl_seasonal_example.png>] [56 <./figures/s
+tl_weathernorm_trend_example/stl_weathernorm_trend_example.png> <./figures/stl_
+weathernorm_remainder_example/stl_weathernorm_remainder_example.png>]
+<figures/loadshape_heatmap/loadshape_heatmap.png, id=1625, 61.36311pt x 72.0803
+2pt>
+File: figures/loadshape_heatmap/loadshape_heatmap.png Graphic file (type png)
+ <use figures/loadshape_heatmap/loadshape_heatmap.png>
+Package pdftex.def Info: figures/loadshape_heatmap/loadshape_heatmap.png used o
+n input line 174.
+(pdftex.def)             Requested size: 457.7338pt x 537.8459pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 178.
+
+
+<figures/cooling_heatmap/cooling_heatmap.png, id=1628, 61.64764pt x 72.08032pt>
+File: figures/cooling_heatmap/cooling_heatmap.png Graphic file (type png)
+<use figures/cooling_heatmap/cooling_heatmap.png>
+Package pdftex.def Info: figures/cooling_heatmap/cooling_heatmap.png used on in
+put line 185.
+(pdftex.def)             Requested size: 457.7338pt x 535.39102pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 189.
+
+
+<figures/heating_heatmap/heating_heatmap.png, id=1629, 61.64764pt x 72.08032pt>
+File: figures/heating_heatmap/heating_heatmap.png Graphic file (type png)
+<use figures/heating_heatmap/heating_heatmap.png>
+Package pdftex.def Info: figures/heating_heatmap/heating_heatmap.png used on in
+put line 194.
+(pdftex.def)             Requested size: 457.7338pt x 535.39102pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 198.
+
+
+<figures/stl_weathernorm_weeklypattern_heatmap/stl_weathernorm_weeklypattern_he
+atmap.png, id=1631, 61.26826pt x 72.08032pt>
+File: figures/stl_weathernorm_weeklypattern_heatmap/stl_weathernorm_weeklypatte
+rn_heatmap.png Graphic file (type png)
+
+<use figures/stl_weathernorm_weeklypattern_heatmap/stl_weathernorm_weeklypatter
+n_heatmap.png>
+Package pdftex.def Info: figures/stl_weathernorm_weeklypattern_heatmap/stl_weat
+hernorm_weeklypattern_heatmap.png used on input line 206.
+(pdftex.def)             Requested size: 457.7338pt x 538.6686pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 210.
+
+[57] [58 <./figures/loadshape_heatmap/loadshape_heatmap.png>] [59 <./figures/co
+oling_heatmap/cooling_heatmap.png>]
+<figures/stl_weathernorm_trend_heatmap/stl_weathernorm_trend_heatmap.png, id=16
+47, 61.26826pt x 71.89063pt>
+File: figures/stl_weathernorm_trend_heatmap/stl_weathernorm_trend_heatmap.png G
+raphic file (type png)
+
+<use figures/stl_weathernorm_trend_heatmap/stl_weathernorm_trend_heatmap.png>
+Package pdftex.def Info: figures/stl_weathernorm_trend_heatmap/stl_weathernorm_
+trend_heatmap.png used on input line 218.
+(pdftex.def)             Requested size: 457.7338pt x 537.25084pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 222.
+
+[60 <./figures/heating_heatmap/heating_heatmap.png>] [61 <./figures/stl_weather
+norm_weeklypattern_heatmap/stl_weathernorm_weeklypattern_heatmap.png>] [62 <./f
+igures/stl_weathernorm_trend_heatmap/stl_weathernorm_trend_heatmap.png>]
+<figures/stl_weathernorm_remainder_heatmap/stl_weathernorm_remainder_heatmap.pn
+g, id=1665, 61.36311pt x 71.89063pt>
+File: figures/stl_weathernorm_remainder_heatmap/stl_weathernorm_remainder_heatm
+ap.png Graphic file (type png)
+
+<use figures/stl_weathernorm_remainder_heatmap/stl_weathernorm_remainder_heatma
+p.png>
+Package pdftex.def Info: figures/stl_weathernorm_remainder_heatmap/stl_weathern
+orm_remainder_heatmap.png used on input line 229.
+(pdftex.def)             Requested size: 457.7338pt x 536.4303pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 233.
+
+) [63 <./figures/stl_weathernorm_remainder_heatmap/stl_weathernorm_remainder_he
+atmap.png>] [64]
+\openout2 = `ch6_Patternbased.aux'.
+
+ (./ch6_Patternbased.tex
+Chapter 6.
+[65
+
+
+
+]
+<figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png, id=1696, 
+79.8574pt x 35.4711pt>
+File: figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png Graph
+ic file (type png)
+
+<use figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png>
+Package pdftex.def Info: figures/ClusteringProcessDiagram_V4/ClusteringProcessD
+iagram_V4.png used on input line 23.
+(pdftex.def)             Requested size: 457.7338pt x 203.35039pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 27.
+
+[66]
+<figures/SAXBreakpoints/SAXBreakpoints.png, id=1712, 27.59917pt x 12.42438pt>
+File: figures/SAXBreakpoints/SAXBreakpoints.png Graphic file (type png)
+
+<use figures/SAXBreakpoints/SAXBreakpoints.png>
+Package pdftex.def Info: figures/SAXBreakpoints/SAXBreakpoints.png used on inpu
+t line 43.
+(pdftex.def)             Requested size: 192.24734pt x 86.56111pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 47.
+
+[67 <./figures/ClusteringProcessDiagram_V4/ClusteringProcessDiagram_V4.png>]
+<figures/SAXCreationV2/SAXCreationV2.png, id=1733, 106.4133pt x 36.6092pt>
+File: figures/SAXCreationV2/SAXCreationV2.png Graphic file (type png)
+
+<use figures/SAXCreationV2/SAXCreationV2.png>
+Package pdftex.def Info: figures/SAXCreationV2/SAXCreationV2.png used on input 
+line 54.
+(pdftex.def)             Requested size: 320.41225pt x 110.23787pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 58.
+
+[68 <./figures/SAXBreakpoints/SAXBreakpoints.png> <./figures/SAXCreationV2/SAXC
+reationV2.png>]
+<figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png, id=1753, 102.33508p
+t x 39.9287pt>
+File: figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png Graphic file (t
+ype png)
+ <use figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png>
+Package pdftex.def Info: figures/SAXWordExample_BarLine/SAXWordExample_BarLine.
+png used on input line 70.
+(pdftex.def)             Requested size: 457.7338pt x 178.63559pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 74.
+
+[69 <./figures/SAXWordExample_BarLine/SAXWordExample_BarLine.png>]
+<figures/DiscordSankeyExample/DiscordSankeyExample.png, id=1767, 86.9706pt x 28
+.26308pt>
+File: figures/DiscordSankeyExample/DiscordSankeyExample.png Graphic file (type 
+png)
+ <use figures/DiscordSankeyExample/DiscordSankeyExample.png>
+Package pdftex.def Info: figures/DiscordSankeyExample/DiscordSankeyExample.png 
+used on input line 89.
+(pdftex.def)             Requested size: 384.4947pt x 124.95253pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 93.
+
+[70 <./figures/DiscordSankeyExample/DiscordSankeyExample.png>]
+<figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatmapV2.pn
+g, id=1788, 131.92595pt x 34.333pt>
+File: figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatmap
+V2.png Graphic file (type png)
+
+<use figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatmapV
+2.png>
+Package pdftex.def Info: figures/DiscordSankeyExampleWithHeatmapV2/DiscordSanke
+yExampleWithHeatmapV2.png used on input line 102.
+(pdftex.def)             Requested size: 457.7338pt x 119.13992pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 106.
+
+[71 <./figures/DiscordSankeyExampleWithHeatmapV2/DiscordSankeyExampleWithHeatma
+pV2.png>]
+<figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png, id=1801, 
+142.26378pt x 150.23055pt>
+File: figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png Graph
+ic file (type png)
+
+<use figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png>
+Package pdftex.def Info: figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_Sankey
+HeatmapV2.png used on input line 115.
+(pdftex.def)             Requested size: 457.7338pt x 483.41121pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 119.
+
+
+<figures/dayfilter_example1/dayfilter_example1.png, id=1807, 59.65594pt x 24.75
+389pt>
+File: figures/dayfilter_example1/dayfilter_example1.png Graphic file (type png)
+
+ <use figures/dayfilter_example1/dayfilter_example1.png>
+Package pdftex.def Info: figures/dayfilter_example1/dayfilter_example1.png used
+ on input line 128.
+(pdftex.def)             Requested size: 457.7338pt x 190.03168pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 132.
+
+[72] [73 <./figures/UWC_Chiller_SankeyHeatmapV2/UWC_Chiller_SankeyHeatmapV2.png
+>] <figures/jmotif/jmotif.png, id=1825, 1505.625pt x 787.94376pt>
+File: figures/jmotif/jmotif.png Graphic file (type png)
+
+<use figures/jmotif/jmotif.png>
+Package pdftex.def Info: figures/jmotif/jmotif.png used on input line 144.
+(pdftex.def)             Requested size: 448.57715pt x 234.74982pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 148.
+
+[74 <./figures/dayfilter_example1/dayfilter_example1.png>]
+<figures/jmotif_tfidfspec/jmotif_tfidfspec.png, id=1837, 1470.49374pt x 484.811
+25pt>
+File: figures/jmotif_tfidfspec/jmotif_tfidfspec.png Graphic file (type png)
+ <use figures/jmotif_tfidfspec/jmotif_tfidfspec.png>
+Package pdftex.def Info: figures/jmotif_tfidfspec/jmotif_tfidfspec.png used on 
+input line 157.
+(pdftex.def)             Requested size: 457.7338pt x 150.91133pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 161.
+
+
+<figures/jmotif_alldatatrained_dailyspecificity_example_24_8_8/jmotif_alldatatr
+ained_dailyspecificity_example_24_8_8.png, id=1843, 59.08688pt x 24.75389pt>
+File: figures/jmotif_alldatatrained_dailyspecificity_example_24_8_8/jmotif_alld
+atatrained_dailyspecificity_example_24_8_8.png Graphic file (type png)
+
+<use figures/jmotif_alldatatrained_dailyspecificity_example_24_8_8/jmotif_allda
+tatrained_dailyspecificity_example_24_8_8.png>
+Package pdftex.def Info: figures/jmotif_alldatatrained_dailyspecificity_example
+_24_8_8/jmotif_alldatatrained_dailyspecificity_example_24_8_8.png used on input
+ line 168.
+(pdftex.def)             Requested size: 457.7338pt x 191.84167pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 172.
+
+[75 <./figures/jmotif/jmotif.png>] [76 <./figures/jmotif_tfidfspec/jmotif_tfidf
+spec.png> <./figures/jmotif_alldatatrained_dailyspecificity_example_24_8_8/jmot
+if_alldatatrained_dailyspecificity_example_24_8_8.png>]
+<figures/jmotif_alldatatrained_dailyspecificity_example_168_6_14/jmotif_alldata
+trained_dailyspecificity_example_168_6_14.png, id=1854, 59.65594pt x 24.75389pt
+>
+File: figures/jmotif_alldatatrained_dailyspecificity_example_168_6_14/jmotif_al
+ldatatrained_dailyspecificity_example_168_6_14.png Graphic file (type png)
+
+<use figures/jmotif_alldatatrained_dailyspecificity_example_168_6_14/jmotif_all
+datatrained_dailyspecificity_example_168_6_14.png>
+Package pdftex.def Info: figures/jmotif_alldatatrained_dailyspecificity_example
+_168_6_14/jmotif_alldatatrained_dailyspecificity_example_168_6_14.png used on i
+nput line 179.
+(pdftex.def)             Requested size: 457.7338pt x 190.03168pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 183.
+
+[77 <./figures/jmotif_alldatatrained_dailyspecificity_example_168_6_14/jmotif_a
+lldatatrained_dailyspecificity_example_168_6_14.png>]
+<figures/breakout_example/breakout_example.png, id=1869, 59.84563pt x 24.75389p
+t>
+File: figures/breakout_example/breakout_example.png Graphic file (type png)
+ <use figures/breakout_example/breakout_example.png>
+Package pdftex.def Info: figures/breakout_example/breakout_example.png used on 
+input line 197.
+(pdftex.def)             Requested size: 457.7338pt x 189.33707pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 201.
+
+
+<figures/dayfilter_heatmap/dayfilter_heatmap.png, id=1871, 61.64764pt x 72.0803
+2pt>
+File: figures/dayfilter_heatmap/dayfilter_heatmap.png Graphic file (type png)
+ <use figures/dayfilter_heatmap/dayfilter_heatmap.png>
+Package pdftex.def Info: figures/dayfilter_heatmap/dayfilter_heatmap.png used o
+n input line 211.
+(pdftex.def)             Requested size: 457.7338pt x 535.39102pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 215.
+
+
+<figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8/jmotif_inclassspec_allb
+uildings_heatmap_24_8_8.png, id=1873, 61.26826pt x 72.08032pt>
+File: figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8/jmotif_inclassspec
+_allbuildings_heatmap_24_8_8.png Graphic file (type png)
+
+<use figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8/jmotif_inclassspec_
+allbuildings_heatmap_24_8_8.png>
+Package pdftex.def Info: figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8
+/jmotif_inclassspec_allbuildings_heatmap_24_8_8.png used on input line 222.
+(pdftex.def)             Requested size: 457.7338pt x 538.6686pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 226.
+
+[78]
+<figures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclassspec_al
+lbuildings_heatmap_168_6_14.png, id=1881, 61.26826pt x 72.08032pt>
+File: figures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclasssp
+ec_allbuildings_heatmap_168_6_14.png Graphic file (type png)
+
+<use figures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclassspe
+c_allbuildings_heatmap_168_6_14.png>
+Package pdftex.def Info: figures/jmotif_inclassspec_allbuildings_heatmap_168_6_
+14/jmotif_inclassspec_allbuildings_heatmap_168_6_14.png used on input line 233.
+
+(pdftex.def)             Requested size: 457.7338pt x 538.6686pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 237.
+
+
+<figures/breakouts_heatmap/breakouts_heatmap.png, id=1883, 61.17343pt x 72.0803
+2pt>
+File: figures/breakouts_heatmap/breakouts_heatmap.png Graphic file (type png)
+ <use figures/breakouts_heatmap/breakouts_heatmap.png>
+Package pdftex.def Info: figures/breakouts_heatmap/breakouts_heatmap.png used o
+n input line 245.
+(pdftex.def)             Requested size: 457.7338pt x 539.49458pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 249.
+
+) [79 <./figures/breakout_example/breakout_example.png>] [80 <./figures/dayfilt
+er_heatmap/dayfilter_heatmap.png>] [81 <./figures/jmotif_inclassspec_allbuildin
+gs_heatmap_24_8_8/jmotif_inclassspec_allbuildings_heatmap_24_8_8.png>] [82 <./f
+igures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclassspec_allb
+uildings_heatmap_168_6_14.png>] [83 <./figures/breakouts_heatmap/breakouts_heat
+map.png>]
+\openout2 = `ch7_Results.aux'.
+
+ (./ch7_Results.tex
+Chapter 7.
+[84
+
+
+
+]
+<figures/enegystar_buildingtypes/enegystar_buildingtypes.png, id=1918, 1405.25p
+t x 1535.7375pt>
+File: figures/enegystar_buildingtypes/enegystar_buildingtypes.png Graphic file 
+(type png)
+
+<use figures/enegystar_buildingtypes/enegystar_buildingtypes.png>
+Package pdftex.def Info: figures/enegystar_buildingtypes/enegystar_buildingtype
+s.png used on input line 20.
+(pdftex.def)             Requested size: 320.41225pt x 350.16585pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 24.
+
+
+LaTeX Warning: Reference `sec:featureextraction' on page 85 undefined on input 
+line 29.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+[85 <./figures/enegystar_buildingtypes/enegystar_buildingtypes.png>]
+<figures/ConfusionMatrixBuildingUseType/ConfusionMatrixBuildingUseType.png, id=
+1925, 73.21843pt x 65.63103pt>
+File: figures/ConfusionMatrixBuildingUseType/ConfusionMatrixBuildingUseType.png
+ Graphic file (type png)
+
+<use figures/ConfusionMatrixBuildingUseType/ConfusionMatrixBuildingUseType.png>
+Package pdftex.def Info: figures/ConfusionMatrixBuildingUseType/ConfusionMatrix
+BuildingUseType.png used on input line 33.
+(pdftex.def)             Requested size: 457.7338pt x 410.47227pt.
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 37.
+
+
+<figures/FeatureImportanceBuildingUseType1/FeatureImportanceBuildingUseType1.pn
+g, id=1927, 101.00728pt x 39.45448pt>
+File: figures/FeatureImportanceBuildingUseType1/FeatureImportanceBuildingUseTyp
+e1.png Graphic file (type png)
+
+<use figures/FeatureImportanceBuildingUseType1/FeatureImportanceBuildingUseType
+1.png>
+Package pdftex.def Info: figures/FeatureImportanceBuildingUseType1/FeatureImpor
+tanceBuildingUseType1.png used on input line 44.
+(pdftex.def)             Requested size: 457.7338pt x 178.80774pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 48.
+
+[86] [87 <./figures/ConfusionMatrixBuildingUseType/ConfusionMatrixBuildingUseTy
+pe.png>]
+<figures/Output_UnivDormVsClass_Top40/Output_UnivDormVsLab_Top40.png, id=1943, 
+963.6pt x 675.52374pt>
+File: figures/Output_UnivDormVsClass_Top40/Output_UnivDormVsLab_Top40.png Graph
+ic file (type png)
+
+<use figures/Output_UnivDormVsClass_Top40/Output_UnivDormVsLab_Top40.png>
+Package pdftex.def Info: figures/Output_UnivDormVsClass_Top40/Output_UnivDormVs
+Lab_Top40.png used on input line 62.
+(pdftex.def)             Requested size: 457.7338pt x 320.88742pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 66.
+
+
+<figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_1-5.pn
+g, id=1945, 489.83pt x 538.01pt>
+File: figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_1
+-5.png Graphic file (type png)
+
+<use figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_1-
+5.png>
+Package pdftex.def Info: figures/Output_UnivDormVsLab_Features_1-5/Output_UnivD
+ormVsLab_Features_1-5.png used on input line 73.
+(pdftex.def)             Requested size: 320.41225pt x 351.9353pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 77.
+
+
+<figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab_Dist.png, id=1947, 963.
+6pt x 754.82pt>
+File: figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab_Dist.png Graphic f
+ile (type png)
+
+<use figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab_Dist.png>
+Package pdftex.def Info: figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab
+_Dist.png used on input line 84.
+(pdftex.def)             Requested size: 320.41225pt x 250.98026pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 88.
+
+[88 <./figures/FeatureImportanceBuildingUseType1/FeatureImportanceBuildingUseTy
+pe1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
+
+ []
+
+[89 <./figures/Output_UnivDormVsClass_Top40/Output_UnivDormVsLab_Top40.png>]
+[90 <./figures/Output_UnivDormVsLab_Features_1-5/Output_UnivDormVsLab_Features_
+1-5.png>]
+<figures/buildingusecharacterization/buildingusecharacterization.png, id=1963, 
+747.79375pt x 390.45876pt>
+File: figures/buildingusecharacterization/buildingusecharacterization.png Graph
+ic file (type png)
+
+<use figures/buildingusecharacterization/buildingusecharacterization.png>
+Package pdftex.def Info: figures/buildingusecharacterization/buildingusecharact
+erization.png used on input line 102.
+(pdftex.def)             Requested size: 448.57715pt x 234.22343pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 106.
+
+[91 <./figures/Output_UnivDormVsLab_Dist/Output_UnivDormVsLab_Dist.png>]
+<figures/clustering_weekly/clustering_weekly.png, id=1969, 1505.625pt x 994.716
+25pt>
+File: figures/clustering_weekly/clustering_weekly.png Graphic file (type png)
+ <use figures/clustering_weekly/clustering_weekly.png>
+Package pdftex.def Info: figures/clustering_weekly/clustering_weekly.png used o
+n input line 113.
+(pdftex.def)             Requested size: 457.7338pt x 302.40903pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 117.
+
+
+<figures/clusteringweekly_zoom/clusteringweekly_zoom.png, id=1971, 1505.625pt x
+ 992.70876pt>
+File: figures/clusteringweekly_zoom/clusteringweekly_zoom.png Graphic file (typ
+e png)
+ <use figures/clusteringweekly_zoom/clusteringweekly_zoom.png>
+Package pdftex.def Info: figures/clusteringweekly_zoom/clusteringweekly_zoom.pn
+g used on input line 124.
+(pdftex.def)             Requested size: 457.7338pt x 301.79872pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 128.
+
+[92 <./figures/buildingusecharacterization/buildingusecharacterization.png>]
+[93 <./figures/clustering_weekly/clustering_weekly.png>]
+<figures/ConfusionMatrixPerformanceLevelClass/ConfusionMatrixPerformanceLevelCl
+ass.png, id=1983, 73.50296pt x 65.44135pt>
+File: figures/ConfusionMatrixPerformanceLevelClass/ConfusionMatrixPerformanceLe
+velClass.png Graphic file (type png)
+
+<use figures/ConfusionMatrixPerformanceLevelClass/ConfusionMatrixPerformanceLev
+elClass.png>
+Package pdftex.def Info: figures/ConfusionMatrixPerformanceLevelClass/Confusion
+MatrixPerformanceLevelClass.png used on input line 140.
+(pdftex.def)             Requested size: 457.7338pt x 407.54538pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 144.
+
+
+<figures/FeatureImportancePerformanceLevelClass/FeatureImportancePerformanceLev
+elClass.png, id=1985, 101.00728pt x 39.45448pt>
+File: figures/FeatureImportancePerformanceLevelClass/FeatureImportancePerforman
+ceLevelClass.png Graphic file (type png)
+
+<use figures/FeatureImportancePerformanceLevelClass/FeatureImportancePerformanc
+eLevelClass.png>
+Package pdftex.def Info: figures/FeatureImportancePerformanceLevelClass/Feature
+ImportancePerformanceLevelClass.png used on input line 151.
+(pdftex.def)             Requested size: 457.7338pt x 178.80774pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 155.
+
+[94 <./figures/clusteringweekly_zoom/clusteringweekly_zoom.png>] [95 <./figures
+/ConfusionMatrixPerformanceLevelClass/ConfusionMatrixPerformanceLevelClass.png>
+]
+<figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png, id=1997, 1505.625pt
+ x 1040.88875pt>
+File: figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png Graphic file (t
+ype png)
+
+<use figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png>
+Package pdftex.def Info: figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.
+png used on input line 165.
+(pdftex.def)             Requested size: 457.7338pt x 316.44617pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 169.
+
+[96 <./figures/FeatureImportancePerformanceLevelClass/FeatureImportancePerforma
+nceLevelClass.png>]
+<figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png, id=20
+04, 987.69pt x 1067.99pt>
+File: figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png G
+raphic file (type png)
+
+<use figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png>
+Package pdftex.def Info: figures/Output_HighvsLow_Features_1-5/Output_HighvsLow
+_Features_1-5.png used on input line 176.
+(pdftex.def)             Requested size: 320.41225pt x 346.45709pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 180.
+
+
+<figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png, id=2006, 963.6pt x 75
+4.82pt>
+File: figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png Graphic file (typ
+e png)
+ <use figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png>
+Package pdftex.def Info: figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.pn
+g used on input line 187.
+(pdftex.def)             Requested size: 320.41225pt x 250.98026pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 191.
+
+[97 <./figures/Output_HighvsLow_Top40/Output_HighvsLow_Top40.png>]
+<figures/consumptionbreakdown/consumptionbreakdown.png, id=2013, 142.26378pt x 
+64.96713pt>
+File: figures/consumptionbreakdown/consumptionbreakdown.png Graphic file (type 
+png)
+ <use figures/consumptionbreakdown/consumptionbreakdown.png>
+Package pdftex.def Info: figures/consumptionbreakdown/consumptionbreakdown.png 
+used on input line 201.
+(pdftex.def)             Requested size: 448.57715pt x 204.86858pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 205.
+
+[98 <./figures/Output_HighvsLow_Features_1-5/Output_HighvsLow_Features_1-5.png>
+] [99 <./figures/Output_HighvsLow_Dist/Output_HighvsLow_Dist.png> <./figures/co
+nsumptionbreakdown/consumptionbreakdown.png>]
+<figures/benchmarkingbuildings/benchmarkingbuildings.png, id=2025, 142.26378pt 
+x 61.26826pt>
+File: figures/benchmarkingbuildings/benchmarkingbuildings.png Graphic file (typ
+e png)
+ <use figures/benchmarkingbuildings/benchmarkingbuildings.png>
+Package pdftex.def Info: figures/benchmarkingbuildings/benchmarkingbuildings.pn
+g used on input line 212.
+(pdftex.def)             Requested size: 448.57715pt x 193.20447pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 216.
+
+[100 <./figures/benchmarkingbuildings/benchmarkingbuildings.png>]
+<figures/ConfusionMatrixOperationsClass/ConfusionMatrixOperationsClass.png, id=
+2032, 73.21843pt x 65.53618pt>
+File: figures/ConfusionMatrixOperationsClass/ConfusionMatrixOperationsClass.png
+ Graphic file (type png)
+
+<use figures/ConfusionMatrixOperationsClass/ConfusionMatrixOperationsClass.png>
+Package pdftex.def Info: figures/ConfusionMatrixOperationsClass/ConfusionMatrix
+OperationsClass.png used on input line 226.
+(pdftex.def)             Requested size: 457.7338pt x 409.87897pt.
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 230.
+
+[101 <./figures/ConfusionMatrixOperationsClass/ConfusionMatrixOperationsClass.p
+ng>]
+<figures/FeatureImportanceOperationsClass/FeatureImportanceOperationsClass.png,
+ id=2039, 101.00728pt x 39.45448pt>
+File: figures/FeatureImportanceOperationsClass/FeatureImportanceOperationsClass
+.png Graphic file (type png)
+
+<use figures/FeatureImportanceOperationsClass/FeatureImportanceOperationsClass.
+png>
+Package pdftex.def Info: figures/FeatureImportanceOperationsClass/FeatureImport
+anceOperationsClass.png used on input line 237.
+(pdftex.def)             Requested size: 457.7338pt x 178.80774pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 241.
+
+
+<figures/Output_Group1vsGroup2_Top40/Output_Group1vsGroup2_Top40.png, id=2041, 
+979.66pt x 675.52374pt>
+File: figures/Output_Group1vsGroup2_Top40/Output_Group1vsGroup2_Top40.png Graph
+ic file (type png)
+
+<use figures/Output_Group1vsGroup2_Top40/Output_Group1vsGroup2_Top40.png>
+Package pdftex.def Info: figures/Output_Group1vsGroup2_Top40/Output_Group1vsGro
+up2_Top40.png used on input line 251.
+(pdftex.def)             Requested size: 457.7338pt x 315.62021pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 255.
+
+
+<figures/Output_Group1vsGroup2_Features_1-5/Output_Group1vsGroup2_Features_1-5.
+png, id=2043, 995.72pt x 1067.99pt>
+File: figures/Output_Group1vsGroup2_Features_1-5/Output_Group1vsGroup2_Features
+_1-5.png Graphic file (type png)
+
+<use figures/Output_Group1vsGroup2_Features_1-5/Output_Group1vsGroup2_Features_
+1-5.png>
+Package pdftex.def Info: figures/Output_Group1vsGroup2_Features_1-5/Output_Grou
+p1vsGroup2_Features_1-5.png used on input line 262.
+(pdftex.def)             Requested size: 320.41225pt x 343.67044pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 266.
+
+[102 <./figures/FeatureImportanceOperationsClass/FeatureImportanceOperationsCla
+ss.png>]
+<figures/Output_Group1vsGroup2_Dist/Output_Group1vsGroup2_Dist.png, id=2050, 96
+3.6pt x 754.82pt>
+File: figures/Output_Group1vsGroup2_Dist/Output_Group1vsGroup2_Dist.png Graphic
+ file (type png)
+
+<use figures/Output_Group1vsGroup2_Dist/Output_Group1vsGroup2_Dist.png>
+Package pdftex.def Info: figures/Output_Group1vsGroup2_Dist/Output_Group1vsGrou
+p2_Dist.png used on input line 273.
+(pdftex.def)             Requested size: 320.41225pt x 250.98026pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 277.
+
+) [103 <./figures/Output_Group1vsGroup2_Top40/Output_Group1vsGroup2_Top40.png>]
+[104 <./figures/Output_Group1vsGroup2_Features_1-5/Output_Group1vsGroup2_Featur
+es_1-5.png>] [105 <./figures/Output_Group1vsGroup2_Dist/Output_Group1vsGroup2_D
+ist.png>]
+\openout2 = `ch8_AMIData.aux'.
+
+ (./ch8_AMIData.tex
+Chapter 8.
+<figures/measures/measures.png, id=2065, 81.94394pt x 54.62929pt>
+File: figures/measures/measures.png Graphic file (type png)
+
+<use figures/measures/measures.png>
+Package pdftex.def Info: figures/measures/measures.png used on input line 24.
+(pdftex.def)             Requested size: 384.4947pt x 256.34914pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 28.
+
+[106
+
+
+
+]
+<figures/classificationimprovement_AMI/classificationimprovement_AMI.png, id=20
+71, 81.94394pt x 56.33646pt>
+File: figures/classificationimprovement_AMI/classificationimprovement_AMI.png G
+raphic file (type png)
+
+<use figures/classificationimprovement_AMI/classificationimprovement_AMI.png>
+Package pdftex.def Info: figures/classificationimprovement_AMI/classificationim
+provement_AMI.png used on input line 44.
+(pdftex.def)             Requested size: 384.4947pt x 264.36009pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 48.
+
+[107 <./figures/measures/measures.png>] [108 <./figures/classificationimproveme
+nt_AMI/classificationimprovement_AMI.png>]
+<figures/classificationconfusionmatrix/classificationconfusionmatrix.png, id=20
+84, 81.94394pt x 68.28662pt>
+File: figures/classificationconfusionmatrix/classificationconfusionmatrix.png G
+raphic file (type png)
+
+<use figures/classificationconfusionmatrix/classificationconfusionmatrix.png>
+Package pdftex.def Info: figures/classificationconfusionmatrix/classificationco
+nfusionmatrix.png used on input line 61.
+(pdftex.def)             Requested size: 457.7338pt x 381.47295pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 65.
+
+[109 <./figures/classificationconfusionmatrix/classificationconfusionmatrix.png
+>] <figures/measures_ami/measures_ami.png, id=2091, 81.94394pt x 54.62929pt>
+File: figures/measures_ami/measures_ami.png Graphic file (type png)
+
+<use figures/measures_ami/measures_ami.png>
+Package pdftex.def Info: figures/measures_ami/measures_ami.png used on input li
+ne 80.
+(pdftex.def)             Requested size: 320.41225pt x 213.62428pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 84.
+
+
+<figures/measurespredictionmatrix/measurespredictionmatrix.png, id=2093, 62.690
+9pt x 52.25822pt>
+File: figures/measurespredictionmatrix/measurespredictionmatrix.png Graphic fil
+e (type png)
+
+<use figures/measurespredictionmatrix/measurespredictionmatrix.png>
+Package pdftex.def Info: figures/measurespredictionmatrix/measurespredictionmat
+rix.png used on input line 91.
+(pdftex.def)             Requested size: 320.41225pt x 267.10416pt.
+
+
+Package nag Warning: `center' environment in figure.
+(nag)                Maybe you want \centering instead on input line 95.
+
+[110 <./figures/measures_ami/measures_ami.png>]) [111 <./figures/measurespredic
+tionmatrix/measurespredictionmatrix.png>] [112]
+\openout2 = `ch9_Conclusions.aux'.
+
+ (./ch9_Conclusions.tex
+Chapter 9.
+[113
+
+
+
+] [114]
+
+Package natbib Warning: Citation `kreider_predicting_1994' on page 115 undefine
+d on input line 29.
+
+[115]) [116]
+\openout2 = `App_temporalfeatures.aux'.
+
+ (./App_temporalfeatures.tex
+Appendix A.
+
+Overfull \hbox (5.30984pt too wide) in paragraph at lines 11--11
+[]|\T1/cmr/m/n/8 Category| 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 30
+ []
+
+[117
+
+
+
+] [118] [119]
+Overfull \hbox (5.30984pt too wide) in paragraph at lines 157--157
+[]|\T1/cmr/m/n/8 Category| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\T1/cmr/m/n/8 EEMeter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 174--174
+[]|\T1/cmr/m/n/8 loadshape corr in-ter-val day-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 176
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/8 Loadshape
+ []
+
+[120]
+Overfull \hbox (5.30984pt too wide) in paragraph at lines 214--214
+[]|\T1/cmr/m/n/8 Category| 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 234
+ []
+
+[121] [122] [123]) [124] (./main.bbl
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 6.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 6.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 11.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 11.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 33.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 33.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 80.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 80.
+
+! Undefined control sequence.
+<recently read> \mathplus 
+                          
+l.98 \newblock Springer Science $\mathplus
+                                          $ Business Media.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 104.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 104.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 111.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 111.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 126.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 126.
+
+[125
+
+
+]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 131.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 131.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 138.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 138.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 143.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 143.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 151.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 151.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 165.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 165.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 180.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 180.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 186.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 186.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 192.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 192.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 213.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 213.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 247.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 247.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 258.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 258.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 265.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 265.
+
+[126]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 311.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 311.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 319.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 319.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 342.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 342.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 364.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 364.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 372.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 372.
+
+[127]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 425.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 425.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 438.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 438.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 460.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 460.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 481.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 481.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 489.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 489.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 505.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 505.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 511.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 511.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 524.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 524.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 530.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 530.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 536.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 536.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 542.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 542.
+
+[128]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 566.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 566.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 599.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 599.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 624.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 624.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 630.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 630.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 644.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 644.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 682.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 682.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 690.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 690.
+
+[129]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 698.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 698.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 723.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 723.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 736.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 736.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 764.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 764.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 772.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 772.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 787.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 787.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 825.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 825.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 833.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 833.
+
+[130]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 890.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 890.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 906.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 906.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 915.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 915.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 922.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 922.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 938.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 938.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 944.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 944.
+
+[131]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 988.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 988.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 995.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 995.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1037.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1037.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1050.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1050.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1063.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1063.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1079.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1079.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1087.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1087.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1103.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1103.
+
+[132]
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1109.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1109.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1114.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1114.
+
+
+Package nag Warning: Command \bf is an old LaTeX 2.09 command. 
+(nag)                Use \bfseries or \textbf instead on input line 1121.
+
+
+Class scrbook Warning: Usage of deprecated font command `\bf'!
+(scrbook)              You should note, that in 1994 font command `\bf' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\bf' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrbook)              by `\normalfont \bfseries ' on input line 1121.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+
+Package nag Warning: 150 complaints in total.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+[133]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+ (./main.aux (./_title.aux) (./abstract.aux) (./abstractgerman.aux)
+(./acknowledgements.aux) (./ch1_Introduction.aux) (./ch2_LitReview.aux)
+(./ch3_Methodology.aux) (./ch4_Stats.aux) (./ch5_Modelbased.aux)
+(./ch6_Patternbased.aux) (./ch7_Results.aux) (./ch8_AMIData.aux)
+(./ch9_Conclusions.aux) (./App_temporalfeatures.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DC7FAA4B60C8F4754E4AE5733CF436D4;5803.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 6 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 13028 strings out of 493089
+ 222259 string characters out of 6134842
+ 473663 words of memory out of 5000000
+ 15525 multiletter control sequences out of 15000+600000
+ 27031 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 54i,11n,56p,2404b,808s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on main.pdf (144 pages, 12128703 bytes).
+PDF statistics:
+ 2387 PDF objects out of 2487 (max. 8388607)
+ 2027 compressed objects within 21 object streams
+ 499 named destinations out of 1000 (max. 500000)
+ 1019 words of extra memory for PDF output out of 10000 (max. 10000000)
+

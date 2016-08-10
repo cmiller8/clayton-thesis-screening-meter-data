@@ -1,0 +1,1131 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{_co, }2014]{_code_2014}
+ 2014.
+\newblock Code share.
+\newblock {\em Nature}, {\bf 514}(7524), 536--536.
+
+\bibitem[\protect\citename{_jo, }2014]{_journals_2014}
+ 2014.
+\newblock Journals unite for reproducibility.
+\newblock {\em Nature}, {\bf 515}(7525), 7--7.
+
+\bibitem[\protect\citename{Adamopoulou {\em et~al.\ }\relax,
+  }2015]{adamopoulou_context-aware_2015}
+Adamopoulou, Anna~A., Tryferidis, Athanasios~M., \& Tzovaras, Dimitrios~K.
+  2015.
+\newblock {A context-aware method for building occupancy prediction}.
+\newblock {\em Energy and Buildings}.
+
+\bibitem[\protect\citename{Agarwal {\em et~al.\ }\relax,
+  }2009]{agarwal_energy_2009}
+Agarwal, Yuvraj, Weng, Thomas, \& Gupta, Rajesh~K. 2009.
+\newblock {The energy dashboard: improving the visibility of energy consumption
+  at a campus-wide scale}.
+\newblock {\em Page ~55 of:} {\em Proceedings of the {First} {ACM} {Workshop}
+  on {Embedded} {Sensing} {Systems} for {Energy}-{Efficiency} in {Buildings}
+  ({BuildSys} 2009)}.
+\newblock Berkeley, CA, USA: ACM Press.
+
+\bibitem[\protect\citename{Ahn \& Park, }2016]{ahn_correlation_2016}
+Ahn, Ki-Uhn, \& Park, Cheol-Soo. 2016.
+\newblock {Correlation between occupants and energy consumption}.
+\newblock {\em Energy and Buildings}, {\bf 116}(mar), 420--433.
+
+\bibitem[\protect\citename{An {\em et~al.\ }\relax, }2012]{an_estimation_2012}
+An, Lianjun, Horesh, Raya, Chae, Young~Tae, \& Lee, Young~M. 2012 (aug).
+\newblock {Estimation of {Thermal} {Parameters} of {Buildings} {Through}
+  {Inverse} {Modeling} and {Clustering} for a {Portfolio} of {Buildings}}.
+\newblock {\em In:} {\em Proceedings of the {Fifth} {National} {Conference} of
+  {IBPSA}-{USA} ({SimBuild} 2012)}.
+
+\bibitem[\protect\citename{Augello {\em et~al.\ }\relax,
+  }2011]{augello_sensor_2011}
+Augello, Agnese, Ortolani, Marco, Re, G~Lo, \& Gaglio, Salvatore. 2011.
+\newblock {Sensor mining for user behavior profiling in intelligent
+  environments}.
+\newblock {\em Advances in Distributed Agent-Based Retrieval Tools}, jan,
+  143--158.
+
+\bibitem[\protect\citename{Basseville \& Nikiforov,
+  }1993]{basseville_detection_1993}
+Basseville, M, \& Nikiforov, I~V. 1993.
+\newblock {\em {Detection of abrupt changes: theory and application}}.
+
+\bibitem[\protect\citename{Bellala {\em et~al.\ }\relax,
+  }2011]{bellala_towards_2011}
+Bellala, Gowtham, Marwah, Manish, Arlitt, Martin, Lyon, Geoff, \& Bash,
+  Cullen~E. 2011.
+\newblock {Towards an understanding of campus-scale power consumption}.
+\newblock {\em Page ~73 of:} {\em Proceedings of the {Third} {ACM} {Workshop}
+  on {Embedded} {Sensing} {Systems} for {Energy}-{Efficiency} in {Buildings}
+  ({BuildSys} 2011)}.
+\newblock Seattle, WA, USA: ACM Request Permissions.
+
+\bibitem[\protect\citename{Bidoki {\em et~al.\ }\relax,
+  }2010]{bidoki_evaluating_2010}
+Bidoki, S~M, Mahmoudi-Kohan, N, Sadreddini, M~H, Zolghadri~Jahromi, M, \&
+  Moghaddam, M~P. 2010.
+\newblock {Evaluating different clustering techniques for electricity customer
+  classification}.
+\newblock {\em Pages  1--5 of:} {\em Transmission and {Distribution}
+  {Conference} and {Exposition}, 2010 {IEEE} {PES}}.
+\newblock New Orleans, LA, USA: IEEE.
+
+\bibitem[\protect\citename{Bogen {\em et~al.\ }\relax,
+  }2013]{bogen_evaluating_2013}
+Bogen, A~C, Rashid, M, East, E~W, \& Ross, J. 2013.
+\newblock {Evaluating a data clustering approach for life-cycle facility
+  control}.
+\newblock {\em Journal of Information Technology in Construction}, {\bf Vol.
+  18}(apr), 99--118.
+
+\bibitem[\protect\citename{Borgeson, }2013]{borgeson_targeted_2013}
+Borgeson, Sam. 2013.
+\newblock {\em {Targeted {Efficiency}: {Using} {Customer} {Meter} {Data} to
+  {Improve} {Efficiency} {Program} {Outcomes}}}.
+\newblock {PhD}, University of California, Berkeley, Berkeley, CA, USA.
+
+\bibitem[\protect\citename{Borgeson \& Kwac, }2015]{visdom_borgeson}
+Borgeson, Sam, \& Kwac, Jungsuk. 2015.
+\newblock {\em visdom: R package for energy data analytics}.
+\newblock R package version 0.9.
+
+\bibitem[\protect\citename{Breiman {\em et~al.\ }\relax, }n.d.]{Breiman}
+Breiman, Leo, Last, Michael, \& Rice, John.
+\newblock {Random Forests: Finding Quasars}.
+\newblock {\em Pages  243--254 of:} {\em Statistical Challenges in Astronomy}.
+\newblock Springer Science $\mathplus$ Business Media.
+
+\bibitem[\protect\citename{Cabrera \& Zareipour, }2013]{cabrera_data_2013}
+Cabrera, David F~Motta, \& Zareipour, Hamidreza. 2013.
+\newblock {Data association mining for identifying lighting energy waste
+  patterns in educational institutes}.
+\newblock {\em Energy and Buildings}, {\bf 62}(jul), 210--216.
+
+\bibitem[\protect\citename{Capozzoli {\em et~al.\ }\relax,
+  }2015]{capozzoli_fault_2015}
+Capozzoli, Alfonso, Lauro, Fiorella, \& Khan, Imran. 2015.
+\newblock {Fault detection analysis using data mining techniques for a cluster
+  of smart office buildings}.
+\newblock {\em Expert Systems with Applications}, {\bf 42}(9), 4324--4338.
+
+\bibitem[\protect\citename{Chen {\em et~al.\ }\relax,
+  }2014]{chen_statistical_2014}
+Chen, Bei, Sinn, Mathieu, Ploennigs, Joern, \& Schumann, Anika. 2014.
+\newblock {Statistical {Anomaly} {Detection} in {Mean} and {Variation} of
+  {Energy} {Consumption}}.
+\newblock {\em Pages  3570--3575 of:} {\em Proceedings of the 22nd
+  {International} {Conference} on {Pattern} {Recognition} ({ICPR})}.
+\newblock Stockholm, Sweden: IEEE.
+
+\bibitem[\protect\citename{Chicco, }2012]{chicco_overview_2012}
+Chicco, Gianfranco. 2012.
+\newblock {Overview and performance assessment of the clustering methods for
+  electrical load pattern grouping}.
+\newblock {\em Energy}, {\bf 42}(1), 68--80.
+
+\bibitem[\protect\citename{Chicco \& Ilie, }2009]{chicco_support_2009}
+Chicco, Gianfranco, \& Ilie, I~S. 2009.
+\newblock {Support vector clustering of electrical load pattern data}.
+\newblock {\em IEEE Transactions on Power Systems}, {\bf 24}(3), 1619--1628.
+
+\bibitem[\protect\citename{Chicco {\em et~al.\ }\relax,
+  }2013]{chicco_electrical_2013}
+Chicco, Gianfranco, Ionel, O-M, \& Porumb, Radu. 2013.
+\newblock {Electrical {Load} {Pattern} {Grouping} {Based} on {Centroid} {Model}
+  {With} {Ant} {Colony} {Clustering}}.
+\newblock {\em IEEE Transactions on Power Systems}, {\bf 28}(2), 1706--1715.
+
+\bibitem[\protect\citename{Chou \& Telaga, }2014]{chou_real-time_2014}
+Chou, Jui-Sheng, \& Telaga, Abdi~Suryadinata. 2014.
+\newblock {Real-time detection of anomalous power consumption}.
+\newblock {\em Renewable and Sustainable Energy Reviews}, {\bf 33}(C),
+  400--411.
+
+\bibitem[\protect\citename{Cleveland {\em et~al.\ }\relax,
+  }1990]{cleveland1990stl}
+Cleveland, Robert~B, Cleveland, William~S, McRae, Jean~E, \& Terpenning, Irma.
+  1990.
+\newblock {STL: A seasonal-trend decomposition procedure based on loess}.
+\newblock {\em Journal of Official Statistics}, {\bf 6}(1), 3--73.
+
+\bibitem[\protect\citename{Coughlin {\em et~al.\ }\relax,
+  }2009]{coughlin_statistical_2009}
+Coughlin, K, Piette, Mary~Ann, Goldman, Charles, \& Kiliccote, Sila. 2009.
+\newblock {Statistical analysis of baseline load models for non-residential
+  buildings}.
+\newblock {\em Energy and Buildings}.
+
+\bibitem[\protect\citename{De~Silva {\em et~al.\ }\relax,
+  }2011]{de_silva_data_2011}
+De~Silva, Daswin, Yu, Xinghuo, Alahakoon, Damminda, \& Holmes, Grahame. 2011.
+\newblock {A {Data} {Mining} {Framework} for {Electricity} {Consumption}
+  {Analysis} {From} {Meter} {Data}}.
+\newblock {\em IEEE Transactions on Industrial Informatics}, {\bf 7}(3),
+  399--407.
+
+\bibitem[\protect\citename{Diong {\em et~al.\ }\relax,
+  }2015]{diong_establishing_2015}
+Diong, B., Zheng, G., \& Ginn, M. 2015 (apr).
+\newblock {Establishing the foundation for energy management on university
+  campuses via data analytics}.
+\newblock {\em Pages  1--7 of:} {\em Proceedings of the {IEEE} {SoutheastCon}
+  2015}.
+
+\bibitem[\protect\citename{Domahidi {\em et~al.\ }\relax,
+  }2014]{domahidi_learning_2014}
+Domahidi, Alexander, Ullmann, Fabian, Morari, Manfred, \& Jones, Colin~N. 2014.
+\newblock {Learning decision rules for energy efficient building control}.
+\newblock {\em Journal of Process Control}, {\bf 24}(6), 763--772.
+
+\bibitem[\protect\citename{Dong \& Lam, }2011]{dong_building_2011}
+Dong, Bing, \& Lam, Khee~Poh. 2011.
+\newblock {Building energy and comfort management through occupant behaviour
+  pattern detection based on a large-scale environmental sensor network}.
+\newblock {\em Journal of Building Performance Simulation}, {\bf 4}(4),
+  359--369.
+
+\bibitem[\protect\citename{Dounis, }2010]{dounis_artificial_2010}
+Dounis, Anastasios~I. 2010.
+\newblock {Artificial intelligence for energy conservation in buildings}.
+\newblock {\em Advances in Building Energy Research}, {\bf 4}(1), 267--299.
+
+\bibitem[\protect\citename{Duarte {\em et~al.\ }\relax,
+  }2011]{duarte_prioritizing_2011}
+Duarte, Carlos, Acker, Brad, Grosshans, Ray, Manic, Milos, Van Den~Wymelenberg,
+  Kevin, \& Rieger, Craig. 2011 (aug).
+\newblock {Prioritizing and {Visualizing} {Energy} {Management} and {Control}
+  {System} {Data} to {Provide} {Actionable} {Information} {For} {Building}
+  {Operators}}.
+\newblock {\em In:} {\em Proceedings from 2011 {Western} {Energy} {Policy}
+  {Research} {Conference}}.
+
+\bibitem[\protect\citename{Duda {\em et~al.\ }\relax, }2012]{duda_pattern_2012}
+Duda, Richard~O., Hart, Peter~E., \& Stork, David~G. 2012.
+\newblock {\em {Pattern classification}}.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citename{D’Oca \& Hong, }2015]{doca_occupancy_2015}
+D’Oca, Simona, \& Hong, Tianzhen. 2015.
+\newblock {Occupancy schedules learning process through a data mining
+  framework}.
+\newblock {\em Energy and Buildings}, {\bf 88}(feb), 395--408.
+
+\bibitem[\protect\citename{Effinger {\em et~al.\ }\relax,
+  }2010]{effinger_building_2010}
+Effinger, Mark, Friedman, Hannah, \& Moser, Dave. 2010 (sep).
+\newblock {\em {Building {Performance} {Tracking} in {Large} {Commercial}
+  {Buildings}: {Tools} and {Strategies} - {Subtask} 4.2 {Research} {Report}:
+  {Investigate} {Energy} {Performance} {Tracking} {Strategies} in the
+  {Market}}}.
+\newblock Tech. rept.
+
+\bibitem[\protect\citename{Fagiani {\em et~al.\ }\relax,
+  }2015]{fagiani_novelty_2015}
+Fagiani, Marco, Squartini, Stefano, Severini, Marco, \& Piazza, Francesco. 2015
+  (jul).
+\newblock {A novelty detection approach to identify the occurrence of leakage
+  in smart gas and water grids}.
+\newblock {\em Pages  1--8 of:} {\em Proceedings of the 2015 {International}
+  {Joint} {Conference} on {Neural} {Networks} ({IJCNN})}.
+
+\bibitem[\protect\citename{Fan {\em et~al.\ }\relax,
+  }2013]{fan_prediction_2013}
+Fan, Cheng, Xiao, Fu, \& Shengwei, Wang. 2013 (jan).
+\newblock {Prediction of {Chiller} {Power} {Consumption} {Using} {Time}
+  {Series} {Analysis} and {Artificial} {Neural} {Networks}}.
+\newblock {\em In:} {\em Proceedings of the 8th {International} {Conference} on
+  {Indoor} {Air} {Quality}, {Ventilation} and {Energy} {Conservation} in
+  {Buildings} ({CLIMA} 2013)}.
+
+\bibitem[\protect\citename{Fan {\em et~al.\ }\relax,
+  }2015a]{fan_framework_2015}
+Fan, Cheng, Xiao, Fu, \& Yan, Chengchu. 2015a.
+\newblock {A framework for knowledge discovery in massive building automation
+  data and its application in building diagnostics}.
+\newblock {\em Automation in Construction}, {\bf 50}(feb), 81--90.
+
+\bibitem[\protect\citename{Fan {\em et~al.\ }\relax, }2015b]{fan_temporal_2015}
+Fan, Cheng, Xiao, Fu, Madsen, Henrik, \& Wang, Dan. 2015b.
+\newblock {Temporal {Knowledge} {Discovery} in {Big} {BAS} {Data} for
+  {Building} {Energy} {Management}}.
+\newblock {\em Energy and Buildings}.
+
+\bibitem[\protect\citename{Fels, }1986]{fels_prism:_1986}
+Fels, Margaret~F. 1986.
+\newblock {{PRISM}: an introduction}.
+\newblock {\em Energy and Buildings}, {\bf 9}(1-2), 5--18.
+
+\bibitem[\protect\citename{Figueiredo {\em et~al.\ }\relax,
+  }2005]{figueiredo_electric_2005}
+Figueiredo, V, Rodrigues, F, Vale, Z, \& Gouveia, J~B. 2005.
+\newblock {An {Electric} {Energy} {Consumer} {Characterization} {Framework}
+  {Based} on {Data} {Mining} {Techniques}}.
+\newblock {\em IEEE Transactions on Power Systems}, {\bf 20}(2), 596--602.
+
+\bibitem[\protect\citename{Florita {\em et~al.\ }\relax,
+  }2012]{florita_classification_2012}
+Florita, Anthony~R, Brackney, Larry~J, Otanicar, Todd~P, \& Robertson, Jeffrey.
+  2012 (jul).
+\newblock {Classification of {Commerical} {Building} {Electrical} {Demand}
+  {Profiles} for {Energy} {Storage} {Applications}}.
+\newblock {\em In:} {\em Proceedings of {ASME} 2012 6th {International}
+  {Conference} on {Energy} {Sustainability} \& 10th {Fuel} {Cell} {Science},
+  {Engineering} and {Technology} {Conference} ({ESFuelCell}2012)}.
+
+\bibitem[\protect\citename{Fontugne {\em et~al.\ }\relax,
+  }2013a]{fontugne_mining_2013}
+Fontugne, Romain, Tremblay, Nicolas, Borgnat, Pierre, Flandrin, Patrick, \&
+  Esaki, Hiroshi. 2013a (mar).
+\newblock {Mining {Anomalous} {Electricity} {Consumption} {Using} {Ensemble}
+  {Empirical} {Mode} {Decomposition}}.
+\newblock {\em Pages  5238--5242 of:} {\em Acoustics, {Speech} and {Signal}
+  {Processing} ({ICASSP}), 2013 {IEEE} {International} {Conference} on}.
+
+\bibitem[\protect\citename{Fontugne {\em et~al.\ }\relax,
+  }2013b]{fontugne_strip_2013}
+Fontugne, Romain, Ortiz, Jorge, Tremblay, Nicolas, Borgnat, Pierre, Flandrin,
+  Patrick, Fukuda, Kensuke, Culler, David, \& Esaki, Hiroshi. 2013b.
+\newblock {Strip, bind, and search: a method for identifying abnormal energy
+  consumption in buildings}.
+\newblock {\em Pages  129--140 of:} {\em Proceedings of the 12th {ACM}/{IEEE}
+  {Int} {Conference} on {Information} {Processing} in {Sensor} {Network}
+  ({ISPN} 2013)}.
+\newblock Philadelphia, PA, USA: ACM.
+
+\bibitem[\protect\citename{Forlines \& Wittenburg,
+  }2010]{forlines_wakame:_2010}
+Forlines, Clifton, \& Wittenburg, Kent. 2010.
+\newblock {Wakame: {Sense} {Making} of {Multi}-dimensional {Spatial}-temporal
+  {Data}}.
+\newblock {\em Pages  33--40 of:} {\em Proceedings of the {International}
+  {Conference} on {Advanced} {Visual} {Interfaces} ({AVI} 2010)}.
+\newblock {AVI} '10.
+\newblock Roma, Italy: ACM.
+
+\bibitem[\protect\citename{Fulcher {\em et~al.\ }\relax, }2013]{Fulcher_2013}
+Fulcher, B.~D., Little, M.~A., \& Jones, N.~S. 2013.
+\newblock {Highly comparative time-series analysis: the empirical structure of
+  time series and their methods}.
+\newblock {\em Journal of The Royal Society Interface}, {\bf 10}(83),
+  20130048--20130048.
+
+\bibitem[\protect\citename{Gaitani {\em et~al.\ }\relax,
+  }2010]{gaitani_using_2010}
+Gaitani, N, Lehmann, C, Santamouris, M, Mihalakakou, G, \& Patargias, P. 2010.
+\newblock {Using principal component and cluster analysis in the heating
+  evaluation of the school building sector}.
+\newblock {\em Applied Energy}, {\bf 87}(6), 2079--2086.
+
+\bibitem[\protect\citename{Gayeski {\em et~al.\ }\relax,
+  }2015]{gayeski_data_2015}
+Gayeski, Nicholas, Kleindienst, Sian, Gagne, Jaime, Werntz, Bradley, Cruz,
+  Ryan, \& Samouhos, Stephen. 2015 (jun).
+\newblock {\em {Data and {Interfaces} for {Advanced} {Building} {Operations}
+  and {Maintenance} - {RP} 1633 {Final} {Report}}}.
+\newblock Tech. rept. ASHRAE.
+
+\bibitem[\protect\citename{Georgescu \& Mezic,
+  }2014]{georgescu_site-level_2014}
+Georgescu, M, \& Mezic, I. 2014.
+\newblock {Site-{Level} {Energy} {Monitoring} and {Analysis} using {Koopman}
+  {Operator} {Methods}}.
+\newblock {\em In:} {\em Proceedings of the 2014 {ASHRAE}/{IBPSA}-{USA}
+  {Building} {Simulation} {Conference} ({SimBuild} 2014)}.
+\newblock Atlanta, GA, USA: ASHRAE/IBPSA.
+
+\bibitem[\protect\citename{Geurts {\em et~al.\ }\relax, }2009]{Geurts_2009}
+Geurts, Pierre, Irrthum, Alexandre, \& Wehenkel, Louis. 2009.
+\newblock {Supervised learning with decision tree-based methods in
+  computational and systems biology}.
+\newblock {\em Mol. {BioSyst}.}, {\bf 5}(12), 1593.
+
+\bibitem[\protect\citename{Geyer {\em et~al.\ }\relax,
+  }2016]{geyer_application_2016}
+Geyer, Philipp, Schlüter, Arno, \& Cisar, Sasha. 2016.
+\newblock {Application of clustering for the development of retrofit strategies
+  for large building stocks}.
+\newblock {\em Advanced Engineering Informatics}.
+
+\bibitem[\protect\citename{Goldin \& Kanellakis,
+  }1995]{goldin_similiarity_1995}
+Goldin, Dina~Q, \& Kanellakis, Paris~C. 1995.
+\newblock {On similiarity queries for time-series data: constraint
+  specification and implementation}.
+\newblock {\em Pages  137--153 of:} {\em Principles and {Practice} of
+  {Constraint} {Programming} ({CP} '95)}.
+\newblock Springer.
+
+\bibitem[\protect\citename{Granderson {\em et~al.\ }\relax,
+  }2010]{granderson_building_2010}
+Granderson, Jessica, Piette, Mary~Ann, \& Ghatikar, Girish. 2010.
+\newblock {Building energy information systems: user case studies}.
+\newblock {\em Energy Efficiency}, {\bf 4}(1), 17--30.
+
+\bibitem[\protect\citename{Green {\em et~al.\ }\relax,
+  }2014]{green_divide_2014}
+Green, R., Staffell, I., \& Vasilakos, N. 2014.
+\newblock {Divide and {Conquer} {K}-{Means} {Clustering} of {Demand} {Data}
+  {Allows} {Rapid} and {Accurate} {Simulations} of the {British} {Electricity}
+  {System}}.
+\newblock {\em IEEE Transactions on Engineering Management}, {\bf 61}(2),
+  251--260.
+
+\bibitem[\protect\citename{Greensfelder {\em et~al.\ }\relax,
+  }2010]{greensfelder_building_2010}
+Greensfelder, Erik, Friedman, Hannah, \& Crowe, Eliot. 2010 (nov).
+\newblock {\em {Building {Performance} {Tracking} in {Large} {Commercial}
+  {Buildings}: {Tools} and {Strategies} - {Subtask} 4.4 {Research} {Report}:
+  {Characterization} of {Building} {Performance} {Metrics} {Tracking}
+  {Methodologies}}}.
+\newblock Tech. rept.
+
+\bibitem[\protect\citename{Gullo {\em et~al.\ }\relax,
+  }2009]{gullo_low-voltage_2009}
+Gullo, Francesco, Ponti, Giovanni, Tagarelli, Andrea, Ruffolo, Massimiliano, \&
+  Labate, Diego. 2009.
+\newblock {Low-voltage electricity customer profiling based on load data
+  clustering}.
+\newblock {\em Pages  330--333 of:} {\em Proceedings of the 2009
+  {International} {Database} {Engineering} \& {Applications} {Symposium}
+  ({IDEAS} 2009)}.
+\newblock Calabria, Italy: ACM.
+
+\bibitem[\protect\citename{Habib \& Zucker, }2015]{habib_finding_2015}
+Habib, U., \& Zucker, G. 2015 (dec).
+\newblock {Finding the {Different} {Patterns} in {Buildings} {Data} {Using}
+  {Bag} of {Words} {Representation} with {Clustering}}.
+\newblock {\em Pages  303--308 of:} {\em 2015 13th {International} {Conference}
+  on {Frontiers} of {Information} {Technology} ({FIT})}.
+
+\bibitem[\protect\citename{Hao {\em et~al.\ }\relax,
+  }2011]{hao_visualizing_2011}
+Hao, M., Marwah, M., Janetzko, H., Sharma, R., Keim, D.~A., Dayal, U., Patnaik,
+  D., \& Ramakrishnan, N. 2011.
+\newblock {Visualizing frequent patterns in large multivariate time series}.
+\newblock {\em Pages  78680J--78680J--10 of:} {\em Proceedings of {SPIE}
+  {Conference} on {Visualization} and {Data} {Analysis} 2011},  vol. 7868.
+\newblock San Francisco, CA, USA: SPIE.
+
+\bibitem[\protect\citename{Hastie {\em et~al.\ }\relax,
+  }2009]{hastie_elements_2009}
+Hastie, Trevor, Tibshirani, Robert, \& Friedman, J.~H. 2009.
+\newblock {\em {The elements of statistical learning: data mining, inference,
+  and prediction}}. 2nd ed edn.
+\newblock Springer series in statistics.
+\newblock New York, NY: Springer.
+
+\bibitem[\protect\citename{Heidarinejad {\em et~al.\ }\relax,
+  }2014]{heidarinejad_cluster_2014}
+Heidarinejad, Mohammad, Dahlhausen, Matthew, McMahon, Sean, Pyke, Chris, \&
+  Srebric, Jelena. 2014.
+\newblock {Cluster analysis of simulated energy use for {LEED} certified
+  {U}.{S}. office buildings}.
+\newblock {\em Energy and Buildings}, {\bf 85}(dec), 86--97.
+
+\bibitem[\protect\citename{Hong {\em et~al.\ }\relax, }2013]{hong_towards_2013}
+Hong, Dezhi, Ortiz, Jorge, Whitehouse, Kamin, \& Culler, David. 2013 (nov).
+\newblock {Towards {Automatic} {Spatial} {Verification} of {Sensor} {Placement}
+  in {Buildings}}.
+\newblock {\em In:} {\em Proceedings of the 5th {ACM} {Workshop} on {Embedded}
+  {Systems} {For} {Energy}-{Efficient} {Buildings} ({BuildSys} 2013)}.
+
+\bibitem[\protect\citename{Iglesias \& Kastner, }2013]{iglesias_analysis_2013}
+Iglesias, Félix, \& Kastner, Wolfgang. 2013.
+\newblock {Analysis of {Similarity} {Measures} in {Times} {Series} {Clustering}
+  for the {Discovery} of {Building} {Energy} {Patterns}}.
+\newblock {\em Energies}, {\bf 6}(2), 579--597.
+
+\bibitem[\protect\citename{Ioannidis {\em et~al.\ }\relax,
+  }2015]{ioannidis_big_2015}
+Ioannidis, Dimosthenis, Fotiadou, Angeliki, Krinidis, Stelios, Stavropoulos,
+  George, Tzovaras, Dimitrios, \& Likothanassis, Spiridon. 2015.
+\newblock {Big {Data} and {Visual} {Analytics} for {Building} {Performance}
+  {Comparison}}.
+\newblock {\em Pages  421--430 of:} Chbeir, Richard, Manolopoulos, Yannis,
+  Maglogiannis, Ilias, \& Alhajj, Reda (eds), {\em Artificial {Intelligence}
+  {Applications} and {Innovations}}.
+\newblock {IFIP} {Advances} in {Information} and {Communication} {Technology},
+  no.  458.
+\newblock Springer International Publishing.
+\newblock DOI: 10.1007/978-3-319-23868-5\_30.
+
+\bibitem[\protect\citename{Jacob {\em et~al.\ }\relax,
+  }2010]{jacob_black-box_2010}
+Jacob, Dirk, Dietz, Sebastian, Komhard, Susanne, Neumann, Christian, \& Herkel,
+  Sebastian. 2010.
+\newblock {Black-box models for fault detection and performance monitoring of
+  buildings}.
+\newblock {\em Journal of Building Performance Simulation}, {\bf 3}(1), 53--62.
+
+\bibitem[\protect\citename{James {\em et~al.\ }\relax,
+  }2013]{james_introduction_2013}
+James, Gareth, Witten, Daniela, Hastie, Trevor, \& Tibshirani, Robert. 2013.
+\newblock {\em {An introduction to statistical learning}}.
+\newblock  Vol. 112.
+\newblock Springer.
+
+\bibitem[\protect\citename{James {\em et~al.\ }\relax,
+  }2014]{james2014leveraging}
+James, Nicholas~A, Kejariwal, Arun, \& Matteson, David~S. 2014.
+\newblock {Leveraging Cloud Data to Mitigate User Experience from Breaking
+  Bad}.
+\newblock {\em arXiv preprint arXiv:1411.7955}.
+
+\bibitem[\protect\citename{Janetzko {\em et~al.\ }\relax,
+  }2013]{janetzko_anomaly_2013}
+Janetzko, Halldór, Stoffel, Florian, Mittelstädt, Sebastian, \& Keim,
+  Daniel~A. 2013.
+\newblock {Anomaly detection for visual analytics of power consumption data}.
+\newblock {\em Computers \& Graphics}, {\bf 38}(oct), 27--37.
+
+\bibitem[\protect\citename{Jang {\em et~al.\ }\relax,
+  }2016]{jang_variability_2016}
+Jang, Dongsik, Eom, Jiyong, Jae~Park, Min, \& Jeung~Rho, Jae. 2016.
+\newblock {Variability of electricity load patterns and its effect on demand
+  response: {A} critical peak pricing experiment on {Korean} commercial and
+  industrial customers}.
+\newblock {\em Energy Policy}, {\bf 88}(jan), 11--26.
+
+\bibitem[\protect\citename{Jarrah~Nezhad {\em et~al.\ }\relax,
+  }2014]{jarrah_nezhad_smartd:_2014}
+Jarrah~Nezhad, Aylin, Wijaya, Tri~Kurniawan, Vasirani, Matteo, \& Aberer, Karl.
+  2014.
+\newblock {{SmartD}: {Smart} {Meter} {Data} {Analytics} {Dashboard}}.
+\newblock {\em Pages  213--214 of:} {\em Proceedings of the 5th {International}
+  {Conference} on {Future} {Energy} {Systems} (e-{Energy} '14)}.
+\newblock e-{Energy} '14.
+\newblock New York, NY, USA: ACM.
+
+\bibitem[\protect\citename{Kelly~Kissock \& Eger,
+  }2008]{kelly_kissock_measuring_2008}
+Kelly~Kissock, J., \& Eger, Carl. 2008.
+\newblock {Measuring industrial energy savings}.
+\newblock {\em Applied Energy}, {\bf 85}(5), 347--361.
+
+\bibitem[\protect\citename{Keogh \& Kasetty, }2003]{keogh_need_2003}
+Keogh, E, \& Kasetty, S. 2003.
+\newblock {On the need for time series data mining benchmarks: {A} survey and
+  empirical demonstration}.
+\newblock {\em Data Mining and Knowledge Discovery}, {\bf 7}(4), 349--371.
+
+\bibitem[\protect\citename{Keogh {\em et~al.\ }\relax, }2005]{keogh_hot_2005}
+Keogh, Eamonn~J, Lin, Jessica, \& Fu, Ada. 2005.
+\newblock {Hot sax: {Efficiently} finding the most unusual time series
+  subsequence}.
+\newblock {\em In:} {\em Proceedings of the {Fifth} {IEEE} {International}
+  {Conference} on {Data} {Mining} ({ICDM}’05)}.
+\newblock Houston, TX, USA: IEEE.
+
+\bibitem[\protect\citename{Kissock \& Eger, }2008]{Kelly_Kissock_2008}
+Kissock, J.~Kelly, \& Eger, Carl. 2008.
+\newblock {Measuring industrial energy savings}.
+\newblock {\em Applied Energy}, {\bf 85}(5), 347--361.
+
+\bibitem[\protect\citename{Krarti, }2003]{krarti_overview_2003}
+Krarti, Moncef. 2003.
+\newblock {An {Overview} of {Artificial} {Intelligence}-{Based} {Methods} for
+  {Building} {Energy} {Systems}}.
+\newblock {\em Journal of Solar Energy Engineering}, {\bf 125}(3), 331.
+
+\bibitem[\protect\citename{Kusiak \& Song, }2008]{kusiak_clustering-based_2008}
+Kusiak, Andrew, \& Song, Zhe. 2008.
+\newblock {Clustering-{Based} {Performance} {Optimization} of the {Boiler}
+  {Turbine} {System}}.
+\newblock {\em IEEE Transactions on Energy Conversion}, {\bf 23}(2), 651--658.
+
+\bibitem[\protect\citename{Lam {\em et~al.\ }\relax, }2008]{lam_principal_2008}
+Lam, Joseph~C, Wan, Kevin K~W, Cheung, K~L, \& Yang, Liu. 2008.
+\newblock {Principal component analysis of electricity use in office
+  buildings}.
+\newblock {\em Energy and Buildings}, {\bf 40}(5), 828--836.
+
+\bibitem[\protect\citename{Lange {\em et~al.\ }\relax,
+  }2013]{lange_discovering_2013}
+Lange, B, Rodriguez, N, Puech, W, \& Vasques, X. 2013.
+\newblock {Discovering unexpected information using a building energy
+  visualization tool}.
+\newblock {\em Page  86500Q of:} Baskurt, Atilla~M, \& Sitnik, Robert (eds),
+  {\em Proceedings of the {IS}\&{T}/{SPIE} 2013 {Conference} on {Electronic}
+  {Imaging}},  vol. 8650.
+\newblock San Francisco, CA, USA: SPIE.
+
+\bibitem[\protect\citename{Lange {\em et~al.\ }\relax,
+  }2012]{lange_energy_2012}
+Lange, Benoit, Rodriguez, Nancy, \& Puech, William. 2012.
+\newblock {Energy {Consumption} {Improvement} {Through} a {Visualization}
+  {Software}}.
+\newblock {\em Pages  161--184 of:} {\em Energy {Efficiency} - {A} {Bridge} to
+  {Low} {Carbon} {Economy}}.
+\newblock Intech.
+
+\bibitem[\protect\citename{Lavin \& Klabjan, }2014]{lavin_clustering_2014}
+Lavin, Alexander, \& Klabjan, Diego. 2014.
+\newblock {Clustering time-series energy data from smart meters}.
+\newblock {\em Energy Efficiency}, {\bf 8}(4), 681--689.
+
+\bibitem[\protect\citename{Le~Cam {\em et~al.\ }\relax,
+  }2014]{le_cam_application_2014}
+Le~Cam, M, Zmeureanu, R, \& Daoud, A. 2014.
+\newblock {Application of {Data} {Mining} techniques for energy modeling of
+  {HVAC} sub-systems}.
+\newblock {\em In:} {\em Proceedings of {eSim} 2014 - {IBPSA}-{Canada}
+  {Conference}}.
+\newblock Ottawa, Canada: IBPSA.
+
+\bibitem[\protect\citename{Lee {\em et~al.\ }\relax, }2015]{lee_energy_2015}
+Lee, S~H, Hong, Tianzhen, Piette, Mary~Ann, \& Taylor-Lange, S~C. 2015.
+\newblock {Energy retrofit analysis toolkits for commercial buildings: {A}
+  review}.
+\newblock {\em Energy}, jan.
+
+\bibitem[\protect\citename{Lehrer, }2009]{lehrer_research_2009}
+Lehrer, David. 2009 (sep).
+\newblock {\em {Research {Scoping} {Report}: {Visualizing} {Information} in
+  {Commercial} {Buildings}}}.
+\newblock Tech. rept. Center for the Built Environment - UC Berkeley.
+
+\bibitem[\protect\citename{Lehrer \& Vasudev, }2011]{lehrer_visualizing_2011}
+Lehrer, David, \& Vasudev, Janani. 2011 (nov).
+\newblock {\em {Visualizing {Energy} {Information} in {Commercial} {Buildings}:
+  {A} {Study} of {Tools}, {Expert} {Users}, and {Building} {Occupants}}}.
+\newblock Tech. rept. Center for the Built Environment - UC Berkeley.
+
+\bibitem[\protect\citename{Li \& Wen, }2014]{li_model-based_2014}
+Li, Shun, \& Wen, Jin. 2014.
+\newblock {A model-based fault detection and diagnostic methodology based on
+  {PCA} method and wavelet transform}.
+\newblock {\em Energy and Buildings}, {\bf 68}(jan), 63--71.
+
+\bibitem[\protect\citename{Lin {\em et~al.\ }\relax, }2003]{lin_symbolic_2003}
+Lin, Jessica, Keogh, Eamonn~J, Lonardi, Stefano, \& Chiu, Bill. 2003.
+\newblock {A symbolic representation of time series, with implications for
+  streaming algorithms}.
+\newblock {\em Pages  2--11 of:} {\em Proceedings of the 8th {ACM} {SIGMOD}
+  {Workshop} on {Research} {Issues} in {Data} {Mining} and {Knowledge}
+  {Discovery} ({DMKD} '03)}.
+\newblock San Diego, CA, USA: ACM.
+
+\bibitem[\protect\citename{Lin {\em et~al.\ }\relax, }2004]{lin_visually_2004}
+Lin, Jessica, Keogh, Eamonn~J, Lonardi, Stefano, Lankford, Jeffrey~P, \&
+  Nystrom, Donna~M. 2004.
+\newblock {Visually mining and monitoring massive time series}.
+\newblock {\em Pages  460--469 of:} {\em Proceedings of the 10th {ACM} {SIGKDD}
+  international conference on {Knowledge} discovery and data mining ({KDD}
+  '04)}.
+\newblock Seattle, WA, USA: ACM.
+
+\bibitem[\protect\citename{Lin {\em et~al.\ }\relax,
+  }2005]{lin_visualizing_2005}
+Lin, Jessica, Keogh, Eamonn~J, \& Lonardi, Stefano. 2005.
+\newblock {Visualizing and discovering non-trivial patterns in large time
+  series databases}.
+\newblock {\em Information Visualization}, {\bf 4}(2), 61--82.
+
+\bibitem[\protect\citename{Lin {\em et~al.\ }\relax,
+  }2007]{lin_experiencing_2007}
+Lin, Jessica, Keogh, Eamonn~J, Wei, Li, \& Lonardi, Stefano. 2007.
+\newblock {Experiencing {SAX}: a novel symbolic representation of time series}.
+\newblock {\em Data Mining and Knowledge Discovery}, {\bf 15}(2), 107--144.
+
+\bibitem[\protect\citename{Linda {\em et~al.\ }\relax,
+  }2012]{linda_computational_2012}
+Linda, O, Wijayasekara, D, Manic, M, \& Rieger, C. 2012 (aug).
+\newblock {Computational intelligence based anomaly detection for {Building}
+  {Energy} {Management} {Systems}}.
+\newblock {\em Pages  77--82 of:} {\em Proceedings of the 5th {International}
+  {Symposium} on {Resilient} {Control} {Systems} ({ISRCS} 2012)}.
+
+\bibitem[\protect\citename{Liu {\em et~al.\ }\relax, }2010]{liu_method_2010}
+Liu, Dandan, Chen, Qijun, Mori, Kazuyuki, \& Kida, Yukio. 2010.
+\newblock {A method for detecting abnormal electricity energy consumption in
+  buildings}.
+\newblock {\em Journal Of Computational Information Systems}, {\bf 14}(jan),
+  4887--4895.
+
+\bibitem[\protect\citename{Liu {\em et~al.\ }\relax, }2015]{liu_smas:_2015}
+Liu, Xiufeng, Golab, L., \& Ilyas, I.F. 2015 (apr).
+\newblock {{SMAS}: {A} smart meter data analytics system}.
+\newblock {\em Pages  1476--1479 of:} {\em Proceedings of the 2015 {IEEE} 31st
+  {International} {Conference} on {Data} {Engineering} ({ICDE})}.
+
+\bibitem[\protect\citename{Louppe {\em et~al.\ }\relax,
+  }2013]{louppe2013understanding}
+Louppe, Gilles, Wehenkel, Louis, Sutera, Antonio, \& Geurts, Pierre. 2013.
+\newblock {Understanding variable importances in forests of randomized trees}.
+\newblock {\em Pages  431--439 of:} {\em Advances in Neural Information
+  Processing Systems}.
+
+\bibitem[\protect\citename{Manning {\em et~al.\ }\relax, }n.d.]{Manning}
+Manning, Christopher~D., Raghavan, Prabhakar, \& Schutze, Hinrich.
+\newblock {Probabilistic information retrieval}.
+\newblock {\em Pages  201--217 of:} {\em Introduction to Information
+  Retrieval}.
+\newblock Cambridge University Press ({CUP}).
+
+\bibitem[\protect\citename{Mansur {\em et~al.\ }\relax,
+  }2015]{mansur_learning_2015}
+Mansur, Vitor, Carreira, Paulo, \& Arsenio, Artur. 2015.
+\newblock {A {Learning} {Approach} for {Energy} {Efficiency} {Optimization} by
+  {Occupancy} {Detection}}.
+\newblock {\em Pages  9--15 of:} {\em Internet of {Things}. {User}-{Centric}
+  {IoT}},  vol. 150.
+\newblock Cham: Springer International Publishing.
+
+\bibitem[\protect\citename{Mathieu {\em et~al.\ }\relax,
+  }2011]{mathieu_quantifying_2011}
+Mathieu, Johanna~L., Price, Phillip~N., Kiliccote, Sila, \& Piette, Mary~Ann.
+  2011.
+\newblock {Quantifying changes in building electricity use, with application to
+  demand response}.
+\newblock {\em Smart Grid, IEEE Transactions on}, {\bf 2}(3), 507--518.
+
+\bibitem[\protect\citename{May-Ostendorp {\em et~al.\ }\relax,
+  }2011]{may-ostendorp_model-predictive_2011}
+May-Ostendorp, Peter, Henze, Gregor~P, Corbin, Charles~D, Rajagopalan, Balaji,
+  \& Felsmann, Clemens. 2011.
+\newblock {Model-predictive control of mixed-mode buildings with rule
+  extraction}.
+\newblock {\em Building and Environment}, {\bf 46}(2), 428--437.
+
+\bibitem[\protect\citename{May-Ostendorp {\em et~al.\ }\relax,
+  }2013]{may-ostendorp_extraction_2013}
+May-Ostendorp, Peter~T, Henze, Gregor~P, Rajagopalan, Balaji, \& Corbin,
+  Charles~D. 2013.
+\newblock {Extraction of supervisory building control rules from model
+  predictive control of windows in a mixed mode building}.
+\newblock {\em Journal of Building Performance Simulation}, {\bf 6}(3),
+  199--219.
+
+\bibitem[\protect\citename{Miller \& Schlueter,
+  }2015]{miller_forensically_2015}
+Miller, Clayton, \& Schlueter, Arno. 2015.
+\newblock {Forensically discovering simulation feedback knowledge from a campus
+  energy information system}.
+\newblock {\em Pages  33--40 of:} {\em Proceedings of the 2015 {Symposium} on
+  {Simulation} for {Architecture} and {Urban} {Design} ({SimAUD} 2015)}.
+\newblock Washington DC, USA: SCS.
+
+\bibitem[\protect\citename{Miller {\em et~al.\ }\relax,
+  }2014]{miller_seed_2014}
+Miller, Clayton, Nagy, Zoltan, \& Schlueter, Arno. 2014 (jun).
+\newblock {A seed dataset for a public, temporal data repository for energy
+  informatics research on commercial building performance}.
+\newblock {\em In:} {\em Proceedings of the 3rd {Conf}. on {Future} {Energy}
+  {Business} \& {Energy} {Informatics}}.
+
+\bibitem[\protect\citename{Miller {\em et~al.\ }\relax,
+  }2015]{miller_automated_2015}
+Miller, Clayton, Nagy, Zoltán, \& Schlueter, Arno. 2015.
+\newblock {Automated daily pattern filtering of measured building performance
+  data}.
+\newblock {\em Automation in Construction}, {\bf 49, Part A}(jan), 1--17.
+
+\bibitem[\protect\citename{Miller {\em et~al.\ }\relax, }Submitted for
+  publication]{miller_review_????}
+Miller, Clayton, Nagy, Zoltan, \& Schlueter, Arno. Submitted for publication.
+\newblock A review of unsupervised statistical learning and visual analytics
+  techniques applied to performance analysis of non-residential buildings.
+\newblock {\em Renewable and Sustainable Energy Reviews}.
+
+\bibitem[\protect\citename{Mills, }2011]{mills_building_2011}
+Mills, Evan. 2011.
+\newblock {Building commissioning: a golden opportunity for reducing energy
+  costs and greenhouse gas emissions in the {United} {States}}.
+\newblock {\em Energy Efficiency}, {\bf 4}(2), 145--173.
+
+\bibitem[\protect\citename{Mirkin, }2012]{mirkin_clustering:_2012}
+Mirkin, Boris. 2012.
+\newblock {\em {Clustering: {A} {Data} {Recovery} {Approach}, {Second}
+  {Edition}}}.
+\newblock {CRC} {Computer} {Science} \& {Data} {Analysis}.
+\newblock Chapman \& Hall.
+
+\bibitem[\protect\citename{Mitsa, }2010]{Mitsa_2010}
+Mitsa, Theophano. 2010.
+\newblock {\em {Temporal Data Mining}}.
+\newblock Chapman and Hall/{CRC}.
+
+\bibitem[\protect\citename{Morais {\em et~al.\ }\relax,
+  }2009]{morais_overview_2009}
+Morais, Jefferson, Pires, Yomara, Cardoso, Claudomir, \& Klautau, Aldebaro.
+  2009.
+\newblock {An {Overview} of {Data} {Mining} {Techniques} {Applied} to {Power}
+  {Systems}}.
+\newblock {\em Data Mining and Knowledge Discovery in Real Life Applications},
+  jan.
+
+\bibitem[\protect\citename{Morán {\em et~al.\ }\relax,
+  }2013]{moran_analysis_2013}
+Morán, A, Fuertes, J~J, Domínguez, M, Prada, M~A, Alonso, S, \& Barrientos,
+  P. 2013.
+\newblock {Analysis of electricity bills using visual continuous maps}.
+\newblock {\em Neural Computing and Applications}, {\bf 23}(3-4), 645--655.
+
+\bibitem[\protect\citename{Nikolaou {\em et~al.\ }\relax,
+  }2012]{nikolaou_application_2012}
+Nikolaou, Triantafyllia~G, Kolokotsa, Dionysia~S, Stavrakakis, George~S, \&
+  Skias, Ioannis~D. 2012.
+\newblock {On the {Application} of {Clustering} {Techniques} for {Office}
+  {Buildings}' {Energy} and {Thermal} {Comfort} {Classification}}.
+\newblock {\em IEEE Transactions on Smart Grid}, {\bf 3}(4), 2196--2210.
+
+\bibitem[\protect\citename{Pan {\em et~al.\ }\relax,
+  }2015]{pan_kernel-based_2015}
+Pan, Erte, Li, Husheng, Song, Lingyang, \& Han, Zhu. 2015 (mar).
+\newblock {Kernel-based non-parametric clustering for load profiling of big
+  smart meter data}.
+\newblock {\em Pages  2251--2255 of:} {\em Proceedings of the 2015 {IEEE}
+  {Wireless} {Communications} and {Networking} {Conference} ({WCNC})}.
+
+\bibitem[\protect\citename{Panapakidis {\em et~al.\ }\relax,
+  }2015]{panapakidis_evaluation_2015}
+Panapakidis, Ioannis, Alexiadis, Minas, \& Papagiannis, Grigoris. 2015.
+\newblock {Evaluation of the performance of clustering algorithms for a high
+  voltage industrial consumer}.
+\newblock {\em Engineering Applications of Artificial Intelligence}, {\bf
+  38}(C), 1--13.
+
+\bibitem[\protect\citename{Patel {\em et~al.\ }\relax,
+  }2002]{patel_mining_2002}
+Patel, P, Keogh, E, Lin, J, \& Lonardi, S. 2002.
+\newblock {Mining motifs in massive time series databases}.
+\newblock {\em Pages  370--377 of:} {\em Proceedings of 2002 {IEEE}
+  {International} {Conference} on {Data} {Mining} ({ICDM} 2002)}.
+
+\bibitem[\protect\citename{Patnaik {\em et~al.\ }\relax,
+  }2009]{patnaik_sustainable_2009}
+Patnaik, Debprakash, Marwah, Manish, Sharma, Ratnesh, \& Ramakrishnan, Naren.
+  2009.
+\newblock {Sustainable {Operation} and {Management} of {Data} {Center}
+  {Chillers} {Using} {Temporal} {Data} {Mining}}.
+\newblock {\em Pages  1305--1314 of:} {\em Proceedings of the 15th {ACM}
+  {SIGKDD} {International} {Conference} on {Knowledge} {Discovery} and {Data}
+  {Mining} ({KDD} 2009)}.
+\newblock {KDD} '09.
+\newblock New York, NY, USA: ACM.
+
+\bibitem[\protect\citename{Patnaik {\em et~al.\ }\relax,
+  }2010]{patnaik_data_2010}
+Patnaik, Debprakash, Marwah, Manish, Sharma, Ratnesh~K, \& Ramakrishnan, Naren.
+  2010.
+\newblock {Data {Mining} for {Modeling} {Chiller} {Systems} in {Data}
+  {Centers}}.
+\newblock {\em Pages  125--136 of:} {\em Advances in {Intelligent} {Data}
+  {Analysis} {IX}},  vol. 6065.
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg.
+
+\bibitem[\protect\citename{Petcharat {\em et~al.\ }\relax,
+  }2012]{petcharat_assessment_2012}
+Petcharat, Siriwarin, Chungpaibulpatana, Supachart, \& Rakkwamsuk, Pattana.
+  2012.
+\newblock {Assessment of potential energy saving using cluster analysis: {A}
+  case study of lighting systems in buildings}.
+\newblock {\em Energy and Buildings}, {\bf 52}(sep), 145--152.
+
+\bibitem[\protect\citename{Pieri {\em et~al.\ }\relax,
+  }2015]{pieri_identifying_2015}
+Pieri, Stella~Panayiota, {IoannisTzouvadakis}, \& Santamouris, Mat. 2015.
+\newblock {Identifying energy consumption patterns in the {Attica} hotel sector
+  using cluster analysis techniques with the aim of reducing hotels’ {CO}2
+  footprint}.
+\newblock {\em Energy and Buildings}, {\bf 94}(may), 252--262.
+
+\bibitem[\protect\citename{Ploennigs {\em et~al.\ }\relax,
+  }2013]{ploennigs_exploiting_2013}
+Ploennigs, Joern, Chen, Bei, Schumann, Anika, \& Brady, Niall. 2013 (jan).
+\newblock {Exploiting {Generalized} {Additive} {Models} for {Diagnosing}
+  {Abnormal} {Energy} {Use} in {Buildings}}.
+\newblock {\em In:} {\em Proceedings of the 5th {ACM} {Workshop} {On}
+  {Embedded} {Systems} {For} {Energy}-{Efficient} {Buildings} ({Buildsys}
+  '13)}.
+
+\bibitem[\protect\citename{Ploennigs {\em et~al.\ }\relax,
+  }2014]{ploennigs_e2-diagnoser:_2014}
+Ploennigs, Joern, Chen, Bei, Palmes, Paulito, \& Lloyd, Raymond. 2014.
+\newblock {e2-{Diagnoser}: {A} {System} for {Monitoring}, {Forecasting} and
+  {Diagnosing} {Energy} {Usage}}.
+\newblock {\em Pages  1231--1234 of:} {\em Data {Mining} {Workshop} ({ICDMW}),
+  2014 {IEEE} {International} {Conference} on}.
+\newblock Shenzhen, China: IEEE.
+
+\bibitem[\protect\citename{Price, }2010]{price_methods_2010}
+Price, Philip. 2010.
+\newblock {Methods for {Analyzing} {Electric} {Load} {Shape} and its
+  {Variability}}.
+\newblock {\em Lawrence Berkeley National Laboratory}, aug.
+
+\bibitem[\protect\citename{Ramos {\em et~al.\ }\relax,
+  }2012]{ramos_typical_2012}
+Ramos, Sérgio, Duarte, JMM, Soares, João, Vale, Zita, \& Duarte, Fernando~J.
+  2012.
+\newblock {Typical load profiles in the smart grid context—{A} clustering
+  methods comparison}.
+\newblock {\em Pages  1--8 of:} {\em Proceedings of the {Power} and {Energy}
+  {Society} {General} {Meeting}, 2012 {IEEE}}.
+\newblock San Diego, CA, USA: IEEE.
+
+\bibitem[\protect\citename{Reddy, }2011]{reddy_applied_2011}
+Reddy, T.~Agami. 2011.
+\newblock {\em {Applied data analysis and modeling for energy engineers and
+  scientists}}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\citename{Reinhardt \& Koessler,
+  }2014]{reinhardt_powersax:_2014}
+Reinhardt, Andreas, \& Koessler, Sebastian. 2014.
+\newblock {{PowerSAX}: {Fast} motif matching in distributed power meter data
+  using symbolic representations}.
+\newblock {\em Pages  531--538 of:} {\em Proceedings of 9th {IEEE}
+  {International} {Workshop} on {Practical} {Issues} in {Building} {Sensor}
+  {Network} {Applications} ({SenseApp} 2014)}.
+\newblock Edmonton, Canada: IEEE.
+
+\bibitem[\protect\citename{Ruparathna {\em et~al.\ }\relax,
+  }2016]{ruparathna_improving_2016}
+Ruparathna, Rajeev, Hewage, Kasun, \& Sadiq, Rehan. 2016.
+\newblock {Improving the energy efficiency of the existing building stock: {A}
+  critical review of commercial and institutional buildings}.
+\newblock {\em Renewable and Sustainable Energy Reviews}, {\bf 53}(jan),
+  1032--1045.
+
+\bibitem[\protect\citename{Räsänen \& Kolehmainen,
+  }2009]{rasanen_feature-based_2009}
+Räsänen, Teemu, \& Kolehmainen, Mikko. 2009.
+\newblock {Feature-based clustering for electricity use time series data}.
+\newblock {\em Pages  401--412 of:} {\em Adaptive and {Natural} {Computing}
+  {Algorithms}: 9th {International} {Conference}, {ICANNGA} 2009}.
+\newblock Kuopio, Finland: Springer.
+
+\bibitem[\protect\citename{Räsänen {\em et~al.\ }\relax,
+  }2008]{rasanen_reducing_2008}
+Räsänen, Teemu, Ruuskanen, Juhani, \& Kolehmainen, Mikko. 2008.
+\newblock {Reducing energy consumption by using self-organizing maps to create
+  more personalized electricity use information}.
+\newblock {\em Applied Energy}, {\bf 85}(9), 830--840.
+
+\bibitem[\protect\citename{Santamouris {\em et~al.\ }\relax,
+  }2007]{santamouris_using_2007}
+Santamouris, M, Mihalakakou, G, Patargias, P, Gaitani, N, Sfakianaki, K,
+  Papaglastra, M, Pavlou, C, Doukas, P, Primikiri, E, Geros, V, Assimakopoulos,
+  M~N, Mitoula, R, \& Zerefos, S. 2007.
+\newblock {Using intelligent clustering techniques to classify the energy
+  performance of school buildings}.
+\newblock {\em Energy and Buildings}, {\bf 39}(1), 45--51.
+
+\bibitem[\protect\citename{Schlueter {\em et~al.\ }\relax,
+  }2016]{schlueter_analysis_2016}
+Schlueter, A., Geyer, P., \& Cisar, S. 2016.
+\newblock {Analysis of {Georeferenced} {Building} {Data} for the
+  {Identification} and {Evaluation} of {Thermal} {Microgrids}}.
+\newblock {\em Proceedings of the IEEE}, {\bf 104}(4), 713--725.
+
+\bibitem[\protect\citename{Sedano {\em et~al.\ }\relax,
+  }2009]{sedano_improving_2009}
+Sedano, Javier, Villar, José~Ramón, Curiel, Leticia, De~La~Cal, Enrique, \&
+  Corchado, Emilio. 2009.
+\newblock {Improving energy efficiency in buildings using machine
+  intelligence}.
+\newblock {\em Pages  773--782 of:} {\em Intelligent {Data} {Engineering} and
+  {Automated} {Learning}-{IDEAL} 2009}.
+\newblock Springer.
+
+\bibitem[\protect\citename{Seem, }2005]{seem_pattern_2005}
+Seem, John~E. 2005.
+\newblock {Pattern recognition algorithm for determining days of the week with
+  similar energy consumption profiles}.
+\newblock {\em Energy and Buildings}, {\bf 37}(2), 127--139.
+
+\bibitem[\protect\citename{Seem, }2006]{seem_using_2006}
+Seem, John~E. 2006.
+\newblock {Using intelligent data analysis to detect abnormal energy
+  consumption in buildings}.
+\newblock {\em Energy and Buildings}, {\bf 39}(1), 52--58.
+
+\bibitem[\protect\citename{Senin \& Malinchik, }2013a]{senin_sax-vsm:_2013}
+Senin, P., \& Malinchik, S. 2013a (dec).
+\newblock {{SAX}-{VSM}: {Interpretable} {Time} {Series} {Classification}
+  {Using} {SAX} and {Vector} {Space} {Model}}.
+\newblock {\em Pages  1175--1180 of:} {\em 2013 {IEEE} 13th {International}
+  {Conference} on {Data} {Mining} ({ICDM})}.
+
+\bibitem[\protect\citename{Senin \& Malinchik, }2013b]{Senin_2013}
+Senin, Pavel, \& Malinchik, Sergey. 2013b.
+\newblock {{SAX}-{VSM}: Interpretable Time Series Classification Using {SAX}
+  and Vector Space Model}.
+\newblock {\em In:} {\em 2013 {IEEE} 13th International Conference on Data
+  Mining}.
+\newblock Institute of Electrical {\&} Electronics Engineers ({IEEE}).
+
+\bibitem[\protect\citename{Shahzadeh {\em et~al.\ }\relax,
+  }2015]{shahzadeh_improving_2015}
+Shahzadeh, Abbas, Khosravi, Abbas, \& Nahavandi, Saeid. 2015 (jul).
+\newblock {Improving load forecast accuracy by clustering consumers using smart
+  meter data}.
+\newblock {\em Pages  1--7 of:} {\em Proceedings of the 2015 {International}
+  {Joint} {Conference} on {Neural} {Networks} ({IJCNN})}.
+
+\bibitem[\protect\citename{Shao {\em et~al.\ }\relax,
+  }2013]{shao_temporal_2013}
+Shao, Huijuan, Marwah, Manish, \& Ramakrishnan, Naren. 2013 (jul).
+\newblock {A {Temporal} {Motif} {Mining} {Approach} to {Unsupervised} {Energy}
+  {Disaggregation}: {Applications} to {Residential} and {Commercial}
+  {Buildings}}.
+\newblock {\em Page  2250 of:} {\em Proceedings of the {Twenty}-{Seventh}
+  {AAAI} {Conference} on {Artificial} {Intelligence} ({AAAI} 2013)},  vol. 250.
+
+\bibitem[\protect\citename{Shneiderman, }1996]{shneiderman_eyes_1996}
+Shneiderman, B. 1996 (sep).
+\newblock {The eyes have it: a task by data type taxonomy for information
+  visualizations}.
+\newblock {\em Pages  336--343 of:} {\em , {IEEE} {Symposium} on {Visual}
+  {Languages}, 1996. {Proceedings}}.
+
+\bibitem[\protect\citename{Sun {\em et~al.\ }\relax, }2015]{sun_efficient_2015}
+Sun, Yan, Wu, Tin-Yu, Zhao, Guotao, \& Guizani, M. 2015.
+\newblock {Efficient {Rule} {Engine} for {Smart} {Building} {Systems}}.
+\newblock {\em IEEE Transactions on Computers}, {\bf 64}(6), 1658--1669.
+
+\bibitem[\protect\citename{Taylor {\em et~al.\ }\relax,
+  }2006]{taylor_comparison_2006}
+Taylor, James~W., De~Menezes, Lilian~M., \& McSharry, Patrick~E. 2006.
+\newblock {A comparison of univariate methods for forecasting electricity
+  demand up to a day ahead}.
+\newblock {\em International Journal of Forecasting}, {\bf 22}(1), 1--16.
+
+\bibitem[\protect\citename{Thanayankizil {\em et~al.\ }\relax,
+  }2012]{thanayankizil_softgreen:_2012}
+Thanayankizil, L~V, Ghai, S~K, Chakraborty, D, \& Seetharam, D~P. 2012.
+\newblock {Softgreen: {Towards} energy management of green office buildings
+  with soft sensors}.
+\newblock {\em Pages  1--6 of:} {\em Proceedings of the {Fourth}
+  {International} {Conference} on {Communication} {Systems} and {Networks}
+  ({COMSNETS} 2012)}.
+\newblock Bangalore, India: IEEE.
+
+\bibitem[\protect\citename{{The White House}, }2016]{the_white_house_fact_2016}
+{The White House}. 2016.
+\newblock {{FACT} {SHEET}: {Cities}, {Utilities}, and {Businesses} {Commit} to
+  {Unlocking} {Access} to {Energy} {Data} for {Building} {Owners} and
+  {Improving} {Energy} {Efficiency}}.
+\newblock jan.
+
+\bibitem[\protect\citename{Ulickey {\em et~al.\ }\relax,
+  }2010]{ulickey_building_2010}
+Ulickey, Joy, Fackler, Tim, Koeppel, Eric, \& Soper, Jonathan. 2010 (sep).
+\newblock {\em {Building {Performance} {Tracking} in {Large} {Commercial}
+  {Buildings}: {Tools} and {Strategies} - {Subtast} 4.3 {Characterization} of
+  {Fault} {Detection} and {Diagnostic} ({FDD}) and {Advanced} {Energy}
+  {Information} {System} ({EIS}) {Tools}}}.
+\newblock Tech. rept.
+
+\bibitem[\protect\citename{Vale {\em et~al.\ }\relax, }2009]{vale_data_2009}
+Vale, Zita~A, Ramos, Carlos, Ramos, Sérgio, \& Pinto, Tiago. 2009.
+\newblock {Data mining applications in power systems—{Case}-studies and
+  future trends}.
+\newblock {\em Pages  1--4 of:} {\em {IEEE} {Transmission} \& {Distribution}
+  {Conference} \& {Exposition}: {Asia} and {Pacific}, 2009}.
+\newblock Seoul, South Korea: IEEE.
+
+\bibitem[\protect\citename{Verdu {\em et~al.\ }\relax,
+  }2006]{verdu_classification_2006}
+Verdu, S~V, Garcia, M~O, Senabre, C, Marin, A~G, \& Franco, F J~G. 2006.
+\newblock {Classification, {Filtering}, and {Identification} of {Electrical}
+  {Customer} {Load} {Patterns} {Through} the {Use} of {Self}-{Organizing}
+  {Maps}}.
+\newblock {\em IEEE Transactions on Power Systems}, {\bf 21}(4), 1672--1682.
+
+\bibitem[\protect\citename{Wang \& Cui, }2005]{wang_sensor-fault_2005}
+Wang, Shengwei, \& Cui, J. 2005.
+\newblock {Sensor-fault detection, diagnosis and estimation for centrifugal
+  chiller systems using principal-component analysis method}.
+\newblock {\em Applied Energy}, jan.
+
+\bibitem[\protect\citename{Wang {\em et~al.\ }\relax,
+  }2010]{wang_system-level_2010}
+Wang, Shengwei, Zhou, Qiang, \& Xiao, Fu. 2010.
+\newblock {A system-level fault detection and diagnosis strategy for {HVAC}
+  systems involving sensor faults}.
+\newblock {\em Energy and Buildings}, {\bf 42}(4), 477--490.
+
+\bibitem[\protect\citename{Weiner, }1973]{weiner_linear_1973}
+Weiner, Peter. 1973.
+\newblock {Linear pattern matching algorithms}.
+\newblock {\em Pages  1--11 of:} {\em Switching and {Automata} {Theory}, 1973.
+  {SWAT} '08. {IEEE} {Conference} {Record} of 14th {Annual} {Symposium} on}.
+
+\bibitem[\protect\citename{Wijayasekara {\em et~al.\ }\relax,
+  }2014]{wijayasekara_mining_2014}
+Wijayasekara, D., Linda, O., Manic, M., \& Rieger, C. 2014.
+\newblock {Mining {Building} {Energy} {Management} {System} {Data} {Using}
+  {Fuzzy} {Anomaly} {Detection} and {Linguistic} {Descriptions}}.
+\newblock {\em IEEE Transactions on Industrial Informatics}, {\bf 10}(3),
+  1829--1840.
+
+\bibitem[\protect\citename{Wrinch {\em et~al.\ }\relax,
+  }2012]{wrinch_anomaly_2012}
+Wrinch, Michael, El-Fouly, Tarek~HM, \& Wong, Steven. 2012.
+\newblock {Anomaly detection of building systems using energy demand frequency
+  domain analysis}.
+\newblock {\em Pages  1--6 of:} {\em Power and {Energy} {Society} {General}
+  {Meeting}, 2012 {IEEE}}.
+\newblock San Diego, CA, USA: IEEE.
+
+\bibitem[\protect\citename{Xiao \& Fan, }2014]{xiao_data_2014}
+Xiao, Fu, \& Fan, Cheng. 2014.
+\newblock {Data mining in building automation system for improving building
+  operational performance}.
+\newblock {\em Energy and Buildings}, {\bf 75}(jun), 109--118.
+
+\bibitem[\protect\citename{Yarbrough {\em et~al.\ }\relax,
+  }2015]{yarbrough_visualizing_2015}
+Yarbrough, I., Sun, Q., Reeves, D.~C., Hackman, K., Bennett, R., \& Henshel,
+  D.~S. 2015.
+\newblock {Visualizing building energy demand for building peak energy
+  analysis}.
+\newblock {\em Energy and Buildings}, {\bf 91}(mar), 10--15.
+
+\bibitem[\protect\citename{Yoshida {\em et~al.\ }\relax,
+  }2008]{yoshida_identification_2008}
+Yoshida, Keigo, Inui, Minoru, Yairi, Takehisa, Machida, Kazuo, Shioya, Masaki,
+  \& Masukawa, Yoshio. 2008 (jan).
+\newblock {Identification of {Causal} {Variables} for {Building} {Energy}
+  {Fault} {Detection} by {Semi}-supervised {LDA} and {Decision} {Boundary}
+  {Analysis}}.
+\newblock {\em Pages  164--173 of:} {\em Data {Mining} {Workshops}, 2008.
+  {ICDMW} '08. {IEEE} {International} {Conference} on}.
+
+\bibitem[\protect\citename{Yu {\em et~al.\ }\relax, }2012]{yu_novel_2012}
+Yu, Zhun~Jerry, Haghighat, Fariborz, Fung, Benjamin C~M, \& Zhou, Liang. 2012.
+\newblock {A novel methodology for knowledge discovery through mining
+  associations between building operational data}.
+\newblock {\em Energy and Buildings}, {\bf 47}(apr), 430--440.
+
+\bibitem[\protect\citename{Yu {\em et~al.\ }\relax, }2013]{yu_extracting_2013}
+Yu, Zhun~Jerry, Fung, Benjamin C~M, \& Haghighat, Fariborz. 2013.
+\newblock {Extracting knowledge from building-related data — {A} data mining
+  framework}.
+\newblock {\em Building Simulation}, {\bf 6}(2), 207--222.
+
+\bibitem[\protect\citename{Zhou {\em et~al.\ }\relax, }2013]{zhou_review_2013}
+Zhou, Kai-le, Yang, Shan-lin, \& Shen, Chao. 2013.
+\newblock {A review of electric load classification in smart grid environment}.
+\newblock {\em Renewable and Sustainable Energy Reviews}, {\bf 24}(C),
+  103--110.
+
+\bibitem[\protect\citename{Zhu {\em et~al.\ }\relax, }2012]{zhu_fault_2012}
+Zhu, Yonghua, Jin, Xinqiao, \& Du, Zhimin. 2012.
+\newblock {Fault diagnosis for sensors in air handling unit based on neural
+  network pre-processed by wavelet and fractal}.
+\newblock {\em Energy and Buildings}, {\bf 44}(jan), 7--16.
+
+\bibitem[\protect\citename{Çakmak {\em et~al.\ }\relax,
+  }2014]{cakmak_new_2014}
+Çakmak, Hüseyin~Kemâl, Maa{\textbackslash}s~s, Heiko, Bach, Felix, \&
+  Kühnapfel, Uwe~G. 2014.
+\newblock {\em {A new framework for the analysis of large scale multi-rate
+  power data}}.
+\newblock Karlsruhe Institute of Technology.
+
+\end{thebibliography}

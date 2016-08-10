@@ -1,0 +1,128 @@
+% kate: encoding iso-8859-1
+% changed to utf8 by Karol Kozioł
+\RequirePackage{fix-cm} % Improves appearance of some cm-super fonts
+\RequirePackage[l2tabu, orthodox]{nag}    % warns about some obsolete latex constructs
+\documentclass[
+   12pt,                % font size 12pt
+   a4paper,             % layout for DIN A4
+   oneside,             % layout for one sided printing
+   headinclude,         % include head in layout computation
+   headsepline,         % horizontal line below head
+   BCOR12mm,            % correction for fixation
+   DIV16,               % DIV-value for creating the print space, (see scrguien.pdf)
+   halfparskip,         % spacing between paragraphs
+   openany,             % chapters may start on even and odd pages
+   bibtotoc,            % put bibliography into table of contents
+   pointlessnumbers,    % chapter numbers without full stop
+   tablecaptionabove,   % use table headings with correct spacing
+   fleqn                % float equations to left margin
+]{scrbook}[2007/12/24]  % scrbook-Version min. v2.98 from 2007/12/24
+
+%\usepackage[latin1]{inputenc}    % change to your encoding (e.g. utf8)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}         % correct pdf output (correct umlaut charaters)
+%\usepackage{lmodern}             % fonts for pdf-file creation (use Type1 instead of Type3) - only needed, if cmsuper is not installed
+%                                 % check the resulting pdf-file: fonts should been embedded, subsetted and of type 1 (NOT type 3!)
+\usepackage[intlimits]{amsmath}  % place the subscripts and superscripts in the right position
+\usepackage{amsfonts}            % additional fonts like \mathbb, \mathfrak
+\usepackage{amssymb}             % additional symbols
+\usepackage{url}                 % support for urls
+\usepackage{natbib}
+\usepackage{longtable}  % For multipage tables!
+
+% \usepackage{apalike}            % bibliography package
+% \usepackage{ngerman}             % new german orthography
+\usepackage{scrpage2}            % head and foot layout
+\usepackage{ushort}              % complex values require an underline (use \ushort or \ushortw)
+\usepackage{units}               % package for setting units in a typographically correct way (e.g. \unit[3]{cm})
+\usepackage{booktabs}            % package provides additional commands to enhance the quality of tables
+\usepackage{datetime}            % provides \pdfdate command
+
+\numberwithin{equation}{section} % amsmath: numbering equations
+\bibliographystyle{authordate1}       % use a DIN style for the bibliography
+\pagestyle{scrheadings}          % enable scrheadings layout for head and foot
+
+\ifx\pdfoutput\undefined
+ % non pdflatex settings (normal latex compiler assumed)
+ \usepackage[dvips]{graphicx}
+\else
+ % different settings for the pdflatex compiler
+ \usepackage[pdftex]{graphicx}
+ \usepackage{epstopdf}           % enables automatic conversion from .eps to .pdf graphic files; run MikTeX as "latex --enable-write18"
+ \usepackage[pdftex,plainpages=false]{hyperref}
+
+ \usepackage{lineno}
+
+ \pdfcompresslevel=9
+ \pdfinfo{
+    /CreationDate (D:20160501110000) % date format is year(4) month(2) day(2) hour(2) minute(2) second(2)
+    /ModDate      (D:\pdfdate)
+ }
+ \hypersetup{
+    pdftitle    = {thesis title},
+    pdfsubject  = {thesis subject},
+    pdfauthor   = {your name},
+    pdfkeywords = {},
+    colorlinks  = {true},
+    linkcolor   = {black},
+    citecolor   = {black},
+    urlcolor    = {black}
+ }
+\fi
+
+
+\renewcommand{\bibname}{Bibliography}   % new name for the bibiography
+\renewcommand{\figurename}{Figure}           % new name for the figure
+\renewcommand{\listfigurename}{List of Figures} % new name for the list of figures
+
+
+\makeindex
+
+\begin{document}
+\newcommand{\dissnum}{XXXXX}
+\renewcommand{\title}{Screening Meter Data: \\Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings}
+\newcommand{\degree}{DOCTOR OF SCIENCES of ETH ZURICH}
+\newcommand{\shortdegree}{(Dr. sc. ETH Zurich)}
+\renewcommand{\author}{Clayton C. Miller}
+\newcommand{\acatitle}{Masters of Science (MSc.) Building, National University of Singapore\\
+Masters of Architectural Engineering (MAE), Univ. of Nebraska}
+\newcommand{\dateofbirth}{22 January 1984}
+\newcommand{\citizen}{the United States of America}
+\newcommand{\examiner}{Prof. Dr. Arno Schlueter}
+\newcommand{\coexaminera}{Prof. Dr. Stefan Mueller Arisona}
+% \newcommand{\coexaminerc}{Prof. Dr. X}
+% \newcommand{\coexaminera}{Prof. Dr. X}
+
+% \maketitle
+\frontmatter
+\include{_title}
+
+\include{abstract}
+\include{abstractgerman}
+\include{acknowledgements}
+
+
+\tableofcontents
+%\listoftables
+\listoffigures
+
+\linespread{1.2}\selectfont                    % switch to 1.5 linespacing
+\linenumbers
+
+\mainmatter
+\include{ch1_Introduction}                              % include 
+\include{ch2_LitReview}
+\include{ch3_Methodology}
+\include{ch4_Stats}
+\include{ch5_Modelbased}
+\include{ch6_Patternbased}
+\include{ch7_Results}
+\include{ch8_AMIData}
+\include{ch9_Conclusions}
+
+\appendix
+\include{App_temporalfeatures}
+
+% \nocite{*}                                      % use all bibliography entries
+\bibliography{main}                             % read file main.bib (bibliography entries)
+\end{document}
