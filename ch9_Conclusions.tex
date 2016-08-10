@@ -1,0 +1,67 @@
+\chapter{Conclusion and Outlook}
+\label{sec:conclusion}
+
+This dissertation was undertaken with objectives related to the characterization of building behavior using temporal feature extraction and variable importance screening. The primary goal of the effort is to automate the process of predicting various types of meta-data. This process was implemented on two sets of case study buildings and the key quantitative conclusions include: 
+
+\begin{itemize}
+\item The framework can characterize primary building use type with a general accuracy of 67.8\% as compared to a baseline model of 22.2\% based on five use type classes. Temporal features enable a three-fold increase in building use prediction. Pattern-based features are the most common category in the top ten in the characterization of use-type, thus are important differentiators as compared to more traditional features.
+\item Building performance class overall accuracy of the model for classification is 62.3\% as compared to a baseline of 38\%. The top indicator of high versus low building in-class performance was temporal features pattern specificity. Once again, pattern-based temporal features were found to be significant in distinguishing between different types of behavior.
+\item For operations class, the accuracy of this model is 80.5\% as compared to a baseline of 16.9\%, a four-fold increase in accuracy. Daily scheduling of buildings was captured using the \emph{DayFilter} features, accounting for half of the entire input features.
+\item The ability to assist in the targeting of buildings based on how well they respond to energy savings measures is enhanced significantly using this process. An experiment was conducted in which prediction of whether a building fits within three classes of energy savings success. In the baseline model, there was only an 18.1\% accuracy in predicting whether a building will be good or bad with regards to an energy-saving measure implementation. The temporal features developed and implemented were able to predict a 45.3\% accuracy of prediction, more than double the performance.
+\end{itemize}
+
+It should be noted that the quantitative analysis portion of this study seeks to illustrate the accuracy of characterization. This success metric is as compared to the quantity of energy saved, the percentage of savings due to implementation, and other building performance metrics. This shift in focus is deliberate as the framework is designed as a step between raw data and other techniques that target the decision-making process. 
+
+Several insights were gathered from the qualitative research approaches on the case study interviews. This insight can be found in Section \ref{sec:characterization}. The first key issue was that the two-step framework was seen as \emph{interesting and insightful} regarding the results. Participants were generally engaged with the content and results, but little concrete decision-making power was extracted from them. Guidelines for further work in the utilization of the framework for practical applications was discussed.
+% \begin{itemize}
+% \item Feedback on the ability to use the high-frequency data to 
+% \end{itemize}
+
+
+\section{Outlook}
+\label{sec:futuresteps}
+A major future effort to build upon this work is expansion and enhancement of both the building data library and the applied techniques. The more meta-data collected for each building, the more detailed understanding of what temporal behavior is correlated with those data. Thus, a more detailed characterization of each building and correlations between the meta-data can occur. Additionally, increasing the number and scope of the buildings in the data set enhances the ability to generalize the results across the wider building stock. This repository could grow into something of a \emph{Building Data Genome} that enables researchers to download, make generalizations and infer information from the data set in addition to comparing it to buildings from their portfolios. This idea draws inspiration from the field of bioinformatics and the study of genomes in the biological world. These genomes were sequenced from raw data (DNA) and are used to find patterns or correlations related to certain meta-data about a specific organism. The release of the data and code generated to create this framework is announced in Section \ref{sec:reproducibleresearch}.
+
+The first major area of influence that the framework outlined in this dissertation is within the domain of building performance benchmarking. This focus was discussed in Section \ref{sec:buildinguse} in the ability for the framework to predict what the primary use type of a building based on its temporal data. With the increased availability of high-frequency data, soon building owners will have the ability to submit their fifteen-minute frequency performance data directly from their utility or energy management systems. Extracting information about how well each building performs as compared to its peers can be enhanced through the use of this high-frequency data. This dissertation has illustrated the use of temporal features for the purpose of building use and performance class prediction; both concepts that are very relevant to this application. The next steps in this effort include fine-tuning the algorithms such that meta-data about a potential input building is checked against the temporal features generated from the raw data. 
+
+Another promising field of research is in the automated targeting of buildings amongst vast portfolios for various objectives such as retrofit opportunities. This field is emerging as large numbers of AMI data sets become available. As discussed in the introduction, there is an under-supply of qualified data analytics experts to extract patterns and information from these data to make decisions on which buildings to prioritize on various objectives. The framework outlined identifies an initial step in the direction of characterizing energy savings measures. Further work is necessary to develop these models into a tool that automatically determines the applicability of various energy savings measures based on temporal data from past projects and training data from potential targeted buildings. These types of tools could act as screening process in how well a building fits within the category its being benchmarked against. This process could also provide feedback as to \emph{why} a building did or didn't perform well within its class based on where its individual features fall as compared to other buildings in the same class. 
+
+The effort in this dissertation also works to reduce the ambiguity of algorithm applicability in commercial building research. This phenomenon is observed in the wider data mining community as a whole \citep{keogh_need_2003}. In this study, Keogh et al. describe a scenario in which ``Literally hundreds of papers have introduced new algorithms to index, classify, cluster, and segment time series.'' They go on to state, ``Much of this work has very little utility because the contribution made (speed in the case of indexing, accuracy in the case of classification and clustering, model accuracy in the case of segmentation) offer an amount of improvement that would have been completely dwarfed by the variance that would have been observed by testing on many real world datasets, or the variance that would have been observed by changing minor (unstated) implementation details.'' They make the case that time series benchmarking data sets should be used to evaluate whether a new proposed algorithm is more beneficial as compared to previous work. The use of benchmark data sets reduces the impact of implementation bias, the disparity in the quality of implementation of a proposed approach versus its competitors, and data bias, the use of a particular set of testing data to confirm the desired finding. These biases were proven common amongst popular data mining publications, and it is suspected that they may be prevalent in the papers in this review. Benchmarking data sets for building performance analysis could be developed and promoted for use in papers similar to what was used in the \emph{Great Building Energy Predictor Shootout} competition that was held in the mid-1990's \citep{kreider_predicting_1994}. In this competition, standardized training and testing data sets were provided to numerous participants to determine who could create the most accurate model to predict future consumption. A modern-day \emph{energy predictor shootout} could be held to incorporate the numerous advances made in machine learning since then. In addition to the ability to compare accuracy of algorithms, publications should also include more detailed explanations of the effort required to implement the proposed techniques such that a third-party could evaluate whether the effort-to-accuracy balance is right for their application.
+
+Regarding outlook, the techniques outlined in this study are also applicable to other domains with temporal data and daily, weekly and seasonal patterns from fields such as transportation or finance. For example, finding the specificity or long-term volatility of the driving habits of cars on the road could be an application of the pattern-based temporal features.
+
+\section{Reproducible Research Outputs}
+\label{sec:reproducibleresearch}
+A primary goal of this dissertation was the creation of a repository of building performance data and techniques that can be implemented by other researchers and professionals. The 507 building case study data set and much of the data analysis behind the temporal feature extraction and classification has been combined into a GitHub repository that is open and accessible online (https://github.com/architecture-building-systems/the-building-data-genome). The release of specific data sets for data science publications could become the norm, thus facilitating the ability for a third-party to recreate the results.  The repository includes a set of Jupyter notebooks that can be downloaded and used to replicate the results of those studies easily. The Jupyter notebook website states that it is "an open source, web application-based document that combines live code, equations, visualizations, and explanatory text."\footnote{https://jupyter.org/} The use of these types of formats is an opportunity to enhance the interdisciplinary communication further through the sharing and utilization of publication data. 
+
+
+
+% \subsection{Research Questions}
+% The primary question addressed through this research is:
+% \begin{itemize}
+% \item How much information about a building can be predicted solely through the analysis of raw hourly or sub-hourly, whole building electrical meter data with a scarcity of conventional characteristic data? 
+% \end{itemize}
+% This question is dissected into several more specific parts:
+% \begin{itemize}
+% \item Which temporal features are most accurate in classifying the primary use-types of a building?
+% \item Can temporal features be used to better benchmark buildings by signifying how \emph{well a building fits within its designated use-type class}?
+% \item Can temporal features be used to forecast whether an energy savings intervention measure will be successful or not?
+% \item What are the most appropriate parameter settings for various generalized temporal feature extraction techniques as applied to this context?
+% \item Is it effective or possible to implement such features across data from tens of thousands of buildings?
+% \end{itemize}
+
+
+% \section{Reproducible Research}
+% \label{sec:reproducibleresearch}
+
+% The goal of this dissertation is to develop and test various temporal features for the purpose of characterizing buildings. A strong secondary goal is to start a framework by which other buildings and features can be added for the purpose of analysis. Thus, a repository has been created to facilitate this goal.
+
+
+
+% \section{Future Research}
+% \label{sec:futureresearch}
+
+% \begin{enumerate}
+% \item Characterization of many other types of "meta-data" -- building systems installed, age of building, zones, individual use types, etc. These are meta-data that could be extracted from building information models (BIM). 
+% \item Fine-tuned targeting of subsequences of performance data
+% \end{enumerate}

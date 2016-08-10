@@ -1,9 +1,0 @@
-\subsection{Energy Efficiency Measure Implementation Success Prediction}
-\label{sec:measuresuccess}
-
-The next example of using the temporal features is predicting the success of future measure implementation events using the past data. For this proof-of-concept, Pre and Post-measure implementation data are utilized from close to 1,600 buildings that had one or more measures implemented. The difference in mean daily consumption before an after the measure implementation is calculated to achieve a rough indication of measure success. The measures into three classifications is divided according to where the difference in daily consumption for each account fits in the range of values. In this analysis, the accounts in the lowest 33\% were considered “Poor”, while the 66\% percentile were “Average” and the top 33\% are considered “Good”. Simple difference in mean daily consumption is not a perfect metric for success, as it is not normalized for weather or occupancy changes; although it is adequate for this step as we are already arbitrarily choosing the thresholds for class difference anyway and are looking for a simple metric at this point. 
-
-% We recognize that improvement of this success metric is an obvious improvement in the methodology that can be pursued going forward.
-
-Figure \ref{fig:measurecatbreakdown} illustrates a breakdown of the measure categories within the tested dataset. 
-%This data is from the KITT platform and these are the accounts that have had only one month of measure implementation from each category implemented in the targeted time range.

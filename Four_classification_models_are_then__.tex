@@ -1,9 +1,0 @@
-Four classification models are then created to predict the general SIC Category of each account:
-\begin{itemize}
-\item Baseline model - using the distributions of the input samples to guess the category
-\item Non-Temporal Features Model – using the old non-temporal features containing monthly data and zip code/location information
-\item Temporal Features – using the new features generated from the AMI data
-\item Combined Features – using all the features, temporal and non-temporal
-\end{itemize}
-
-Once again a random forest model was implemented using Python’s Scikit-Learn library. The models were executed an out-of-bag error to calculate mean model accuracy of a multi-label classification. Figure \ref{fig:modelimprovement_ami} illustrates the results of the models with respect to percent mean accuracy improvement over the baseline.

@@ -1,6 +1,0 @@
-The individual subsequences, $N$, are not normalized independently. This particular decision is divergent from the generalized shape-based discord approaches and is due to the fact that, in this level of analysis and the context of building performance data,  we are interested in discovering interesting subsections based on both magnitude and shape. 
-% used with permission from Keogh et. al \cite{Keogh:2005wd}.
-
-The targeted benefits of using SAX in this scenario are that discretization uniformly reduces the dimensionality and creates sets of words from the daily data windows. This transformation allows the use of hashing, filtering, and clustering techniques that are commonly used to manipulate strings \cite{lin_experiencing_2007}. 
-
-Once the SAX words are created, we are interested in visualizing each pattern and tagging each type as either a motif or discord. The results of applying the SAX process to a two-week sample power dataset are shown in Figure~\ref{fig:saxcreation}. The diagram shows how each daily chunk of high frequency data is transformed into a set of SAX characters. In this example we used an alphabet size, $A$, of 3 and a subsequence period count, $W$, of 4 with each character aggregating the data from 6 hours of each profile. These parameters are the same as used in the more simplified two day example from Figure~\ref{fig:SAXWord}

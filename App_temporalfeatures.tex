@@ -1,0 +1,333 @@
+\chapter{Complete List of Generated Temporal Features}
+\label{sec:temporalfeaturelist}
+
+This appendix section outlines a library of temporal features developed or utilized in this dissertation. The last three columns indicate whether the feature was used as an input in each of the sections of Chapter \ref{sec:characterization}: Use Type (U), Consumption Type (C), and Operations Type (O).
+
+{\scriptsize
+{\scriptsize
+
+\begin{longtable}[l]{ | p{4cm} | p{4cm} | p{1cm} | p{2cm} | p{0.3cm} | p{0.3cm} | p{0.3cm} |}
+\hline
+	Feature Code & Description & Category & Type & U & C & O \\ \hline
+	 consumpstats dailykwminvar & Daily minimum variance & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats dailykwvar & Daily variance & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kw90 & Ninety percentile & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwmean & Mean & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwmeanannual & Annual mean & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwmeansummer & Annual summer & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwmeanwinter & Annual winter & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwtotal & Total & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats kwvar & Variance & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats max & Max & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats max97 & Max percentile & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxMA & Max MA & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxdaydate & Day of max use & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxdaypct & Day of max as a pct. & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxdaytout & Day of max output & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxhrkw & Max hour & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats maxhrtout & Outdoor air temp on max day & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats mean & Mean & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats min & Minimum & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats min3 & Minimum percentile & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats range & Range & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats t10kw & Most common hour in top ten percent & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstatsdaykw & Total on max day & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstatsdaytout & Outdoor air temp & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstatsmaxdaykw & Day with max cons. & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstatst 90kw & Max percentile & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 normalizedcons max & Area normalized stats & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 normalizedcons mean & Area normalized stats & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 normalizedcons min & Area normalized stats & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 normalizedcons std & Area normalized stats & Stats. & Cons. Stats & X & X & \  \\ \hline
+	 consumpstats Aug max & Aug stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Aug mean & Aug stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Aug min & Aug stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Aug mn2mx & Aug stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Jan max & Jan stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Jan mean & Jan stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats Jan min & Jan stats & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats dailykwmaxvar & Daily max variance & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalApr & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalAug & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalDec & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalFeb & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalJan & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalJul & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalJun & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalMar & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalMay & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalNov & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalOct & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwtotalSep & Monthly totals & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwvarsummer & Summer variance & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats kwvarwinter & Winter variance & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats maxhrdate & Timestamp of max cons. & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats t10t & Temp at percentile & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 consumpstats t90t & Temp at percentil & Stats. & Cons. Stats & X & \  & \  \\ \hline
+	 all meanvs95 max & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvs95 mean & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvs95 min & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvs95 std & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvsmax max & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvsmax mean & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvsmax min & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all meanvsmax std & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvs95 max & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvs95 mean & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvs95 min & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvs95 std & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvsmax max & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvsmax mean & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvsmax min & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 all minvsmax std & Ratio of daily  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvs95 max & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvs95 mean & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvs95 min & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvs95 std & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvsmax max & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvsmax mean & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvsmax min & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays meanvsmax std & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvs95 max & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvs95 mean & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvs95 min & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvs95 std & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvsmax max & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvsmax mean & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvsmax min & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekdays minvsmax std & Ratio of weekday  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvs95 max & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvs95 mean & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvs95 min & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvs95 std & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvsmax max & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvsmax mean & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvsmax min & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend meanvsmax std & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvs95 max & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvs95 mean & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvs95 min & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvs95 std & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvsmax max & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvsmax mean & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvsmax min & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 weekend minvsmax std & Ratio of weekend  & Stats. & Daily Ratios & X & X & X \\ \hline
+	 hourlystats maxHOD & Hour of day stat & Stats. & Hourly Stats. & X & X & X \\ \hline
+	 hourlystats HODmean1 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean10 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean11 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean12 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean13 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean14 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean15 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean16 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean17 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean18 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean19 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean2 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean20 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean21 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean22 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean23 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean24 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean3 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean4 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean5 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean6 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean7 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean8 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 hourlystats HODmean9 & Hour of day stat & Stats. & Hourly Stats. & X & X & \  \\ \hline
+	 seasonal Aug dur & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Aug n2d & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Aug range & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Jan dur & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Jan mn2mx & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Jan n2d & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 seasonal Jan range & Seasonal stats & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats dur & Duration & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats kwtoutcor & Temp and cons. Correlation & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats mindaydate & Minimum cons day  & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats mindaypct & Min day percentage & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats minhrkw & Min hour  & Stats. & Simple Stats. & X & X & X \\ \hline
+	 stats minhrtout & Temp at min. hour & Stats. & Simple Stats. & X & X & X \\ \hline
+\end{longtable}
+
+\begin{longtable}[l]{ | p{4cm} | p{4cm} | p{1cm} | p{2cm} | p{0.3cm} | p{0.3cm} | p{0.3cm} |}
+\hline
+	Feature Code & Description & Category & Type & U & C &  \\ \hline
+	 eemeter coolbalpt & Cooling balance point & Model & EEMeter Model & X & X & X \\ \hline
+	 eemeter cvrmse & Model fit coefficient & Model & EEMeter Model & X & X & X \\ \hline
+	 eemeter heatbalpt & Heating balance point & Model & EEMeter Model & X & X & X \\ \hline
+	 eemeter baseload & Baseload & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter cooling max & Maximum cooling cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter cooling mean & Mean cooling cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter cooling min & Min cooling cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter cooling std & Std. Dev. Cooling cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter coolslope & Slope of cooling linear regression & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter heating max & Maximum heating cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter heating mean & Mean heating cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter heating min & Min. heating cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter heating std & Std. Dev. Heaint cons. & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter heatslope & Slope of heatig linear regression & Model & EEMeter Model & X & X & \  \\ \hline
+	 eemeter nmbe & Model fit coefficient & Model & EEMeter Model & X & X & \  \\ \hline
+	 loadshape corr interval & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 loadshape corr interval daytime & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 loadshape mape interval & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 loadshape mape interval daytime & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 loadshape rmse interval & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 loadshape rmse interval daytime & Model fit coefficient & Model & Loadshape Model & X & X & X \\ \hline
+	 stlreminder apr mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder aug mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder dec mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder feb mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder jan mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder jul mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder jun mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder mar mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder may mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder nov mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder oct mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stlreminder sep mean & Model fit remainder & Model & STL Model & X & X & X \\ \hline
+	 stltrend apr mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend aug mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend dec mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend feb mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend jan mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend jul mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend jun mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend mar mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend may mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend nov mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend oct mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stltrend sep mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern fri mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern mon mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern sat mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern sun mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern thur mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern tue mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+	 stlweeklypattern wed mean & Model trend mean & Model & STL Model & X & X & X \\ \hline
+\end{longtable}
+	
+\begin{longtable}[l]{ | p{4cm} | p{4cm} | p{1cm} | p{2cm} | p{0.3cm} | p{0.3cm} | p{0.3cm} |}
+\hline
+	Feature Code & Description & Category & Type & U & C &  \\ \hline
+	\hline
+	 breakouts max 10 1 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 1 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 1 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 2 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 2 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 2 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 5 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 5 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 10 5 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 1 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 1 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 1 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 2 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 2 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 2 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 5 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 5 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 30 5 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 1 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 1 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 1 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 2 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 2 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 2 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 5 2 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 5 3 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 breakouts max 60 5 5 & Number of breakouts (various inputs) & Pattern & Breakout & X & X & X \\ \hline
+	 dayfilterfreq 3 2h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 2h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 2h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 2h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 4h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 4h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 4h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 4h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 6h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 6h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 6h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 6h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 8h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 8h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 8h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 3 8h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 2h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 2h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 2h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 2h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 4h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 4h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 4h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 4h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 6h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 6h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 6h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 6h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 8h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 8h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 8h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 5 8h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 2h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 2h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 2h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 2h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 4h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 4h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 4h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 4h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 6h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 6h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 6h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 6h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 8h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 8h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 8h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 7 8h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 2h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 2h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 2h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 2h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 4h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 4h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 4h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 4h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 6h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 6h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 6h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 6h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 8h max & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 8h mean & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 8h min & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 dayfilterfreq 9 8h std & Daily freq. (various inputs) & Pattern & DayFilter Freq. & X & X & X \\ \hline
+	 jmotif inclasssim 168 6 14 & jMotif In-class similiarity & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotif inclasssim 168 8 21 & jMotif In-class similiarity & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotif inclasssim 24 12 12 & jMotif In-class similiarity & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotif inclasssim 24 6 6 & jMotif In-class similiarity & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotif inclasssim 24 8 8 & jMotif In-class similiarity & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 6 14 max & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 6 14 mean & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 6 14 min & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 6 14 std & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 8 21 max & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 8 21 mean & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 8 21 min & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 168 8 21 std & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 12 12 max & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 12 12 mean & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 12 12 min & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 12 12 std & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 6 6 max & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 6 6 mean & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 6 6 min & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 6 6 std & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 8 8 max & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 8 8 mean & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 8 8 min & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+	 jmotiftemporal 24 8 8 std & jMotif temporal specificity  & Pattern & jMotif Pattern & X & X & \  \\ \hline
+\end{longtable}
+}

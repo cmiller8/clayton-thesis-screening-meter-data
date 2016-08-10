@@ -1,0 +1,80 @@
+\chapter{Introduction}
+\label{sec:intro}
+The built and urban environments have a significant impact on resource consumption and greenhouse gas emissions in the world. The United States is the world's second largest energy consumer, and buildings there account for 41\% of energy consumed\footnote{As of 2014, according to: \url{http://www.eia.gov/}}. The most extensive meta-analysis thus far of non-residential existing buildings showed a median opportunity of 16\% energy savings potential by using cost-effective measures to remedy performance deficiencies \citep{mills_building_2011}. Simply stated, roughly 6\% of the energy consumed in the U.S. could be easily mitigated - a figure that would eventually grow to an annual energy savings potential of \$30 billion and 340 megatons of C02 by the year 2030. Beyond saving energy, money and mitigating carbon, the impact of building performance improvement also extends to the health, comfort and satisfaction of the people who use buildings.
+
+It is mysterious that these performance improvements are not rapidly being identified and implemented on a massive scale across the world’s building stock given the incentives and amount of research focused on building optimization in the fields of Architecture, Engineering and Computer Science. A comprehensive study of building performance analysis was completed by the California Commissioning Collaborative (CACx) to characterize the technology, market, and research landscape in the United States. Three of the key tasks in this project focused on establishing the state of the art \citep{effinger_building_2010}, characterizing available tools and the barriers to adoption \citep{ulickey_building_2010}, and establishing standard performance metrics \citep{greensfelder_building_2010}. These reports were accomplished through investigation of the available tools and technologies on the market as well as discussions and surveys with building operators and engineers. The common theme amongst the interviews and case studies was the \emph{lack of time and expertise} on the part of the dedicated operations professionals. The findings showed that installation time and cost was driven by the need for an engineer to develop a full understanding of the building and systems. These barriers reduce the implementation of performance improvements.
+
+% These results are interpreted as a potential need for techniques that take into consideration the people, process, and philosophy aspects of the performance analysis equation \citep{miller_applicability_2013}. 
+
+
+In another study, Ruparathna et al. created a contemporary review of building performance analysis techniques for commercial and institutional buildings \citep{ruparathna_improving_2016}. This review was comprehensive in capturing approaches related to technical, organizational, and behavioral changes. The majority of publications considered fall within the domains of automated fault detection and diagnostics, retrofit analysis, building benchmarking, and energy auditing. These traditional techniques focus on one building or a small, related collection of buildings, such as a campus. Many require complex characteristic data about each building, such as it geometric dimensions, building materials, the age and type of mechanical systems, and other metadata, to execute the process. Once again, such detailed techniques rely on metadata that often doesn't exist in the field, thus contributing to the barriers listed above.
+
+Another issue facing the building industry is the characterization of the commercial building stock for benchmarking, intervention targeting, and general understanding of the way modern buildings are being utilized and operated. The Commercial Building Energy Consumption Survey (CBECS) is the primary means of collecting a characteristic data about the global commercial building stock in the United States. This survey is conducted every four years, the latest in 2012 in which information on over 6,700 building around the U.S. was collected for characterization. A large amount of meta-data was collected about each building from categories such as size, vintage, geographic region, and principal activity. This data collection was done through the efforts about 250 interviewers across the country under the supervision of 17 field supervisors, three regional field managers, and a field director. This manpower was utilized over the course of over three years to characterize and document the commercial building stock.
+
+% Studies have revealed that a lack of skilled professionals, time, and budget heavily contribute to this reality \citep{ulickey_building_2010,effinger_building_2010}. 
+
+From these studies, it becomes apparent that the biggest barrier to achieving performance improvement in buildings is scalability. Architecture is a discipline founded with aesthetic creativity as a core tenet. Frank Lloyd Wright once stated, ``The mother art is architecture. Without an architecture of our own, we have no soul of our civilization.'' Designers rightfully strive for artistic and meaningful creations; this phenomenon results in buildings with not only distinctive aesthetics but also unique energy systems design, installation practices and different levels of organization within the data-creating components. In this dissertation, I show that an emerging mass of data from the built environment can facilitate better characterization of buildings by through automation of meta-data extraction. These data are temporal sensor measurements from performance measurement systems.
+
+\section{Growth of Raw Temporal Data Sources in the Built Environment}
+\label{sec:datagrowth}
+
+As entities of analysis, buildings are less on the level of a typical mass-produced manufactured device in which each unit is the same in its components and functionality; and more on the level of customers of business, entities that are similar and yet have numerous nuances. Conventional mechanistic or model-based approaches, typically borrowed from manufacturing, have been the status quo in building performance research. As previously discussed, scalability amongst the heterogeneous building stock is a significant barrier to these approaches. More appropriate means of analysis lies in statistical learning techniques more often found in the medical, pharmaceutical and customer acquisition domains. These methods rely on extracting information and correlating patterns from large empirical data sets. \emph{The strength of these techniques is in their robustness and automation of implementation - concepts explicitly necessary to meet the challenges outlined.}
+
+This type of research on buildings would have been tough even a few years ago. The creation and consolidation of measured sensor sources from the built environment and its occupants is occurring on an unprecedented scale. The Green Button Ecosystem now enables the easy extraction of performance data from over 60 million buildings\footnote{According to: http://www.greenbuttondata.org/}. Advanced metering infrastructure (AMI), or smart meters, have been installed on over 58.5 million buildings in the US alone\footnote{As of 2014, according to: \url{http://www.eia.gov/tools/faqs/faq.cfm?id=108&t=3}}. A recent press release from the White House summarizes the impact of utilities and cities in unlocking these data \citep{the_white_house_fact_2016}. It announces that 18 utilities, serving more than 2.6 million customers, will provide detailed energy data by 2017. This study also suggests that such accessibility will enable improvement of energy performance in buildings by 20\% by 2020. A vast majority of these raw data being generated are sub-hourly temporal data from meters and sensors.
+
+To understand the exponential magnitude of this source data growth in the building industry, one can estimate the amount of measurements being generated by these sensors. The United States context has public data available to create a set of assumptions to roughly quantify this growth. Before the widespread use of digital building automation systems, buildings were controlled either manually or using pneumatic controls and building electrical use was measured and reported monthly. According to the Commercial Building Energy Consumption Survey, there were over 4.5 million commercial buildings in the United States in 1996. The theoretical amount of data from monthly electrical meters for all of these buildings for one year would be 54 million measurements. In about 2007, electrical meters with the capability to capture and store data at 15-minute frequencies were introduced into the market, and 7 million were installed on all building types \footnote{\url{http://www.edisonfoundation.net/iei/Documents/IEI_SmartMeterUpdate_0914.pdf}}. If one assumes that the proportion of these meters that are commercial is similar to today\footnote{About 11.2\% according to: \url{http://www.eia.gov/tools/faqs/faq.cfm?id=108\&t=3}}, that will result in approximately 784,000 buildings creating 27.4 billion measurements per year. By 2014, AMI meters have been installed on 6.53 million commercial buildings resulting in 228 billion measurements per year. The exponential magnitudes of growth of these data can be seen in Figure \ref{fig:datagrowth}. This discussion ignores the concept of accessibility which has also vastly improved due to the technology.
+%  \citep{energy_information_administration_how_2015} \citep{james_manyika_unlocking_2015}
+%The Internet-of-Things (IoT) movement provides an array of low-cost sensors, data acquisition devices, and cloud storage. A recent study has predicted a \$70-150 billion impact of IoT in offices and \$200-350 billion in homes.
+
+\begin{figure}[ht!]
+\begin{center}
+\includegraphics[width=0.98\columnwidth]{figures/Figure1_amountofdata/Figure1_amountofdata}
+\caption{Theoretical growth of measurement data from electrical meters in commercial buildings in the USA in the last 20 years
+\label{fig:datagrowth}%
+}
+\end{center}
+\end{figure}
+
+The analysis of the performance of buildings and the characterization of the building stock are necessary and, as discussed, quite tedious challenges in the building industry. Thus, a critical opportunity for the building industry is how these techniques can utilize the aforementioned explosion of detailed, temporal sources. 
+
+\begin{itemize}
+  \item \emph{If one has access to raw data from hundreds, or even thousands, of buildings, how can analysis be scaled in a robust way?}
+  \item \emph{How can these data be used to inform the larger research community about the phenomenon occurring in the actual building stock?}
+  \item \emph{What characteristic data about buildings can be inferred from these sources?}
+\end{itemize} 
+
+Non-residential buildings are the focus of this analysis as they are unique and complex in their energy-consuming systems. This decision was designed to limit the scope to a subset of the building industry that is under-researched as compared to residential buildings.
+
+\section{A Framework for Automated Characterization of Large Numbers of Non-Residential Buildings}
+\label{sec:frameworkforanalysis}
+
+This thesis develops a framework to investigate which characteristics of whole building electrical meter data are most indicative of various meta-data about buildings amongst large collections of commercial buildings. This structure is designed to \emph{screen} electrical meter data for insight on the path towards deeper data analysis. The screening nature of the process is motivated by the scalability challenges previously outlined. An initial component in the methodology was a series of case study interviews and data collection processes to survey field data from numerous buildings around the world. Two phases were then applied to the collected data. The first was to use a library of temporal feature extraction techniques for the purpose of retrieving various behavior from whole building electrical sensor data in a relatively fast and unsupervised fashion. The second process utilizes these features in classification models to determine the accuracy of predicting various meta-data about each building. The classification aspect of the process is designed primarily to establish the importance of the input variables in their ability to characterize various behavior. Several meta-data are targeted to test this framework such as building use type, performance class, and operational strategy. These objectives were chosen as they represent steps in the direction of benchmarking, diagnostics, retrofit analysis, and other types of building performance analysis techniques. 
+
+\section{Research Questions}
+The primary question addressed through this research is:
+\begin{itemize}
+\item How accurately can the meta-data about a building be characterized through the analysis of raw hourly or sub-hourly, whole building electrical meter data? 
+\end{itemize}
+
+This question is dissected into several more specific parts:
+\begin{itemize}
+\item Which temporal features are most accurate in classifying the primary use-type, performance class, and operational strategy of a building?
+\item Can temporal features be used to better benchmark buildings by signifying how \emph{well a building fits within its designated use-type class}?
+\item Can temporal features be used to forecast whether an energy savings intervention measure will be successful or not?
+\item What are the most appropriate parameter settings for various generalized temporal feature extraction techniques as applied to this context?
+\item Is it effective or possible to implement such features across data from tens of thousands of buildings?
+\end{itemize}
+
+\section{Objectives}
+The objectives of this research are as follows:
+\begin{enumerate}
+\item Consolidate and curate a set of feature extraction techniques from various research domains that automatically extract characteristic information from raw, temporal data
+\item Extend these feature sets to include pattern recognition approaches that capture more information through characterizing usage patterns
+\item Deploy these features on a test data set of 507 buildings to quantify the ability to characterize building use type, in-class performance, and operations types
+\item Deploy a subset of features on a data set of approximately 1,600 buildings to test the ability to predict whether an energy-savings measure implementation will be a success 
+\end{enumerate}
+
+\section{Organization of the Thesis}
+\label{sec:organization}
+
+The remainder of this thesis is organized as follows. The research context of contemporary statistical learning and visual analytics techniques as applied to building performance is reviewed in Section \ref{sec:litreview}. This section has a special focus on unsupervised learning techniques as they are a strong basis for many of the temporal features extracted. Section \ref{sec:methodology} provides an overview of the two steps in the framework as well as the process of collecting data and insight from a series of case studies from around the world. Data from over 1200 buildings was collected on-site or through various open web portals and 507 were selected for further analysis. Sections \ref{sec:statisticsfeatures}-\ref{sec:patternbasedfeatures} provide in-depth overviews of each category of the temporal mining techniques implemented on the case study buildings, including explanatory visualizations of the range of values across the tested time range. Section \ref{sec:characterization} discusses the use of these features for the characterization of objectives such as predicting building use type, performance class, and operations type. Section \ref{sec:scalability} focuses on the use of a subset of temporal features in the industry classification and prediction of energy savings measures of close to 10,000 buildings with AMI data available. Finally, Section \ref{sec:conclusion} provides concluding remarks to understand the overall results of the thesis and future directions to pursue using the outlined techniques.
