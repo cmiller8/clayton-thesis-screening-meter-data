@@ -1,81 +1,81 @@
 \contentsline {chapter}{\nonumberline Abstract}{ii}{chapter*.1}
 \contentsline {chapter}{\nonumberline Kurzfassung}{iii}{chapter*.2}
 \contentsline {chapter}{\nonumberline Acknowledgements}{iv}{chapter*.3}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Growth of Raw Temporal Data Sources in the Built Environment}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}A Framework for Automated Characterization of Large Numbers of Non-Residential Buildings}{5}{section.1.2}
-\contentsline {section}{\numberline {1.3}Research Questions}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}Objectives}{6}{section.1.4}
-\contentsline {section}{\numberline {1.5}Organization of the Thesis}{6}{section.1.5}
-\contentsline {chapter}{\numberline {2}Research Context: Statistical Learning and Visual Analytics of Building Data}{8}{chapter.2}
-\contentsline {section}{\numberline {2.1}Previous Reviews of Data Analytics in Buildings}{8}{section.2.1}
-\contentsline {section}{\numberline {2.2}Overview of Publications}{9}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Research Sectors}{9}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Publications Venues}{10}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Smart Meter Analytics}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Load Profiling}{12}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Customer Classification}{13}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Disaggregation}{14}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Portfolio Analytics}{14}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Characterization}{14}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Classification}{15}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Targeting}{15}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Operations, Optimization, and Controls}{16}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Occupancy Detection}{16}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Controls}{16}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Energy Management}{17}{subsection.2.5.3}
-\contentsline {section}{\numberline {2.6}Anomaly Detection}{17}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Whole Building}{18}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Subsystems}{18}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Components}{19}{subsection.2.6.3}
-\contentsline {section}{\numberline {2.7}Discussion}{19}{section.2.7}
-\contentsline {chapter}{\numberline {3}Methodology}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}Temporal Feature Extraction}{22}{section.3.1}
-\contentsline {section}{\numberline {3.2}Characterization and Variable Importance}{26}{section.3.2}
-\contentsline {section}{\numberline {3.3}Case Study, Empirical Data Collection, and Qualitative Research}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Site Visits for Case Studies}{30}{subsection.3.3.1}
-\contentsline {subsubsection}{\nonumberline Case Study 1}{30}{section*.6}
-\contentsline {subsubsection}{\nonumberline Case Study 2}{31}{section*.7}
-\contentsline {subsubsection}{\nonumberline Case Study 3}{31}{section*.8}
-\contentsline {subsubsection}{\nonumberline Case Study 4}{32}{section*.9}
-\contentsline {subsubsection}{\nonumberline Case Study 5}{32}{section*.10}
-\contentsline {subsection}{\numberline {3.3.2}Online Open Case Studies}{32}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Overview of Data Collected}{33}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Selection of Case Study Subset for Feature Implementation}{36}{subsection.3.4.1}
-\contentsline {section}{\numberline {3.5}Advanced Metering Infrastructure Case Study}{36}{section.3.5}
-\contentsline {chapter}{\numberline {4}Statistics-based Features}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}Theoretical Basis}{37}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Basic Temporal Statistics}{37}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Ratio-based Statistical Features}{38}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Spearman Rank Order Correlation Coefficient}{40}{subsection.4.1.3}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Growth of Raw Temporal Data Sources in the Built Environment}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}A Framework for Automated Characterization of Large Numbers of Non-Residential Buildings}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Research Questions}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objectives}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Organization of the Thesis}{7}{section.1.5}
+\contentsline {chapter}{\numberline {2}Research Context: Statistical Learning and Visual Analytics of Building Data}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Previous Reviews of Data Analytics in Buildings}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Overview of Publications}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Research Sectors}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Publications Venues}{11}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Smart Meter Analytics}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Load Profiling}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Customer Classification}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Disaggregation}{15}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Portfolio Analytics}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Characterization}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Classification}{16}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Targeting}{16}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Operations, Optimization, and Controls}{17}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Occupancy Detection}{17}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Controls}{17}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Energy Management}{18}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Anomaly Detection}{18}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Whole Building}{19}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Subsystems}{19}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Components}{20}{subsection.2.6.3}
+\contentsline {section}{\numberline {2.7}Discussion}{20}{section.2.7}
+\contentsline {chapter}{\numberline {3}Methodology}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Temporal Feature Extraction}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Characterization and Variable Importance}{27}{section.3.2}
+\contentsline {section}{\numberline {3.3}Case Study, Empirical Data Collection, and Qualitative Research}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Site Visits for Case Studies}{31}{subsection.3.3.1}
+\contentsline {subsubsection}{\nonumberline Case Study 1}{31}{section*.6}
+\contentsline {subsubsection}{\nonumberline Case Study 2}{32}{section*.7}
+\contentsline {subsubsection}{\nonumberline Case Study 3}{32}{section*.8}
+\contentsline {subsubsection}{\nonumberline Case Study 4}{33}{section*.9}
+\contentsline {subsubsection}{\nonumberline Case Study 5}{33}{section*.10}
+\contentsline {subsection}{\numberline {3.3.2}Online Open Case Studies}{33}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Overview of Data Collected}{34}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Selection of Case Study Subset for Feature Implementation}{37}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.5}Advanced Metering Infrastructure Case Study}{37}{section.3.5}
+\contentsline {chapter}{\numberline {4}Statistics-based Features}{38}{chapter.4}
+\contentsline {section}{\numberline {4.1}Theoretical Basis}{38}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Basic Temporal Statistics}{38}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Ratio-based Statistical Features}{39}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Spearman Rank Order Correlation Coefficient}{41}{subsection.4.1.3}
 \contentsline {section}{\numberline {4.2}Implementation and Discussion}{42}{section.4.2}
-\contentsline {chapter}{\numberline {5}Regression Model-based Features}{47}{chapter.5}
-\contentsline {section}{\numberline {5.1}Theoretical Basis}{47}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Load shape regression-based Features}{47}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Change Point Model Regression}{50}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Seasonality and Trend Decomposition}{53}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Implementation and Discussion}{56}{section.5.2}
-\contentsline {chapter}{\numberline {6}Pattern-based Features}{65}{chapter.6}
-\contentsline {section}{\numberline {6.1}Theoretical Basis}{65}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Dirunal Pattern Extraction}{66}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Pattern Specificity}{72}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Long-term Pattern Consistency}{77}{subsection.6.1.3}
-\contentsline {section}{\numberline {6.2}Implementation and Discussion}{78}{section.6.2}
-\contentsline {chapter}{\numberline {7}Characterization of Building Use, Performance, and Operations}{84}{chapter.7}
-\contentsline {section}{\numberline {7.1}Principal Building Use}{84}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}University Dormitory and Laboratory Comparison}{86}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Discussion with Campus Case Study Subjects}{89}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}Characterization of Building Performance Class}{92}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}High versus Low Consumption Comparison}{95}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Discussion with Campus Case Study Subjects}{97}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}Characterization of Operations Strategies}{100}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Group 1 versus Group 2 Comparison}{102}{subsection.7.3.1}
-\contentsline {chapter}{\numberline {8}Characterization of Energy-Savings Measure Implementation Success}{106}{chapter.8}
-\contentsline {section}{\numberline {8.1}Predicting General Industry Membership}{106}{section.8.1}
-\contentsline {section}{\numberline {8.2}Energy Efficiency Measure Implementation Success Prediction}{109}{section.8.2}
-\contentsline {section}{\numberline {8.3}Discussion}{111}{section.8.3}
-\contentsline {chapter}{\numberline {9}Conclusion and Outlook}{113}{chapter.9}
-\contentsline {section}{\numberline {9.1}Outlook}{114}{section.9.1}
-\contentsline {section}{\numberline {9.2}Reproducible Research Outputs}{116}{section.9.2}
-\contentsline {chapter}{\numberline {A}Complete List of Generated Temporal Features}{117}{appendix.A}
-\contentsline {chapter}{\nonumberline Bibliography}{125}{appendix*.11}
+\contentsline {chapter}{\numberline {5}Regression Model-based Features}{48}{chapter.5}
+\contentsline {section}{\numberline {5.1}Theoretical Basis}{48}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Load shape regression-based Features}{48}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Change Point Model Regression}{51}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Seasonality and Trend Decomposition}{54}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Implementation and Discussion}{57}{section.5.2}
+\contentsline {chapter}{\numberline {6}Pattern-based Features}{66}{chapter.6}
+\contentsline {section}{\numberline {6.1}Theoretical Basis}{66}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Dirunal Pattern Extraction}{67}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Pattern Specificity}{73}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Long-term Pattern Consistency}{78}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Implementation and Discussion}{79}{section.6.2}
+\contentsline {chapter}{\numberline {7}Characterization of Building Use, Performance, and Operations}{85}{chapter.7}
+\contentsline {section}{\numberline {7.1}Principal Building Use}{85}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}University Dormitory and Laboratory Comparison}{88}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Discussion with Campus Case Study Subjects}{90}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Characterization of Building Performance Class}{94}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}High versus Low Consumption Comparison}{96}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Discussion with Campus Case Study Subjects}{99}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}Characterization of Operations Strategies}{101}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Group 1 versus Group 2 Comparison}{103}{subsection.7.3.1}
+\contentsline {chapter}{\numberline {8}Characterization of Energy-Savings Measure Implementation Success}{107}{chapter.8}
+\contentsline {section}{\numberline {8.1}Predicting General Industry Membership}{107}{section.8.1}
+\contentsline {section}{\numberline {8.2}Energy Efficiency Measure Implementation Success Prediction}{111}{section.8.2}
+\contentsline {section}{\numberline {8.3}Discussion}{112}{section.8.3}
+\contentsline {chapter}{\numberline {9}Conclusion and Outlook}{114}{chapter.9}
+\contentsline {section}{\numberline {9.1}Outlook}{116}{section.9.1}
+\contentsline {section}{\numberline {9.2}Reproducible Research Outputs}{118}{section.9.2}
+\contentsline {chapter}{\numberline {A}Complete List of Generated Temporal Features}{119}{appendix.A}
+\contentsline {chapter}{\nonumberline Bibliography}{127}{appendix*.11}

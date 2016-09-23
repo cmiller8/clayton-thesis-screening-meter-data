@@ -17,11 +17,11 @@ A level-1 auxiliary file: ch8_AMIData.aux
 A level-1 auxiliary file: ch9_Conclusions.aux
 A level-1 auxiliary file: App_temporalfeatures.aux
 Database file #1: main.bib
-Illegal end of database file---line 3126 of file main.bib
- :   file = {J. K. Kissock:/Users/Clayton/Library/Application Support/Zotero/Profiles/urt936ih.default/zotero/storage/TAD3DTF3/J_Kissock.html:text/html}
- :                                                                                                                                                      
+I was expecting a `,' or a `}'---line 3129 of file main.bib
+ : 
+ : @techreport{kreider_predicting_1994,
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "kreider_predicting_1994"
 Warning--to sort, need author or key in _journals_2014
 Warning--to sort, need author or key in _code_2014
 Warning--empty author in _code_2014
@@ -33,45 +33,45 @@ Warning--empty institution in greensfelder_building_2010
 Warning--empty year in Manning
 Warning--empty journal in the_white_house_fact_2016
 Warning--empty institution in ulickey_building_2010
-You've used 150 entries,
+You've used 151 entries,
             2441 wiz_defined-function locations,
-            1392 strings with 38273 characters,
-and the built_in function-call counts, 67038 in all, are:
-= -- 6546
-> -- 2623
-< -- 516
-+ -- 780
-- -- 775
-* -- 5711
-:= -- 10675
-add.period$ -- 642
-call.type$ -- 150
-change.case$ -- 926
-chr.to.int$ -- 147
-cite$ -- 163
-duplicate$ -- 2547
-empty$ -- 4976
-format.name$ -- 872
-if$ -- 13983
+            1396 strings with 38535 characters,
+and the built_in function-call counts, 67391 in all, are:
+= -- 6585
+> -- 2637
+< -- 520
++ -- 784
+- -- 779
+* -- 5737
+:= -- 10737
+add.period$ -- 647
+call.type$ -- 151
+change.case$ -- 933
+chr.to.int$ -- 148
+cite$ -- 164
+duplicate$ -- 2559
+empty$ -- 4998
+format.name$ -- 879
+if$ -- 14056
 int.to.chr$ -- 4
 int.to.str$ -- 0
 missing$ -- 150
-newline$ -- 793
-num.names$ -- 448
-pop$ -- 901
+newline$ -- 798
+num.names$ -- 451
+pop$ -- 908
 preamble$ -- 1
-purify$ -- 1075
+purify$ -- 1083
 quote$ -- 0
-skip$ -- 2663
+skip$ -- 2675
 stack$ -- 0
-substring$ -- 4490
-swap$ -- 736
+substring$ -- 4501
+swap$ -- 738
 text.length$ -- 45
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1170
+type$ -- 1178
 warning$ -- 11
-while$ -- 558
+while$ -- 560
 width$ -- 0
-write$ -- 1961
+write$ -- 1974
 (There was 1 error message)
