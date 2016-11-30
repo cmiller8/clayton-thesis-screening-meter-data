@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.10)  22 SEP 2016 22:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.10)  29 SEP 2016 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2118,9 +2118,9 @@ n input line 211.
 Package nag Warning: `center' environment in figure.
 (nag)                Maybe you want \centering instead on input line 215.
 
-
+[79]
 <figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8/jmotif_inclassspec_allb
-uildings_heatmap_24_8_8.png, id=1858, 61.26826pt x 72.08032pt>
+uildings_heatmap_24_8_8.png, id=1864, 61.26826pt x 72.08032pt>
 File: figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8/jmotif_inclassspec
 _allbuildings_heatmap_24_8_8.png Graphic file (type png)
 
@@ -2134,7 +2134,7 @@ Package pdftex.def Info: figures/jmotif_inclassspec_allbuildings_heatmap_24_8_8
 Package nag Warning: `center' environment in figure.
 (nag)                Maybe you want \centering instead on input line 226.
 
-[79]
+
 <figures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclassspec_al
 lbuildings_heatmap_168_6_14.png, id=1866, 61.26826pt x 72.08032pt>
 File: figures/jmotif_inclassspec_allbuildings_heatmap_168_6_14/jmotif_inclasssp
@@ -4004,7 +4004,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  13028 strings out of 493089
  222290 string characters out of 6134842
- 473880 words of memory out of 5000000
+ 473887 words of memory out of 5000000
  15524 multiletter control sequences out of 15000+600000
  24283 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4030,7 +4030,7 @@ ive/2015/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (146 pages, 12139200 bytes).
+Output written on main.pdf (146 pages, 12139844 bytes).
 PDF statistics:
  2387 PDF objects out of 2487 (max. 8388607)
  2024 compressed objects within 21 object streams
