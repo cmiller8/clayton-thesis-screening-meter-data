@@ -6,8 +6,11 @@ Data and analysis found at the [Building Data Genome Project](https://github.com
 
 Please cite:
 
-Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zürich, Zurich, Switzerland.
+## Miller, C., 2017. Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings. ETH Zürich, Zurich, Switzerland.
 
+## C. Miller, “Screening Meter Data: Characterization of Temporal Energy Data from Large Groups of Non-Residential Buildings,” ETH Zürich, Zurich, Switzerland, 2017.
+
+bibtex:
 
 @phdthesis{miller_screening_2017,
 	address = {Zurich, Switzerland},
